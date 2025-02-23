@@ -1,0 +1,2065 @@
+Date,Month,TimeOfDay,Item,PriceNaira,Quantity,IsWetSeason,IsInSeason,DaysSinceDelivery,StorageType,CurrentInflationRate,IsMarketDay,IsReligiousPeriod,TransportDisruption,SoldOut
+2024-January-01,January,Morning,Agric eggs medium size,1462.24,79,0,0,1,room,34.8,0,0,0,1
+2024-January-01,January,Morning,Beans brown,1338.58,82,0,0,5,room,34.8,1,0,0,1
+2024-January-01,January,Morning,Beans white black eye,1300.01,45,0,0,5,room,34.8,0,0,0,1
+2024-January-01,January,Morning,Beef Bone in,3678.47,81,0,0,4,cold,34.8,1,0,0,1
+2024-January-01,January,Morning,Beef boneless,6860.8,69,0,0,4,cold,34.8,1,1,0,1
+2024-January-01,January,Morning,Catfish (obokun) fresh,4390.87,31,0,0,1,cold,34.8,0,0,0,0
+2024-January-01,January,Morning,Catfish dried,6114.21,51,0,0,5,room,34.8,0,1,0,0
+2024-January-01,January,Morning,Chicken Wings,3595.79,83,0,0,2,cold,34.8,1,0,0,1
+2024-January-01,January,Morning,Tomato,475.17,66,0,1,4,room,34.8,0,0,0,1
+2024-January-01,January,Morning,Onion bulb,1032.06,74,0,0,5,room,34.8,0,1,0,1
+2024-January-01,January,Morning,Sweet potato,245.64,68,0,1,1,room,34.8,1,0,0,1
+2024-January-01,January,Morning,Yam tuber,789.9,75,0,0,2,room,34.8,0,0,0,1
+2024-January-01,January,Afternoon,Agric eggs medium size,1733.91,50,0,0,1,room,34.8,0,0,0,1
+2024-January-01,January,Afternoon,Beans brown,1399.54,62,0,0,4,room,34.8,0,0,0,1
+2024-January-01,January,Afternoon,Beans white black eye,1345.86,49,0,0,2,room,34.8,0,0,0,1
+2024-January-01,January,Afternoon,Beef Bone in,4322.58,49,0,0,3,cold,34.8,0,0,0,0
+2024-January-01,January,Afternoon,Beef boneless,6508.86,19,0,0,1,cold,34.8,0,0,0,1
+2024-January-01,January,Afternoon,Catfish (obokun) fresh,3584.92,37,0,0,2,cold,34.8,0,1,0,1
+2024-January-01,January,Afternoon,Catfish dried,5922.93,68,0,0,5,room,34.8,1,0,0,1
+2024-January-01,January,Afternoon,Chicken Wings,3465.36,28,0,0,1,cold,34.8,0,0,0,0
+2024-January-01,January,Afternoon,Tomato,607.25,61,0,1,5,room,34.8,0,0,0,1
+2024-January-01,January,Afternoon,Onion bulb,1171.06,24,0,0,2,room,34.8,0,0,0,1
+2024-January-01,January,Afternoon,Sweet potato,435.97,41,0,1,2,room,34.8,0,0,0,0
+2024-January-01,January,Afternoon,Yam tuber,827.4,29,0,0,3,room,34.8,0,0,0,0
+2024-January-01,January,Evening,Agric eggs medium size,1143.39,89,0,0,2,room,34.8,0,0,0,1
+2024-January-01,January,Evening,Beans brown,922.78,34,0,0,1,room,34.8,0,0,0,1
+2024-January-01,January,Evening,Beans white black eye,634.82,58,0,0,1,room,34.8,0,0,0,1
+2024-January-01,January,Evening,Beef Bone in,2297.0,54,0,0,5,cold,34.8,0,0,0,0
+2024-January-01,January,Evening,Beef boneless,4070.32,26,0,0,5,cold,34.8,0,0,0,0
+2024-January-01,January,Evening,Catfish (obokun) fresh,2989.52,53,0,0,2,cold,34.8,0,1,0,0
+2024-January-01,January,Evening,Catfish dried,2525.47,46,0,0,3,room,34.8,0,0,0,1
+2024-January-01,January,Evening,Chicken Wings,2789.68,43,0,0,2,cold,34.8,0,0,0,0
+2024-January-01,January,Evening,Tomato,410.72,48,0,1,2,room,34.8,1,0,0,1
+2024-January-01,January,Evening,Onion bulb,702.72,27,0,0,3,room,34.8,0,0,0,0
+2024-January-01,January,Evening,Sweet potato,360.23,46,0,1,3,room,34.8,1,1,0,1
+2024-January-01,January,Evening,Yam tuber,675.82,58,0,0,2,room,34.8,0,1,0,1
+2024-January-02,January,Morning,Agric eggs medium size,1605.99,72,0,0,2,room,34.8,1,0,0,1
+2024-January-02,January,Morning,Beans brown,1197.7,46,0,0,2,room,34.8,1,1,0,1
+2024-January-02,January,Morning,Beans white black eye,911.38,59,0,0,3,room,34.8,1,0,0,1
+2024-January-02,January,Morning,Beef Bone in,4597.96,54,0,0,1,cold,34.8,0,0,0,1
+2024-January-02,January,Morning,Beef boneless,4716.03,96,0,0,5,cold,34.8,1,0,0,1
+2024-January-02,January,Morning,Catfish (obokun) fresh,4199.94,58,0,0,1,cold,34.8,0,0,0,1
+2024-January-02,January,Morning,Catfish dried,7239.34,65,0,0,2,room,34.8,0,1,0,1
+2024-January-02,January,Morning,Chicken Wings,3603.54,56,0,0,3,cold,34.8,0,0,0,0
+2024-January-02,January,Morning,Tomato,628.19,80,0,1,5,room,34.8,1,0,0,1
+2024-January-02,January,Morning,Onion bulb,860.61,76,0,0,2,room,34.8,0,0,0,1
+2024-January-02,January,Morning,Sweet potato,305.68,53,0,1,3,room,34.8,0,0,0,0
+2024-January-02,January,Morning,Yam tuber,641.14,47,0,0,5,room,34.8,0,0,0,0
+2024-January-02,January,Afternoon,Agric eggs medium size,1478.52,56,0,0,2,room,34.8,1,0,0,0
+2024-January-02,January,Afternoon,Beans brown,1252.54,41,0,0,2,room,34.8,0,0,0,1
+2024-January-02,January,Afternoon,Beans white black eye,1145.44,37,0,0,2,room,34.8,0,0,0,1
+2024-January-02,January,Afternoon,Beef Bone in,4387.47,39,0,0,3,cold,34.8,0,0,0,0
+2024-January-02,January,Afternoon,Beef boneless,6940.55,46,0,0,3,cold,34.8,0,0,0,0
+2024-January-02,January,Afternoon,Catfish (obokun) fresh,3657.35,39,0,0,1,cold,34.8,0,1,0,1
+2024-January-02,January,Afternoon,Catfish dried,4829.37,57,0,0,2,room,34.8,1,0,0,1
+2024-January-02,January,Afternoon,Chicken Wings,3454.92,44,0,0,3,cold,34.8,0,0,0,1
+2024-January-02,January,Afternoon,Tomato,443.65,43,0,1,1,room,34.8,0,0,0,1
+2024-January-02,January,Afternoon,Onion bulb,1045.06,57,0,0,4,room,34.8,1,0,0,1
+2024-January-02,January,Afternoon,Sweet potato,433.24,52,0,1,1,room,34.8,1,0,0,1
+2024-January-02,January,Afternoon,Yam tuber,879.49,38,0,0,3,room,34.8,0,0,0,0
+2024-January-03,January,Morning,Agric eggs medium size,2176.59,41,0,0,5,room,34.8,0,1,0,0
+2024-January-03,January,Morning,Beans brown,1204.01,69,0,0,1,room,34.8,0,0,0,1
+2024-January-03,January,Morning,Beans white black eye,1228.28,57,0,0,4,room,34.8,0,1,0,1
+2024-January-03,January,Morning,Beef Bone in,4162.8,44,0,0,5,cold,34.8,0,0,0,1
+2024-January-03,January,Morning,Beef boneless,5751.28,62,0,0,3,cold,34.8,0,0,0,1
+2024-January-03,January,Morning,Catfish (obokun) fresh,3620.07,56,0,0,1,cold,34.8,0,0,0,1
+2024-January-03,January,Morning,Catfish dried,5078.91,29,0,0,1,room,34.8,0,0,0,0
+2024-January-03,January,Morning,Chicken Wings,4075.12,82,0,0,4,cold,34.8,0,0,0,0
+2024-January-03,January,Morning,Tomato,604.38,92,0,1,5,room,34.8,0,0,0,1
+2024-January-03,January,Morning,Onion bulb,891.08,75,0,0,3,room,34.8,0,0,0,1
+2024-January-03,January,Morning,Sweet potato,485.96,42,0,1,3,room,34.8,0,0,0,1
+2024-January-03,January,Morning,Yam tuber,1195.7,81,0,0,5,room,34.8,0,0,0,1
+2024-January-03,January,Afternoon,Agric eggs medium size,1611.07,26,0,0,1,room,34.8,0,0,0,0
+2024-January-03,January,Afternoon,Beans brown,1547.98,43,0,0,4,room,34.8,0,0,0,0
+2024-January-03,January,Afternoon,Beans white black eye,1194.98,48,0,0,1,room,34.8,0,0,0,0
+2024-January-03,January,Afternoon,Beef Bone in,4146.96,49,0,0,5,cold,34.8,0,0,0,1
+2024-January-03,January,Afternoon,Beef boneless,5685.15,69,0,0,3,cold,34.8,0,0,0,1
+2024-January-03,January,Afternoon,Catfish (obokun) fresh,4107.03,59,0,0,1,cold,34.8,0,0,0,1
+2024-January-03,January,Afternoon,Catfish dried,6837.56,41,0,0,3,room,34.8,0,1,0,1
+2024-January-03,January,Afternoon,Chicken Wings,3334.29,60,0,0,5,cold,34.8,0,0,0,0
+2024-January-03,January,Afternoon,Tomato,594.59,61,0,1,3,room,34.8,0,0,0,1
+2024-January-03,January,Afternoon,Onion bulb,972.4,54,0,0,1,room,34.8,0,0,0,0
+2024-January-03,January,Afternoon,Sweet potato,387.8,40,0,1,5,room,34.8,1,0,0,1
+2024-January-03,January,Afternoon,Yam tuber,978.64,63,0,0,4,room,34.8,0,0,0,0
+2024-January-03,January,Evening,Agric eggs medium size,1310.68,44,0,0,4,room,34.8,0,0,0,0
+2024-January-03,January,Evening,Beans brown,1042.69,36,0,0,2,room,34.8,0,0,0,1
+2024-January-03,January,Evening,Beans white black eye,1064.49,48,0,0,2,room,34.8,0,0,0,0
+2024-January-03,January,Evening,Beef Bone in,2997.74,35,0,0,5,cold,34.8,0,0,0,0
+2024-January-03,January,Evening,Beef boneless,4262.17,61,0,0,3,cold,34.8,1,0,0,0
+2024-January-03,January,Evening,Catfish (obokun) fresh,2855.0,31,0,0,1,cold,34.8,0,1,0,1
+2024-January-03,January,Evening,Catfish dried,2601.18,56,0,0,2,room,34.8,0,0,0,0
+2024-January-03,January,Evening,Chicken Wings,3017.78,42,0,0,4,cold,34.8,1,1,0,1
+2024-January-03,January,Evening,Tomato,376.76,54,0,1,1,room,34.8,0,0,0,1
+2024-January-03,January,Evening,Onion bulb,898.61,55,0,0,4,room,34.8,0,0,0,1
+2024-January-03,January,Evening,Sweet potato,386.96,39,0,1,2,room,34.8,0,0,0,1
+2024-January-03,January,Evening,Yam tuber,516.03,38,0,0,3,room,34.8,0,0,0,1
+2024-January-04,January,Morning,Agric eggs medium size,2035.43,63,0,0,5,room,34.8,0,0,0,0
+2024-January-04,January,Morning,Beans brown,1077.85,74,0,0,4,room,34.8,1,0,0,1
+2024-January-04,January,Morning,Beans white black eye,1270.61,88,0,0,5,room,34.8,1,0,0,1
+2024-January-04,January,Morning,Beef Bone in,4301.49,49,0,0,4,cold,34.8,0,0,0,1
+2024-January-04,January,Morning,Beef boneless,4761.76,90,0,0,3,cold,34.8,1,0,0,1
+2024-January-04,January,Morning,Catfish (obokun) fresh,5051.77,125,0,0,5,cold,34.8,0,0,0,0
+2024-January-04,January,Morning,Catfish dried,6013.39,81,0,0,2,room,34.8,0,0,0,1
+2024-January-04,January,Morning,Chicken Wings,3172.31,107,0,0,4,cold,34.8,1,0,0,1
+2024-January-04,January,Morning,Tomato,728.04,65,0,1,4,room,34.8,0,1,0,1
+2024-January-04,January,Morning,Onion bulb,920.36,53,0,0,3,room,34.8,0,0,0,1
+2024-January-04,January,Morning,Sweet potato,577.7,46,0,1,3,room,34.8,0,1,0,1
+2024-January-04,January,Morning,Yam tuber,800.02,74,0,0,3,room,34.8,0,0,0,0
+2024-January-04,January,Afternoon,Agric eggs medium size,1495.39,48,0,0,2,room,34.8,0,0,0,0
+2024-January-04,January,Afternoon,Beans brown,1367.52,38,0,0,3,room,34.8,0,0,0,0
+2024-January-04,January,Afternoon,Beans white black eye,1256.28,52,0,0,1,room,34.8,0,0,0,1
+2024-January-04,January,Afternoon,Beef Bone in,3244.56,54,0,0,3,cold,34.8,1,0,0,0
+2024-January-04,January,Afternoon,Beef boneless,5183.98,57,0,0,1,cold,34.8,0,0,0,0
+2024-January-04,January,Afternoon,Catfish (obokun) fresh,3570.27,25,0,0,3,cold,34.8,0,0,0,1
+2024-January-04,January,Afternoon,Catfish dried,4347.58,37,0,0,2,room,34.8,0,0,0,1
+2024-January-04,January,Afternoon,Chicken Wings,4727.62,37,0,0,2,cold,34.8,0,0,0,1
+2024-January-04,January,Afternoon,Tomato,866.94,10,0,1,3,room,34.8,0,0,0,0
+2024-January-04,January,Afternoon,Onion bulb,1112.24,76,0,0,3,room,34.8,0,0,0,1
+2024-January-04,January,Afternoon,Sweet potato,442.5,71,0,1,1,room,34.8,0,0,0,1
+2024-January-04,January,Afternoon,Yam tuber,800.19,42,0,0,2,room,34.8,0,0,0,1
+2024-January-04,January,Evening,Agric eggs medium size,1367.17,27,0,0,5,room,34.8,0,0,0,0
+2024-January-04,January,Evening,Beans brown,1180.27,24,0,0,4,room,34.8,1,0,0,0
+2024-January-04,January,Evening,Beans white black eye,1136.45,27,0,0,1,room,34.8,0,1,0,1
+2024-January-04,January,Evening,Beef Bone in,1715.17,15,0,0,3,cold,34.8,0,0,0,0
+2024-January-04,January,Evening,Beef boneless,2985.91,27,0,0,2,cold,34.8,0,0,0,1
+2024-January-04,January,Evening,Catfish (obokun) fresh,2601.89,42,0,0,5,cold,34.8,0,0,0,0
+2024-January-04,January,Evening,Catfish dried,4433.46,53,0,0,3,room,34.8,0,0,0,1
+2024-January-04,January,Evening,Chicken Wings,3079.88,39,0,0,1,cold,34.8,0,1,0,0
+2024-January-04,January,Evening,Tomato,725.76,63,0,1,5,room,34.8,0,0,0,1
+2024-January-04,January,Evening,Onion bulb,787.34,19,0,0,5,room,34.8,0,0,0,1
+2024-January-04,January,Evening,Sweet potato,320.85,40,0,1,4,room,34.8,0,0,0,0
+2024-January-04,January,Evening,Yam tuber,1033.85,43,0,0,5,room,34.8,0,0,0,1
+2024-January-05,January,Morning,Agric eggs medium size,1665.97,95,0,0,2,room,34.8,0,0,0,1
+2024-January-05,January,Morning,Beans brown,1511.46,19,0,0,5,room,34.8,0,0,0,0
+2024-January-05,January,Morning,Beans white black eye,1102.21,53,0,0,3,room,34.8,0,0,0,1
+2024-January-05,January,Morning,Beef Bone in,4620.46,71,0,0,2,cold,34.8,0,0,0,1
+2024-January-05,January,Morning,Beef boneless,5547.22,74,0,0,3,cold,34.8,0,0,0,0
+2024-January-05,January,Morning,Catfish (obokun) fresh,3719.2,85,0,0,2,cold,34.8,0,0,0,1
+2024-January-05,January,Morning,Catfish dried,7984.01,99,0,0,5,room,34.8,0,1,0,1
+2024-January-05,January,Morning,Chicken Wings,3776.47,63,0,0,5,cold,34.8,0,0,0,0
+2024-January-05,January,Morning,Tomato,743.35,57,0,1,4,room,34.8,0,0,0,1
+2024-January-05,January,Morning,Onion bulb,1033.69,78,0,0,4,room,34.8,0,0,0,1
+2024-January-05,January,Morning,Sweet potato,411.09,73,0,1,5,room,34.8,0,0,0,1
+2024-January-05,January,Morning,Yam tuber,933.98,58,0,0,5,room,34.8,0,0,0,1
+2024-January-05,January,Afternoon,Agric eggs medium size,1782.35,25,0,0,5,room,34.8,1,0,0,0
+2024-January-05,January,Afternoon,Beans brown,1221.47,82,0,0,5,room,34.8,1,0,0,1
+2024-January-05,January,Afternoon,Beans white black eye,1232.36,91,0,0,3,room,34.8,1,0,0,1
+2024-January-05,January,Afternoon,Beef Bone in,3983.22,57,0,0,2,cold,34.8,0,0,0,0
+2024-January-05,January,Afternoon,Beef boneless,5809.87,65,0,0,2,cold,34.8,0,0,0,1
+2024-January-05,January,Afternoon,Catfish (obokun) fresh,4954.84,60,0,0,2,cold,34.8,0,0,0,0
+2024-January-05,January,Afternoon,Catfish dried,5529.42,60,0,0,3,room,34.8,0,1,0,1
+2024-January-05,January,Afternoon,Chicken Wings,3089.39,75,0,0,1,cold,34.8,1,0,0,0
+2024-January-05,January,Afternoon,Tomato,534.7,46,0,1,1,room,34.8,0,0,0,1
+2024-January-05,January,Afternoon,Onion bulb,1258.78,92,0,0,3,room,34.8,1,1,0,1
+2024-January-05,January,Afternoon,Sweet potato,562.95,82,0,1,1,room,34.8,0,0,0,0
+2024-January-05,January,Afternoon,Yam tuber,1150.48,57,0,0,5,room,34.8,0,0,0,1
+2024-January-05,January,Evening,Agric eggs medium size,614.78,30,0,0,1,room,34.8,0,0,0,0
+2024-January-05,January,Evening,Beans brown,747.13,32,0,0,1,room,34.8,0,0,0,0
+2024-January-05,January,Evening,Beans white black eye,854.72,38,0,0,4,room,34.8,0,0,0,0
+2024-January-05,January,Evening,Beef Bone in,2850.22,43,0,0,3,cold,34.8,0,0,0,1
+2024-January-05,January,Evening,Beef boneless,6433.45,56,0,0,3,cold,34.8,0,1,0,1
+2024-January-05,January,Evening,Catfish (obokun) fresh,3234.2,20,0,0,3,cold,34.8,0,1,0,0
+2024-January-05,January,Evening,Catfish dried,4963.21,43,0,0,4,room,34.8,0,1,0,1
+2024-January-05,January,Evening,Chicken Wings,2312.09,38,0,0,3,cold,34.8,0,0,0,0
+2024-January-05,January,Evening,Tomato,470.63,29,0,1,2,room,34.8,0,0,0,1
+2024-January-05,January,Evening,Onion bulb,576.25,32,0,0,4,room,34.8,0,0,0,1
+2024-January-05,January,Evening,Sweet potato,328.4,46,0,1,1,room,34.8,0,0,0,1
+2024-January-05,January,Evening,Yam tuber,752.62,36,0,0,4,room,34.8,0,0,0,0
+2024-January-06,January,Morning,Agric eggs medium size,1644.74,59,0,0,1,room,34.8,0,0,0,1
+2024-January-06,January,Morning,Beans brown,1198.39,52,0,0,1,room,34.8,0,0,0,0
+2024-January-06,January,Morning,Beans white black eye,994.85,46,0,0,1,room,34.8,0,0,0,1
+2024-January-06,January,Morning,Beef Bone in,3527.84,10,0,0,5,cold,34.8,0,0,0,0
+2024-January-06,January,Morning,Beef boneless,5041.78,62,0,0,2,cold,34.8,0,0,0,1
+2024-January-06,January,Morning,Catfish (obokun) fresh,3959.68,48,0,0,2,cold,34.8,0,0,0,0
+2024-January-06,January,Morning,Catfish dried,5169.19,83,0,0,1,room,34.8,0,0,0,0
+2024-January-06,January,Morning,Chicken Wings,3738.5,83,0,0,4,cold,34.8,0,0,0,1
+2024-January-06,January,Morning,Tomato,580.77,50,0,1,2,room,34.8,0,1,0,1
+2024-January-06,January,Morning,Onion bulb,1569.31,70,0,0,5,room,34.8,0,1,0,1
+2024-January-06,January,Morning,Sweet potato,375.11,37,0,1,1,room,34.8,0,0,0,0
+2024-January-06,January,Morning,Yam tuber,616.19,44,0,0,5,room,34.8,1,0,0,1
+2024-January-06,January,Afternoon,Agric eggs medium size,1492.16,65,0,0,1,room,34.8,1,0,0,1
+2024-January-06,January,Afternoon,Beans brown,1458.96,72,0,0,4,room,34.8,0,0,0,1
+2024-January-06,January,Afternoon,Beans white black eye,1228.24,32,0,0,3,room,34.8,0,0,0,0
+2024-January-06,January,Afternoon,Beef Bone in,4126.74,51,0,0,2,cold,34.8,0,0,0,0
+2024-January-06,January,Afternoon,Beef boneless,5353.93,72,0,0,4,cold,34.8,0,0,0,0
+2024-January-06,January,Afternoon,Catfish (obokun) fresh,3870.91,50,0,0,4,cold,34.8,1,0,0,1
+2024-January-06,January,Afternoon,Catfish dried,4833.77,75,0,0,2,room,34.8,1,0,0,1
+2024-January-06,January,Afternoon,Chicken Wings,3812.19,35,0,0,5,cold,34.8,0,0,0,1
+2024-January-06,January,Afternoon,Tomato,988.16,32,0,1,2,room,34.8,0,1,0,1
+2024-January-06,January,Afternoon,Onion bulb,820.48,37,0,0,2,room,34.8,0,0,0,1
+2024-January-06,January,Afternoon,Sweet potato,285.08,64,0,1,2,room,34.8,1,0,0,1
+2024-January-06,January,Afternoon,Yam tuber,920.87,44,0,0,4,room,34.8,0,0,0,0
+2024-January-07,January,Morning,Agric eggs medium size,1529.38,95,0,0,2,room,34.8,0,0,0,1
+2024-January-07,January,Morning,Beans brown,1164.65,58,0,0,4,room,34.8,0,0,0,1
+2024-January-07,January,Morning,Beans white black eye,1215.14,73,0,0,2,room,34.8,0,1,0,1
+2024-January-07,January,Morning,Beef Bone in,5252.29,49,0,0,2,cold,34.8,0,0,0,0
+2024-January-07,January,Morning,Beef boneless,5880.42,40,0,0,5,cold,34.8,0,1,0,1
+2024-January-07,January,Morning,Catfish (obokun) fresh,4499.52,57,0,0,2,cold,34.8,0,0,0,0
+2024-January-07,January,Morning,Catfish dried,6391.94,52,0,0,2,room,34.8,0,1,0,1
+2024-January-07,January,Morning,Chicken Wings,3802.65,48,0,0,2,cold,34.8,0,0,0,0
+2024-January-07,January,Morning,Tomato,641.94,34,0,1,3,room,34.8,0,0,0,1
+2024-January-07,January,Morning,Onion bulb,1076.65,78,0,0,1,room,34.8,0,0,0,1
+2024-January-07,January,Morning,Sweet potato,313.54,58,0,1,1,room,34.8,0,0,0,1
+2024-January-07,January,Morning,Yam tuber,896.21,10,0,0,1,room,34.8,0,0,0,0
+2024-January-07,January,Afternoon,Agric eggs medium size,1596.24,49,0,0,3,room,34.8,0,0,0,1
+2024-January-07,January,Afternoon,Beans brown,1327.2,48,0,0,3,room,34.8,0,0,0,1
+2024-January-07,January,Afternoon,Beans white black eye,1219.74,41,0,0,3,room,34.8,0,0,0,0
+2024-January-07,January,Afternoon,Beef Bone in,3794.25,53,0,0,4,cold,34.8,0,0,0,1
+2024-January-07,January,Afternoon,Beef boneless,4990.95,44,0,0,4,cold,34.8,0,0,0,1
+2024-January-07,January,Afternoon,Catfish (obokun) fresh,4076.85,83,0,0,5,cold,34.8,1,1,0,1
+2024-January-07,January,Afternoon,Catfish dried,4758.18,30,0,0,4,room,34.8,1,0,0,0
+2024-January-07,January,Afternoon,Chicken Wings,3422.86,82,0,0,4,cold,34.8,0,0,0,1
+2024-January-07,January,Afternoon,Tomato,725.27,31,0,1,5,room,34.8,0,0,0,0
+2024-January-07,January,Afternoon,Onion bulb,1132.14,54,0,0,4,room,34.8,0,0,0,0
+2024-January-07,January,Afternoon,Sweet potato,405.92,83,0,1,1,room,34.8,1,1,0,1
+2024-January-07,January,Afternoon,Yam tuber,951.16,70,0,0,4,room,34.8,1,0,0,1
+2024-January-07,January,Evening,Agric eggs medium size,1008.54,81,0,0,1,room,34.8,0,0,0,1
+2024-January-07,January,Evening,Beans brown,880.18,44,0,0,4,room,34.8,0,0,0,0
+2024-January-07,January,Evening,Beans white black eye,938.55,81,0,0,5,room,34.8,0,0,0,0
+2024-January-07,January,Evening,Beef Bone in,1375.26,35,0,0,2,cold,34.8,0,0,0,0
+2024-January-07,January,Evening,Beef boneless,3957.8,66,0,0,3,cold,34.8,1,1,0,1
+2024-January-07,January,Evening,Catfish (obokun) fresh,3542.04,34,0,0,5,cold,34.8,0,0,0,0
+2024-January-07,January,Evening,Catfish dried,6432.35,43,0,0,4,room,34.8,0,0,0,0
+2024-January-07,January,Evening,Chicken Wings,2855.17,58,0,0,5,cold,34.8,0,0,0,0
+2024-January-07,January,Evening,Tomato,775.45,23,0,1,3,room,34.8,0,0,0,1
+2024-January-07,January,Evening,Onion bulb,1056.48,37,0,0,5,room,34.8,0,0,0,0
+2024-January-07,January,Evening,Sweet potato,360.71,38,0,1,5,room,34.8,0,0,0,1
+2024-January-07,January,Evening,Yam tuber,498.5,47,0,0,4,room,34.8,0,1,0,1
+2024-January-08,January,Morning,Agric eggs medium size,1990.11,56,0,0,3,room,34.8,0,0,0,0
+2024-January-08,January,Morning,Beans brown,1067.23,56,0,0,1,room,34.8,0,0,0,0
+2024-January-08,January,Morning,Beans white black eye,1028.04,79,0,0,4,room,34.8,0,0,0,1
+2024-January-08,January,Morning,Beef Bone in,4619.15,47,0,0,2,cold,34.8,0,0,0,1
+2024-January-08,January,Morning,Beef boneless,6159.31,56,0,0,3,cold,34.8,0,0,0,0
+2024-January-08,January,Morning,Catfish (obokun) fresh,3810.46,81,0,0,3,cold,34.8,0,0,0,1
+2024-January-08,January,Morning,Catfish dried,5933.91,46,0,0,4,room,34.8,0,0,0,1
+2024-January-08,January,Morning,Chicken Wings,3895.36,72,0,0,5,cold,34.8,1,1,0,1
+2024-January-08,January,Morning,Tomato,673.79,48,0,1,2,room,34.8,0,0,0,1
+2024-January-08,January,Morning,Onion bulb,903.96,62,0,0,2,room,34.8,0,0,0,1
+2024-January-08,January,Morning,Sweet potato,349.37,59,0,1,1,room,34.8,0,0,0,1
+2024-January-08,January,Morning,Yam tuber,789.62,25,0,0,1,room,34.8,0,0,0,0
+2024-January-08,January,Afternoon,Agric eggs medium size,1632.35,58,0,0,2,room,34.8,0,0,0,0
+2024-January-08,January,Afternoon,Beans brown,1439.78,35,0,0,4,room,34.8,0,0,0,1
+2024-January-08,January,Afternoon,Beans white black eye,1044.09,42,0,0,3,room,34.8,0,0,0,0
+2024-January-08,January,Afternoon,Beef Bone in,3938.43,51,0,0,5,cold,34.8,0,0,0,0
+2024-January-08,January,Afternoon,Beef boneless,5605.01,95,0,0,1,cold,34.8,1,0,0,1
+2024-January-08,January,Afternoon,Catfish (obokun) fresh,3852.36,51,0,0,3,cold,34.8,0,0,0,1
+2024-January-08,January,Afternoon,Catfish dried,5018.15,58,0,0,1,room,34.8,0,0,0,1
+2024-January-08,January,Afternoon,Chicken Wings,3497.05,57,0,0,2,cold,34.8,0,0,0,1
+2024-January-08,January,Afternoon,Tomato,646.64,53,0,1,2,room,34.8,0,0,0,1
+2024-January-08,January,Afternoon,Onion bulb,962.6,70,0,0,4,room,34.8,0,0,0,1
+2024-January-08,January,Afternoon,Sweet potato,339.9,59,0,1,3,room,34.8,0,0,0,1
+2024-January-08,January,Afternoon,Yam tuber,796.05,55,0,0,4,room,34.8,0,0,0,0
+2024-January-08,January,Evening,Agric eggs medium size,1072.63,50,0,0,3,room,34.8,1,0,0,0
+2024-January-08,January,Evening,Beans brown,1207.27,25,0,0,5,room,34.8,0,0,0,0
+2024-January-08,January,Evening,Beans white black eye,978.15,31,0,0,1,room,34.8,0,0,0,0
+2024-January-08,January,Evening,Beef Bone in,3133.98,39,0,0,2,cold,34.8,0,0,0,0
+2024-January-08,January,Evening,Beef boneless,2567.56,39,0,0,2,cold,34.8,0,0,0,1
+2024-January-08,January,Evening,Catfish (obokun) fresh,2016.28,29,0,0,5,cold,34.8,0,0,0,1
+2024-January-08,January,Evening,Catfish dried,3563.38,41,0,0,3,room,34.8,0,0,0,0
+2024-January-08,January,Evening,Chicken Wings,2524.53,28,0,0,1,cold,34.8,0,0,0,0
+2024-January-08,January,Evening,Tomato,570.22,40,0,1,5,room,34.8,0,0,0,0
+2024-January-08,January,Evening,Onion bulb,798.34,68,0,0,5,room,34.8,0,0,0,1
+2024-January-08,January,Evening,Sweet potato,227.9,57,0,1,1,room,34.8,1,0,0,1
+2024-January-08,January,Evening,Yam tuber,543.09,31,0,0,3,room,34.8,0,0,0,0
+2024-January-09,January,Morning,Agric eggs medium size,1667.46,32,0,0,2,room,34.8,0,0,0,0
+2024-January-09,January,Morning,Beans brown,1410.33,41,0,0,4,room,34.8,0,0,0,1
+2024-January-09,January,Morning,Beans white black eye,1208.7,57,0,0,3,room,34.8,0,0,0,1
+2024-January-09,January,Morning,Beef Bone in,4406.65,76,0,0,1,cold,34.8,0,0,0,1
+2024-January-09,January,Morning,Beef boneless,6877.32,66,0,0,3,cold,34.8,0,1,0,1
+2024-January-09,January,Morning,Catfish (obokun) fresh,3654.92,59,0,0,1,cold,34.8,0,0,0,1
+2024-January-09,January,Morning,Catfish dried,5218.01,80,0,0,1,room,34.8,1,0,0,1
+2024-January-09,January,Morning,Chicken Wings,3984.9,73,0,0,3,cold,34.8,0,0,0,1
+2024-January-09,January,Morning,Tomato,703.81,65,0,1,5,room,34.8,0,0,0,1
+2024-January-09,January,Morning,Onion bulb,834.82,56,0,0,3,room,34.8,0,0,0,1
+2024-January-09,January,Morning,Sweet potato,298.45,47,0,1,1,room,34.8,0,0,0,1
+2024-January-09,January,Morning,Yam tuber,998.93,47,0,0,4,room,34.8,0,0,0,1
+2024-January-09,January,Afternoon,Agric eggs medium size,1846.45,41,0,0,2,room,34.8,0,1,0,0
+2024-January-09,January,Afternoon,Beans brown,1753.15,68,0,0,5,room,34.8,0,0,0,0
+2024-January-09,January,Afternoon,Beans white black eye,1349.78,47,0,0,3,room,34.8,0,0,0,1
+2024-January-09,January,Afternoon,Beef Bone in,5546.45,59,0,0,3,cold,34.8,0,1,0,0
+2024-January-09,January,Afternoon,Beef boneless,5365.16,71,0,0,2,cold,34.8,0,0,0,0
+2024-January-09,January,Afternoon,Catfish (obokun) fresh,3258.9,56,0,0,1,cold,34.8,1,0,0,1
+2024-January-09,January,Afternoon,Catfish dried,3886.82,42,0,0,1,room,34.8,0,0,0,0
+2024-January-09,January,Afternoon,Chicken Wings,3833.71,44,0,0,1,cold,34.8,0,0,0,1
+2024-January-09,January,Afternoon,Tomato,603.8,63,0,1,1,room,34.8,0,0,0,1
+2024-January-09,January,Afternoon,Onion bulb,930.96,47,0,0,2,room,34.8,0,0,0,0
+2024-January-09,January,Afternoon,Sweet potato,273.85,67,0,1,1,room,34.8,1,0,0,1
+2024-January-09,January,Afternoon,Yam tuber,722.33,68,0,0,2,room,34.8,0,1,0,1
+2024-January-09,January,Evening,Agric eggs medium size,1354.57,31,0,0,4,room,34.8,0,0,0,0
+2024-January-09,January,Evening,Beans brown,773.85,79,0,0,5,room,34.8,0,0,0,0
+2024-January-09,January,Evening,Beans white black eye,963.32,48,0,0,4,room,34.8,1,0,0,1
+2024-January-09,January,Evening,Beef Bone in,3318.46,48,0,0,4,cold,34.8,0,0,0,1
+2024-January-09,January,Evening,Beef boneless,5352.97,29,0,0,4,cold,34.8,0,1,0,0
+2024-January-09,January,Evening,Catfish (obokun) fresh,2441.58,75,0,0,5,cold,34.8,0,0,0,1
+2024-January-09,January,Evening,Catfish dried,2519.53,20,0,0,2,room,34.8,0,0,0,0
+2024-January-09,January,Evening,Chicken Wings,2034.39,33,0,0,3,cold,34.8,0,0,0,0
+2024-January-09,January,Evening,Tomato,376.76,58,0,1,3,room,34.8,1,0,0,1
+2024-January-09,January,Evening,Onion bulb,614.28,42,0,0,3,room,34.8,0,0,0,0
+2024-January-09,January,Evening,Sweet potato,289.36,31,0,1,5,room,34.8,0,0,0,1
+2024-January-09,January,Evening,Yam tuber,694.91,49,0,0,3,room,34.8,0,0,0,0
+2024-January-10,January,Morning,Agric eggs medium size,2050.01,48,0,0,1,room,34.8,0,1,0,1
+2024-January-10,January,Morning,Beans brown,1042.07,29,0,0,1,room,34.8,0,0,0,1
+2024-January-10,January,Morning,Beans white black eye,1269.23,86,0,0,3,room,34.8,0,0,0,0
+2024-January-10,January,Morning,Beef Bone in,4414.15,98,0,0,5,cold,34.8,0,0,0,0
+2024-January-10,January,Morning,Beef boneless,6129.04,74,0,0,2,cold,34.8,0,0,0,1
+2024-January-10,January,Morning,Catfish (obokun) fresh,3886.34,71,0,0,2,cold,34.8,0,0,0,0
+2024-January-10,January,Morning,Catfish dried,5183.15,80,0,0,1,room,34.8,0,0,0,1
+2024-January-10,January,Morning,Chicken Wings,3764.51,96,0,0,3,cold,34.8,0,0,0,1
+2024-January-10,January,Morning,Tomato,932.43,64,0,1,2,room,34.8,0,0,0,1
+2024-January-10,January,Morning,Onion bulb,741.45,67,0,0,1,room,34.8,1,0,0,1
+2024-January-10,January,Morning,Sweet potato,398.09,89,0,1,3,room,34.8,0,0,0,1
+2024-January-10,January,Morning,Yam tuber,747.62,52,0,0,4,room,34.8,0,0,0,0
+2024-January-10,January,Evening,Agric eggs medium size,1550.63,37,0,0,4,room,34.8,0,0,0,0
+2024-January-10,January,Evening,Beans brown,842.92,37,0,0,3,room,34.8,0,0,0,1
+2024-January-10,January,Evening,Beans white black eye,1170.23,43,0,0,4,room,34.8,1,0,0,1
+2024-January-10,January,Evening,Beef Bone in,3998.61,35,0,0,5,cold,34.8,0,0,0,0
+2024-January-10,January,Evening,Beef boneless,2829.31,29,0,0,1,cold,34.8,0,0,0,1
+2024-January-10,January,Evening,Catfish (obokun) fresh,3503.62,23,0,0,5,cold,34.8,0,1,0,0
+2024-January-10,January,Evening,Catfish dried,4467.41,72,0,0,3,room,34.8,1,0,0,0
+2024-January-10,January,Evening,Chicken Wings,2135.68,54,0,0,2,cold,34.8,0,1,0,1
+2024-January-10,January,Evening,Tomato,521.11,28,0,1,2,room,34.8,1,1,0,1
+2024-January-10,January,Evening,Onion bulb,926.05,16,0,0,1,room,34.8,0,1,0,1
+2024-January-10,January,Evening,Sweet potato,209.58,39,0,1,5,room,34.8,0,0,0,1
+2024-January-10,January,Evening,Yam tuber,644.13,33,0,0,3,room,34.8,0,0,0,0
+2024-January-11,January,Morning,Agric eggs medium size,2090.9,59,0,0,4,room,34.8,0,0,0,1
+2024-January-11,January,Morning,Beans brown,1271.11,75,0,0,1,room,34.8,0,0,0,0
+2024-January-11,January,Morning,Beans white black eye,1245.33,38,0,0,5,room,34.8,0,0,0,1
+2024-January-11,January,Morning,Beef Bone in,4110.56,61,0,0,3,cold,34.8,1,0,0,1
+2024-January-11,January,Morning,Beef boneless,5274.03,46,0,0,4,cold,34.8,0,0,0,0
+2024-January-11,January,Morning,Catfish (obokun) fresh,3574.72,66,0,0,5,cold,34.8,0,0,0,0
+2024-January-11,January,Morning,Catfish dried,6367.87,47,0,0,3,room,34.8,0,0,0,0
+2024-January-11,January,Morning,Chicken Wings,3632.07,64,0,0,1,cold,34.8,1,0,0,0
+2024-January-11,January,Morning,Tomato,628.55,44,0,1,4,room,34.8,0,0,0,1
+2024-January-11,January,Morning,Onion bulb,873.62,64,0,0,1,room,34.8,0,0,0,1
+2024-January-11,January,Morning,Sweet potato,296.21,63,0,1,2,room,34.8,0,0,0,1
+2024-January-11,January,Morning,Yam tuber,799.58,43,0,0,5,room,34.8,0,0,0,1
+2024-January-11,January,Afternoon,Agric eggs medium size,2375.17,43,0,0,3,room,34.8,0,1,0,1
+2024-January-11,January,Afternoon,Beans brown,1353.41,51,0,0,4,room,34.8,0,0,0,0
+2024-January-11,January,Afternoon,Beans white black eye,1413.53,26,0,0,5,room,34.8,0,0,0,0
+2024-January-11,January,Afternoon,Beef Bone in,4621.12,45,0,0,3,cold,34.8,0,0,0,0
+2024-January-11,January,Afternoon,Beef boneless,6097.82,50,0,0,1,cold,34.8,0,0,0,0
+2024-January-11,January,Afternoon,Catfish (obokun) fresh,3330.03,66,0,0,4,cold,34.8,0,0,0,1
+2024-January-11,January,Afternoon,Catfish dried,5244.42,49,0,0,4,room,34.8,0,0,0,0
+2024-January-11,January,Afternoon,Chicken Wings,3460.69,45,0,0,3,cold,34.8,1,0,0,1
+2024-January-11,January,Afternoon,Tomato,825.05,45,0,1,3,room,34.8,0,1,0,1
+2024-January-11,January,Afternoon,Onion bulb,1098.6,77,0,0,3,room,34.8,0,0,0,1
+2024-January-11,January,Afternoon,Sweet potato,266.57,55,0,1,3,room,34.8,0,0,0,1
+2024-January-11,January,Afternoon,Yam tuber,770.94,27,0,0,3,room,34.8,0,0,0,0
+2024-January-11,January,Evening,Agric eggs medium size,1184.45,53,0,0,2,room,34.8,0,0,0,0
+2024-January-11,January,Evening,Beans brown,1020.65,67,0,0,2,room,34.8,0,0,0,1
+2024-January-11,January,Evening,Beans white black eye,730.73,42,0,0,1,room,34.8,0,0,0,0
+2024-January-11,January,Evening,Beef Bone in,3096.1,20,0,0,5,cold,34.8,0,0,0,0
+2024-January-11,January,Evening,Beef boneless,5383.91,41,0,0,2,cold,34.8,0,0,0,0
+2024-January-11,January,Evening,Catfish (obokun) fresh,2798.51,30,0,0,4,cold,34.8,0,0,0,0
+2024-January-11,January,Evening,Catfish dried,4698.23,55,0,0,4,room,34.8,0,0,0,0
+2024-January-11,January,Evening,Chicken Wings,1887.49,24,0,0,5,cold,34.8,0,0,0,1
+2024-January-11,January,Evening,Tomato,589.75,44,0,1,2,room,34.8,0,0,0,1
+2024-January-11,January,Evening,Onion bulb,847.85,49,0,0,5,room,34.8,0,0,0,1
+2024-January-11,January,Evening,Sweet potato,305.98,46,0,1,4,room,34.8,0,0,0,1
+2024-January-11,January,Evening,Yam tuber,741.98,27,0,0,5,room,34.8,0,0,0,0
+2024-January-12,January,Morning,Agric eggs medium size,1460.94,93,0,0,1,room,34.8,1,0,0,0
+2024-January-12,January,Morning,Beans brown,1484.65,65,0,0,5,room,34.8,0,0,0,1
+2024-January-12,January,Morning,Beans white black eye,1083.15,70,0,0,1,room,34.8,0,0,0,0
+2024-January-12,January,Morning,Beef Bone in,6531.97,91,0,0,1,cold,34.8,0,1,0,1
+2024-January-12,January,Morning,Beef boneless,6882.2,52,0,0,1,cold,34.8,0,0,0,1
+2024-January-12,January,Morning,Catfish (obokun) fresh,4238.72,52,0,0,2,cold,34.8,0,0,0,0
+2024-January-12,January,Morning,Catfish dried,5845.41,28,0,0,2,room,34.8,0,0,0,1
+2024-January-12,January,Morning,Chicken Wings,4785.58,43,0,0,4,cold,34.8,0,1,0,1
+2024-January-12,January,Morning,Tomato,553.97,79,0,1,4,room,34.8,0,0,0,1
+2024-January-12,January,Morning,Onion bulb,1005.39,84,0,0,2,room,34.8,0,0,0,1
+2024-January-12,January,Morning,Sweet potato,398.44,57,0,1,4,room,34.8,0,0,0,0
+2024-January-12,January,Morning,Yam tuber,962.07,42,0,0,5,room,34.8,0,0,0,1
+2024-January-12,January,Afternoon,Agric eggs medium size,1768.17,57,0,0,3,room,34.8,0,0,0,0
+2024-January-12,January,Afternoon,Beans brown,1322.91,55,0,0,3,room,34.8,0,0,0,1
+2024-January-12,January,Afternoon,Beans white black eye,1305.5,48,0,0,2,room,34.8,0,0,0,1
+2024-January-12,January,Afternoon,Beef Bone in,4462.67,80,0,0,5,cold,34.8,0,0,0,1
+2024-January-12,January,Afternoon,Beef boneless,6102.79,75,0,0,3,cold,34.8,0,0,0,1
+2024-January-12,January,Afternoon,Catfish (obokun) fresh,3431.72,50,0,0,2,cold,34.8,0,0,0,0
+2024-January-12,January,Afternoon,Catfish dried,4605.0,43,0,0,1,room,34.8,0,0,0,0
+2024-January-12,January,Afternoon,Chicken Wings,2611.74,51,0,0,3,cold,34.8,0,0,0,0
+2024-January-12,January,Afternoon,Tomato,616.66,58,0,1,2,room,34.8,0,0,0,1
+2024-January-12,January,Afternoon,Onion bulb,950.36,51,0,0,1,room,34.8,0,0,0,0
+2024-January-12,January,Afternoon,Sweet potato,403.84,66,0,1,1,room,34.8,0,0,0,1
+2024-January-12,January,Afternoon,Yam tuber,900.9,28,0,0,3,room,34.8,0,0,0,0
+2024-January-12,January,Evening,Agric eggs medium size,1715.1,39,0,0,2,room,34.8,0,0,0,1
+2024-January-12,January,Evening,Beans brown,990.18,42,0,0,1,room,34.8,0,0,0,0
+2024-January-12,January,Evening,Beans white black eye,764.87,43,0,0,3,room,34.8,0,0,0,1
+2024-January-12,January,Evening,Beef Bone in,2384.82,57,0,0,3,cold,34.8,0,0,0,1
+2024-January-12,January,Evening,Beef boneless,3901.73,43,0,0,5,cold,34.8,0,0,0,0
+2024-January-12,January,Evening,Catfish (obokun) fresh,2551.29,43,0,0,5,cold,34.8,0,0,0,1
+2024-January-12,January,Evening,Catfish dried,3418.06,30,0,0,1,room,34.8,0,0,0,0
+2024-January-12,January,Evening,Chicken Wings,2366.09,64,0,0,3,cold,34.8,0,0,0,1
+2024-January-12,January,Evening,Tomato,762.04,42,0,1,4,room,34.8,0,0,0,0
+2024-January-12,January,Evening,Onion bulb,556.44,24,0,0,1,room,34.8,0,0,0,0
+2024-January-12,January,Evening,Sweet potato,226.39,27,0,1,4,room,34.8,0,1,0,1
+2024-January-12,January,Evening,Yam tuber,860.44,66,0,0,2,room,34.8,1,0,0,1
+2024-January-13,January,Morning,Agric eggs medium size,2056.87,21,0,0,5,room,34.8,0,1,0,1
+2024-January-13,January,Morning,Beans brown,1535.72,53,0,0,5,room,34.8,0,0,0,0
+2024-January-13,January,Morning,Beans white black eye,1324.81,39,0,0,5,room,34.8,0,0,0,1
+2024-January-13,January,Morning,Beef Bone in,5248.83,53,0,0,4,cold,34.8,0,1,0,1
+2024-January-13,January,Morning,Beef boneless,4479.62,139,0,0,4,cold,34.8,1,0,0,1
+2024-January-13,January,Morning,Catfish (obokun) fresh,4014.12,75,0,0,3,cold,34.8,0,0,0,1
+2024-January-13,January,Morning,Catfish dried,6928.18,26,0,0,4,room,34.8,0,0,0,0
+2024-January-13,January,Morning,Chicken Wings,3788.73,42,0,0,1,cold,34.8,0,0,0,0
+2024-January-13,January,Morning,Tomato,697.35,68,0,1,4,room,34.8,0,1,0,1
+2024-January-13,January,Morning,Onion bulb,1056.35,56,0,0,4,room,34.8,0,0,0,1
+2024-January-13,January,Morning,Sweet potato,240.25,36,0,1,3,room,34.8,0,0,0,0
+2024-January-13,January,Morning,Yam tuber,980.77,49,0,0,4,room,34.8,0,0,0,0
+2024-January-13,January,Afternoon,Agric eggs medium size,1659.58,46,0,0,3,room,34.8,0,0,0,0
+2024-January-13,January,Afternoon,Beans brown,1326.3,62,0,0,3,room,34.8,0,0,0,0
+2024-January-13,January,Afternoon,Beans white black eye,1075.96,80,0,0,3,room,34.8,1,0,0,1
+2024-January-13,January,Afternoon,Beef Bone in,4547.28,75,0,0,1,cold,34.8,0,0,0,0
+2024-January-13,January,Afternoon,Beef boneless,6066.21,46,0,0,1,cold,34.8,0,1,0,1
+2024-January-13,January,Afternoon,Catfish (obokun) fresh,4675.57,67,0,0,3,cold,34.8,0,0,0,1
+2024-January-13,January,Afternoon,Catfish dried,4630.47,68,0,0,1,room,34.8,1,1,0,1
+2024-January-13,January,Afternoon,Chicken Wings,3313.22,45,0,0,2,cold,34.8,0,0,0,1
+2024-January-13,January,Afternoon,Tomato,465.4,70,0,1,2,room,34.8,0,0,0,1
+2024-January-13,January,Afternoon,Onion bulb,1179.37,56,0,0,4,room,34.8,0,0,0,0
+2024-January-13,January,Afternoon,Sweet potato,296.28,42,0,1,2,room,34.8,0,0,0,1
+2024-January-13,January,Afternoon,Yam tuber,1028.86,26,0,0,5,room,34.8,0,0,0,1
+2024-January-13,January,Evening,Agric eggs medium size,1080.12,59,0,0,1,room,34.8,0,0,0,0
+2024-January-13,January,Evening,Beans brown,902.37,34,0,0,2,room,34.8,0,0,0,0
+2024-January-13,January,Evening,Beans white black eye,732.99,47,0,0,4,room,34.8,0,0,0,1
+2024-January-13,January,Evening,Beef Bone in,4116.49,39,0,0,1,cold,34.8,0,1,0,0
+2024-January-13,January,Evening,Beef boneless,3589.28,21,0,0,1,cold,34.8,0,0,0,1
+2024-January-13,January,Evening,Catfish (obokun) fresh,2777.8,40,0,0,2,cold,34.8,0,0,0,0
+2024-January-13,January,Evening,Catfish dried,5055.51,42,0,0,1,room,34.8,0,1,0,0
+2024-January-13,January,Evening,Chicken Wings,2653.44,30,0,0,1,cold,34.8,0,0,0,1
+2024-January-13,January,Evening,Tomato,446.72,18,0,1,3,room,34.8,0,0,0,0
+2024-January-13,January,Evening,Onion bulb,350.15,59,0,0,2,room,34.8,0,0,0,1
+2024-January-13,January,Evening,Sweet potato,418.09,33,0,1,1,room,34.8,0,0,0,0
+2024-January-13,January,Evening,Yam tuber,574.12,57,0,0,2,room,34.8,0,0,0,1
+2024-January-14,January,Morning,Agric eggs medium size,1671.5,73,0,0,2,room,34.8,0,0,0,0
+2024-January-14,January,Morning,Beans brown,1396.54,30,0,0,3,room,34.8,0,0,0,1
+2024-January-14,January,Morning,Beans white black eye,1442.31,53,0,0,5,room,34.8,0,0,0,1
+2024-January-14,January,Morning,Beef Bone in,5758.19,61,0,0,4,cold,34.8,0,1,0,0
+2024-January-14,January,Morning,Beef boneless,6317.36,52,0,0,3,cold,34.8,0,0,0,0
+2024-January-14,January,Morning,Catfish (obokun) fresh,4704.13,51,0,0,3,cold,34.8,0,0,0,1
+2024-January-14,January,Morning,Catfish dried,6362.46,61,0,0,3,room,34.8,0,1,0,1
+2024-January-14,January,Morning,Chicken Wings,5023.83,68,0,0,2,cold,34.8,0,0,0,0
+2024-January-14,January,Morning,Tomato,842.82,67,0,1,3,room,34.8,0,0,0,1
+2024-January-14,January,Morning,Onion bulb,880.95,72,0,0,1,room,34.8,0,0,0,0
+2024-January-14,January,Morning,Sweet potato,306.56,59,0,1,5,room,34.8,0,0,0,1
+2024-January-14,January,Morning,Yam tuber,908.5,62,0,0,3,room,34.8,0,0,0,1
+2024-January-14,January,Afternoon,Agric eggs medium size,1430.01,66,0,0,3,room,34.8,0,1,0,1
+2024-January-14,January,Afternoon,Beans brown,1373.14,56,0,0,1,room,34.8,0,0,0,0
+2024-January-14,January,Afternoon,Beans white black eye,1461.89,54,0,0,5,room,34.8,0,0,0,1
+2024-January-14,January,Afternoon,Beef Bone in,4511.85,46,0,0,1,cold,34.8,0,0,0,1
+2024-January-14,January,Afternoon,Beef boneless,5485.91,22,0,0,5,cold,34.8,0,0,0,0
+2024-January-14,January,Afternoon,Catfish (obokun) fresh,3996.66,69,0,0,4,cold,34.8,0,0,0,0
+2024-January-14,January,Afternoon,Catfish dried,6826.07,56,0,0,3,room,34.8,0,1,0,0
+2024-January-14,January,Afternoon,Chicken Wings,3757.77,40,0,0,4,cold,34.8,0,0,0,0
+2024-January-14,January,Afternoon,Tomato,633.79,42,0,1,5,room,34.8,1,0,0,1
+2024-January-14,January,Afternoon,Onion bulb,1041.11,62,0,0,3,room,34.8,0,0,0,1
+2024-January-14,January,Afternoon,Sweet potato,497.6,56,0,1,1,room,34.8,0,0,0,1
+2024-January-14,January,Afternoon,Yam tuber,1030.84,74,0,0,5,room,34.8,1,0,0,1
+2024-January-14,January,Evening,Agric eggs medium size,689.44,35,0,0,2,room,34.8,0,0,0,1
+2024-January-14,January,Evening,Beans brown,835.61,52,0,0,2,room,34.8,0,0,0,1
+2024-January-14,January,Evening,Beans white black eye,1112.46,38,0,0,5,room,34.8,0,0,0,1
+2024-January-14,January,Evening,Beef Bone in,3305.77,21,0,0,2,cold,34.8,0,0,0,0
+2024-January-14,January,Evening,Beef boneless,3326.25,39,0,0,3,cold,34.8,0,0,0,1
+2024-January-14,January,Evening,Catfish (obokun) fresh,3123.84,49,0,0,5,cold,34.8,0,0,0,0
+2024-January-14,January,Evening,Catfish dried,4318.81,35,0,0,2,room,34.8,1,1,0,1
+2024-January-14,January,Evening,Chicken Wings,2170.22,39,0,0,3,cold,34.8,0,0,0,0
+2024-January-14,January,Evening,Tomato,376.76,49,0,1,2,room,34.8,1,0,0,1
+2024-January-14,January,Evening,Onion bulb,959.02,44,0,0,3,room,34.8,0,1,0,1
+2024-January-14,January,Evening,Sweet potato,447.16,33,0,1,5,room,34.8,0,0,0,1
+2024-January-14,January,Evening,Yam tuber,770.7,70,0,0,1,room,34.8,0,1,0,0
+2024-January-15,January,Morning,Agric eggs medium size,1822.85,27,0,0,5,room,34.8,0,0,1,1
+2024-January-15,January,Morning,Beans brown,1356.48,79,0,0,2,room,34.8,0,0,1,1
+2024-January-15,January,Morning,Beans white black eye,1128.71,19,0,0,4,room,34.8,1,0,1,1
+2024-January-15,January,Morning,Beef Bone in,3856.6,34,0,0,4,cold,34.8,0,0,1,1
+2024-January-15,January,Morning,Beef boneless,4587.14,37,0,0,3,cold,34.8,0,0,1,1
+2024-January-15,January,Morning,Catfish (obokun) fresh,5655.29,47,0,0,3,cold,34.8,0,1,1,0
+2024-January-15,January,Morning,Catfish dried,5574.77,57,0,0,2,room,34.8,1,0,1,1
+2024-January-15,January,Morning,Chicken Wings,3328.35,38,0,0,3,cold,34.8,1,0,1,1
+2024-January-15,January,Morning,Tomato,701.3,27,0,1,3,room,34.8,0,0,1,1
+2024-January-15,January,Morning,Onion bulb,1107.3,33,0,0,1,room,34.8,0,1,1,1
+2024-January-15,January,Morning,Sweet potato,635.01,33,0,1,5,room,34.8,0,1,1,1
+2024-January-15,January,Morning,Yam tuber,626.13,37,0,0,2,room,34.8,1,0,1,1
+2024-January-15,January,Afternoon,Agric eggs medium size,1549.44,45,0,0,4,room,34.8,0,0,1,1
+2024-January-15,January,Afternoon,Beans brown,1596.83,65,0,0,5,room,34.8,0,0,1,1
+2024-January-15,January,Afternoon,Beans white black eye,1256.31,59,0,0,4,room,34.8,1,0,1,1
+2024-January-15,January,Afternoon,Beef Bone in,5299.94,22,0,0,3,cold,34.8,0,1,1,1
+2024-January-15,January,Afternoon,Beef boneless,6279.61,30,0,0,1,cold,34.8,0,0,1,0
+2024-January-15,January,Afternoon,Catfish (obokun) fresh,3921.81,20,0,0,3,cold,34.8,0,0,1,0
+2024-January-15,January,Afternoon,Catfish dried,5003.37,14,0,0,5,room,34.8,0,0,1,1
+2024-January-15,January,Afternoon,Chicken Wings,2965.51,58,0,0,3,cold,34.8,0,0,1,1
+2024-January-15,January,Afternoon,Tomato,674.23,33,0,1,3,room,34.8,1,0,1,1
+2024-January-15,January,Afternoon,Onion bulb,936.31,57,0,0,1,room,34.8,1,0,1,1
+2024-January-15,January,Afternoon,Sweet potato,319.58,30,0,1,1,room,34.8,1,0,1,1
+2024-January-15,January,Afternoon,Yam tuber,1176.83,33,0,0,3,room,34.8,0,0,1,0
+2024-January-15,January,Evening,Agric eggs medium size,1052.85,34,0,0,4,room,34.8,0,0,1,1
+2024-January-15,January,Evening,Beans brown,1173.16,18,0,0,4,room,34.8,0,0,1,0
+2024-January-15,January,Evening,Beans white black eye,1177.03,25,0,0,3,room,34.8,0,0,1,0
+2024-January-15,January,Evening,Beef Bone in,2754.29,39,0,0,1,cold,34.8,1,0,1,1
+2024-January-15,January,Evening,Beef boneless,3704.54,26,0,0,2,cold,34.8,1,0,1,1
+2024-January-15,January,Evening,Catfish (obokun) fresh,3490.79,28,0,0,3,cold,34.8,0,1,1,1
+2024-January-15,January,Evening,Catfish dried,5033.87,46,0,0,4,room,34.8,0,0,1,0
+2024-January-15,January,Evening,Chicken Wings,2982.63,47,0,0,5,cold,34.8,0,0,1,1
+2024-January-15,January,Evening,Tomato,376.76,37,0,1,4,room,34.8,1,0,1,1
+2024-January-15,January,Evening,Onion bulb,833.44,37,0,0,2,room,34.8,0,0,1,0
+2024-January-15,January,Evening,Sweet potato,260.14,31,0,1,4,room,34.8,1,0,1,1
+2024-January-15,January,Evening,Yam tuber,773.91,23,0,0,2,room,34.8,0,0,1,0
+2024-April-01,April,Morning,Agric eggs medium size,1719.91,40,1,0,5,room,34.8,0,0,0,1
+2024-April-01,April,Morning,Beans brown,1788.22,43,1,0,1,room,34.8,0,1,0,1
+2024-April-01,April,Morning,Beans white black eye,1864.73,64,1,0,3,room,34.8,0,0,0,1
+2024-April-01,April,Morning,Beef Bone in,3634.64,75,1,0,2,cold,34.8,1,0,0,1
+2024-April-01,April,Morning,Beef boneless,4413.69,88,1,0,4,cold,34.8,1,0,0,0
+2024-April-01,April,Morning,Catfish (obokun) fresh,5437.4,38,1,0,1,cold,34.8,0,1,0,1
+2024-April-01,April,Morning,Catfish dried,6760.16,79,1,0,3,room,34.8,0,0,0,0
+2024-April-01,April,Morning,Chicken Wings,3331.58,70,1,0,1,cold,34.8,0,0,0,1
+2024-April-01,April,Morning,Tomato,761.53,69,1,0,3,room,34.8,0,0,0,1
+2024-April-01,April,Morning,Onion bulb,914.01,38,1,1,1,room,34.8,0,0,0,0
+2024-April-01,April,Morning,Sweet potato,612.65,58,1,0,4,room,34.8,0,0,0,1
+2024-April-01,April,Morning,Yam tuber,718.95,69,1,1,2,room,34.8,0,0,0,1
+2024-April-01,April,Afternoon,Agric eggs medium size,1786.32,51,1,0,4,room,34.8,0,0,0,1
+2024-April-01,April,Afternoon,Beans brown,1719.23,37,1,0,5,room,34.8,0,1,0,0
+2024-April-01,April,Afternoon,Beans white black eye,1605.59,51,1,0,2,room,34.8,0,1,0,0
+2024-April-01,April,Afternoon,Beef Bone in,4211.33,47,1,0,3,cold,34.8,0,0,0,1
+2024-April-01,April,Afternoon,Beef boneless,6129.33,67,1,0,2,cold,34.8,0,0,0,1
+2024-April-01,April,Afternoon,Catfish (obokun) fresh,3975.5,32,1,0,2,cold,34.8,0,0,0,0
+2024-April-01,April,Afternoon,Catfish dried,6664.3,46,1,0,3,room,34.8,0,0,0,1
+2024-April-01,April,Afternoon,Chicken Wings,3869.89,43,1,0,4,cold,34.8,0,0,0,0
+2024-April-01,April,Afternoon,Tomato,846.85,80,1,0,4,room,34.8,1,0,0,1
+2024-April-01,April,Afternoon,Onion bulb,533.54,51,1,1,2,room,34.8,1,0,0,1
+2024-April-01,April,Afternoon,Sweet potato,671.79,56,1,0,5,room,34.8,0,0,0,0
+2024-April-01,April,Afternoon,Yam tuber,603.81,56,1,1,2,room,34.8,0,0,0,1
+2024-April-01,April,Evening,Agric eggs medium size,936.91,55,1,0,4,room,34.8,0,0,0,1
+2024-April-01,April,Evening,Beans brown,1136.17,34,1,0,2,room,34.8,0,0,0,0
+2024-April-01,April,Evening,Beans white black eye,1482.28,38,1,0,2,room,34.8,0,0,0,0
+2024-April-01,April,Evening,Beef Bone in,2233.34,42,1,0,1,cold,34.8,0,0,0,0
+2024-April-01,April,Evening,Beef boneless,1797.48,65,1,0,5,cold,34.8,0,0,0,0
+2024-April-01,April,Evening,Catfish (obokun) fresh,2648.9,37,1,0,1,cold,34.8,0,0,0,0
+2024-April-01,April,Evening,Catfish dried,2917.29,41,1,0,1,room,34.8,0,0,0,0
+2024-April-01,April,Evening,Chicken Wings,1552.63,54,1,0,5,cold,34.8,1,0,0,1
+2024-April-01,April,Evening,Tomato,1747.53,41,1,0,5,room,34.8,0,0,0,0
+2024-April-01,April,Evening,Onion bulb,347.92,41,1,1,3,room,34.8,0,0,0,1
+2024-April-01,April,Evening,Sweet potato,455.39,33,1,0,1,room,34.8,0,0,0,0
+2024-April-01,April,Evening,Yam tuber,729.19,35,1,1,5,room,34.8,0,0,0,0
+2024-April-02,April,Morning,Agric eggs medium size,1482.72,33,1,0,1,room,34.8,0,0,0,1
+2024-April-02,April,Morning,Beans brown,1774.14,64,1,0,3,room,34.8,0,0,0,0
+2024-April-02,April,Morning,Beans white black eye,1156.65,52,1,0,1,room,34.8,0,0,0,0
+2024-April-02,April,Morning,Beef Bone in,4441.25,47,1,0,4,cold,34.8,0,0,0,0
+2024-April-02,April,Morning,Beef boneless,4441.89,37,1,0,2,cold,34.8,0,0,0,1
+2024-April-02,April,Morning,Catfish (obokun) fresh,4615.22,62,1,0,2,cold,34.8,0,0,0,0
+2024-April-02,April,Morning,Catfish dried,7941.15,60,1,0,5,room,34.8,0,0,0,1
+2024-April-02,April,Morning,Chicken Wings,4208.15,49,1,0,4,cold,34.8,0,0,0,1
+2024-April-02,April,Morning,Tomato,1337.67,92,1,0,5,room,34.8,0,0,0,0
+2024-April-02,April,Morning,Onion bulb,1346.76,74,1,1,5,room,34.8,0,0,0,1
+2024-April-02,April,Morning,Sweet potato,580.51,75,1,0,4,room,34.8,0,0,0,0
+2024-April-02,April,Morning,Yam tuber,1036.36,81,1,1,3,room,34.8,0,1,0,1
+2024-April-02,April,Afternoon,Agric eggs medium size,2309.04,86,1,0,4,room,34.8,0,0,0,1
+2024-April-02,April,Afternoon,Beans brown,1527.66,37,1,0,1,room,34.8,0,0,0,0
+2024-April-02,April,Afternoon,Beans white black eye,1941.18,54,1,0,4,room,34.8,0,0,0,0
+2024-April-02,April,Afternoon,Beef Bone in,4366.92,44,1,0,3,cold,34.8,0,0,0,0
+2024-April-02,April,Afternoon,Beef boneless,5590.68,26,1,0,4,cold,34.8,0,0,0,1
+2024-April-02,April,Afternoon,Catfish (obokun) fresh,3266.9,65,1,0,5,cold,34.8,1,0,0,1
+2024-April-02,April,Afternoon,Catfish dried,5493.89,36,1,0,1,room,34.8,0,0,0,0
+2024-April-02,April,Afternoon,Chicken Wings,4173.74,82,1,0,5,cold,34.8,0,1,0,1
+2024-April-02,April,Afternoon,Tomato,1377.18,49,1,0,4,room,34.8,1,0,0,0
+2024-April-02,April,Afternoon,Onion bulb,1433.53,81,1,1,4,room,34.8,0,0,0,0
+2024-April-02,April,Afternoon,Sweet potato,744.55,45,1,0,4,room,34.8,0,0,0,0
+2024-April-02,April,Afternoon,Yam tuber,635.92,47,1,1,4,room,34.8,0,0,0,0
+2024-April-02,April,Evening,Agric eggs medium size,1866.27,44,1,0,4,room,34.8,1,0,0,0
+2024-April-02,April,Evening,Beans brown,1496.46,59,1,0,2,room,34.8,0,1,0,0
+2024-April-02,April,Evening,Beans white black eye,720.3,32,1,0,4,room,34.8,0,0,0,0
+2024-April-02,April,Evening,Beef Bone in,5411.57,50,1,0,5,cold,34.8,0,1,0,1
+2024-April-02,April,Evening,Beef boneless,3603.3,29,1,0,5,cold,34.8,0,0,0,0
+2024-April-02,April,Evening,Catfish (obokun) fresh,3144.08,61,1,0,2,cold,34.8,0,0,0,0
+2024-April-02,April,Evening,Catfish dried,4231.27,51,1,0,4,room,34.8,0,0,0,0
+2024-April-02,April,Evening,Chicken Wings,3167.24,17,1,0,1,cold,34.8,0,0,0,0
+2024-April-02,April,Evening,Tomato,376.76,29,1,0,3,room,34.8,0,0,0,1
+2024-April-02,April,Evening,Onion bulb,808.56,31,1,1,1,room,34.8,0,0,0,0
+2024-April-02,April,Evening,Sweet potato,442.5,42,1,0,2,room,34.8,0,0,0,0
+2024-April-02,April,Evening,Yam tuber,517.0,62,1,1,2,room,34.8,1,0,0,1
+2024-April-03,April,Morning,Agric eggs medium size,1951.69,63,1,0,4,room,34.8,0,0,0,0
+2024-April-03,April,Morning,Beans brown,1236.58,76,1,0,5,room,34.8,0,0,0,1
+2024-April-03,April,Morning,Beans white black eye,1355.05,70,1,0,2,room,34.8,0,0,0,0
+2024-April-03,April,Morning,Beef Bone in,3735.17,92,1,0,1,cold,34.8,1,0,0,1
+2024-April-03,April,Morning,Beef boneless,5703.05,143,1,0,5,cold,34.8,1,0,0,1
+2024-April-03,April,Morning,Catfish (obokun) fresh,4280.92,74,1,0,5,cold,34.8,0,0,0,1
+2024-April-03,April,Morning,Catfish dried,6621.11,90,1,0,1,room,34.8,0,0,0,0
+2024-April-03,April,Morning,Chicken Wings,4234.11,18,1,0,4,cold,34.8,0,0,0,1
+2024-April-03,April,Morning,Tomato,1599.48,100,1,0,2,room,34.8,1,0,0,1
+2024-April-03,April,Morning,Onion bulb,1171.82,34,1,1,1,room,34.8,0,0,0,1
+2024-April-03,April,Morning,Sweet potato,824.7,55,1,0,2,room,34.8,0,0,0,1
+2024-April-03,April,Morning,Yam tuber,801.42,44,1,1,3,room,34.8,0,0,0,1
+2024-April-03,April,Afternoon,Agric eggs medium size,1663.78,45,1,0,1,room,34.8,0,0,0,0
+2024-April-03,April,Afternoon,Beans brown,1684.96,69,1,0,5,room,34.8,1,0,0,0
+2024-April-03,April,Afternoon,Beans white black eye,1318.82,45,1,0,2,room,34.8,0,0,0,1
+2024-April-03,April,Afternoon,Beef Bone in,3715.7,45,1,0,4,cold,34.8,0,0,0,0
+2024-April-03,April,Afternoon,Beef boneless,5898.12,61,1,0,2,cold,34.8,0,0,0,0
+2024-April-03,April,Afternoon,Catfish (obokun) fresh,4223.71,51,1,0,1,cold,34.8,0,0,0,0
+2024-April-03,April,Afternoon,Catfish dried,7131.98,26,1,0,5,room,34.8,0,0,0,0
+2024-April-03,April,Afternoon,Chicken Wings,3012.74,40,1,0,1,cold,34.8,0,0,0,1
+2024-April-03,April,Afternoon,Tomato,1484.22,62,1,0,3,room,34.8,0,0,0,1
+2024-April-03,April,Afternoon,Onion bulb,669.02,41,1,1,1,room,34.8,0,0,0,1
+2024-April-03,April,Afternoon,Sweet potato,1118.27,39,1,0,2,room,34.8,0,0,0,0
+2024-April-03,April,Afternoon,Yam tuber,774.34,13,1,1,1,room,34.8,0,0,0,0
+2024-April-03,April,Evening,Agric eggs medium size,1583.34,34,1,0,2,room,34.8,0,0,0,0
+2024-April-03,April,Evening,Beans brown,1287.88,65,1,0,1,room,34.8,0,0,0,0
+2024-April-03,April,Evening,Beans white black eye,1161.4,40,1,0,1,room,34.8,0,0,0,0
+2024-April-03,April,Evening,Beef Bone in,3339.07,62,1,0,2,cold,34.8,0,0,0,0
+2024-April-03,April,Evening,Beef boneless,3871.65,35,1,0,3,cold,34.8,0,0,0,0
+2024-April-03,April,Evening,Catfish (obokun) fresh,3573.5,39,1,0,1,cold,34.8,0,1,0,0
+2024-April-03,April,Evening,Catfish dried,4536.31,14,1,0,4,room,34.8,1,0,0,1
+2024-April-03,April,Evening,Chicken Wings,2145.49,35,1,0,4,cold,34.8,0,0,0,1
+2024-April-03,April,Evening,Tomato,719.91,26,1,0,1,room,34.8,0,0,0,0
+2024-April-03,April,Evening,Onion bulb,681.86,57,1,1,3,room,34.8,0,0,0,1
+2024-April-03,April,Evening,Sweet potato,507.92,55,1,0,2,room,34.8,1,0,0,0
+2024-April-03,April,Evening,Yam tuber,530.39,54,1,1,3,room,34.8,0,0,0,1
+2024-April-04,April,Morning,Agric eggs medium size,2586.85,59,1,0,3,room,34.8,0,1,0,0
+2024-April-04,April,Morning,Beans brown,1271.13,66,1,0,4,room,34.8,1,0,0,1
+2024-April-04,April,Morning,Beans white black eye,1721.59,48,1,0,3,room,34.8,0,0,0,1
+2024-April-04,April,Morning,Beef Bone in,4310.03,68,1,0,3,cold,34.8,0,0,0,1
+2024-April-04,April,Morning,Beef boneless,7386.75,58,1,0,4,cold,34.8,0,1,0,1
+2024-April-04,April,Morning,Catfish (obokun) fresh,4013.34,69,1,0,2,cold,34.8,0,0,0,1
+2024-April-04,April,Morning,Catfish dried,7157.76,81,1,0,1,room,34.8,1,0,0,0
+2024-April-04,April,Morning,Chicken Wings,4703.17,44,1,0,5,cold,34.8,1,1,0,1
+2024-April-04,April,Morning,Tomato,1980.53,60,1,0,5,room,34.8,0,0,0,1
+2024-April-04,April,Morning,Onion bulb,1305.38,57,1,1,4,room,34.8,0,0,0,0
+2024-April-04,April,Morning,Sweet potato,537.4,64,1,0,4,room,34.8,0,0,0,1
+2024-April-04,April,Morning,Yam tuber,884.74,36,1,1,2,room,34.8,0,0,0,0
+2024-April-04,April,Afternoon,Agric eggs medium size,1666.22,71,1,0,1,room,34.8,1,0,0,0
+2024-April-04,April,Afternoon,Beans brown,1698.44,72,1,0,2,room,34.8,0,0,0,0
+2024-April-04,April,Afternoon,Beans white black eye,1546.57,72,1,0,2,room,34.8,1,0,0,0
+2024-April-04,April,Afternoon,Beef Bone in,4043.86,62,1,0,4,cold,34.8,0,0,0,1
+2024-April-04,April,Afternoon,Beef boneless,5895.06,83,1,0,5,cold,34.8,0,0,0,0
+2024-April-04,April,Afternoon,Catfish (obokun) fresh,4073.99,74,1,0,1,cold,34.8,1,0,0,1
+2024-April-04,April,Afternoon,Catfish dried,7750.49,58,1,0,5,room,34.8,0,0,0,0
+2024-April-04,April,Afternoon,Chicken Wings,3794.22,47,1,0,3,cold,34.8,0,0,0,1
+2024-April-04,April,Afternoon,Tomato,1879.13,72,1,0,4,room,34.8,0,1,0,0
+2024-April-04,April,Afternoon,Onion bulb,1169.02,38,1,1,5,room,34.8,0,0,0,1
+2024-April-04,April,Afternoon,Sweet potato,977.42,72,1,0,5,room,34.8,0,0,0,0
+2024-April-04,April,Afternoon,Yam tuber,646.9,56,1,1,1,room,34.8,0,1,0,0
+2024-April-04,April,Evening,Agric eggs medium size,1337.4,46,1,0,5,room,34.8,0,0,0,0
+2024-April-04,April,Evening,Beans brown,700.86,28,1,0,2,room,34.8,0,0,0,0
+2024-April-04,April,Evening,Beans white black eye,933.64,30,1,0,1,room,34.8,0,0,0,0
+2024-April-04,April,Evening,Beef Bone in,2706.22,37,1,0,3,cold,34.8,0,0,0,1
+2024-April-04,April,Evening,Beef boneless,3882.06,15,1,0,3,cold,34.8,0,0,0,0
+2024-April-04,April,Evening,Catfish (obokun) fresh,2871.81,30,1,0,4,cold,34.8,0,0,0,1
+2024-April-04,April,Evening,Catfish dried,3708.69,35,1,0,4,room,34.8,0,0,0,0
+2024-April-04,April,Evening,Chicken Wings,2878.5,18,1,0,3,cold,34.8,0,0,0,0
+2024-April-04,April,Evening,Tomato,712.47,19,1,0,2,room,34.8,0,0,0,0
+2024-April-04,April,Evening,Onion bulb,722.08,47,1,1,3,room,34.8,0,0,0,0
+2024-April-04,April,Evening,Sweet potato,568.64,40,1,0,3,room,34.8,1,0,0,1
+2024-April-04,April,Evening,Yam tuber,665.37,26,1,1,2,room,34.8,0,0,0,0
+2024-April-05,April,Morning,Agric eggs medium size,1882.32,16,1,0,1,room,34.8,1,0,1,1
+2024-April-05,April,Morning,Beans brown,1451.89,47,1,0,3,room,34.8,0,0,1,1
+2024-April-05,April,Morning,Beans white black eye,1253.52,20,1,0,3,room,34.8,0,0,1,1
+2024-April-05,April,Morning,Beef Bone in,6589.99,33,1,0,2,cold,34.8,0,1,1,1
+2024-April-05,April,Morning,Beef boneless,5529.23,63,1,0,3,cold,34.8,0,0,1,1
+2024-April-05,April,Morning,Catfish (obokun) fresh,4151.08,23,1,0,1,cold,34.8,0,0,1,0
+2024-April-05,April,Morning,Catfish dried,8342.39,32,1,0,2,room,34.8,0,0,1,1
+2024-April-05,April,Morning,Chicken Wings,3923.73,50,1,0,5,cold,34.8,0,0,1,1
+2024-April-05,April,Morning,Tomato,1039.57,101,1,0,4,room,34.8,0,0,1,0
+2024-April-05,April,Morning,Onion bulb,1336.11,24,1,1,4,room,34.8,0,0,1,0
+2024-April-05,April,Morning,Sweet potato,1229.94,45,1,0,1,room,34.8,0,0,1,1
+2024-April-05,April,Morning,Yam tuber,569.38,18,1,1,2,room,34.8,0,0,1,1
+2024-April-05,April,Afternoon,Agric eggs medium size,2143.57,40,1,0,5,room,34.8,1,0,1,0
+2024-April-05,April,Afternoon,Beans brown,1425.4,38,1,0,1,room,34.8,0,0,1,1
+2024-April-05,April,Afternoon,Beans white black eye,1396.21,37,1,0,3,room,34.8,0,0,1,0
+2024-April-05,April,Afternoon,Beef Bone in,3138.25,39,1,0,5,cold,34.8,1,0,1,0
+2024-April-05,April,Afternoon,Beef boneless,6299.35,39,1,0,2,cold,34.8,0,1,1,0
+2024-April-05,April,Afternoon,Catfish (obokun) fresh,3571.06,37,1,0,2,cold,34.8,0,0,1,1
+2024-April-05,April,Afternoon,Catfish dried,9171.47,58,1,0,4,room,34.8,0,0,1,0
+2024-April-05,April,Afternoon,Chicken Wings,3456.81,52,1,0,5,cold,34.8,1,0,1,1
+2024-April-05,April,Afternoon,Tomato,1895.24,27,1,0,2,room,34.8,1,0,1,1
+2024-April-05,April,Afternoon,Onion bulb,788.85,81,1,1,5,room,34.8,1,0,1,0
+2024-April-05,April,Afternoon,Sweet potato,876.99,21,1,0,4,room,34.8,1,0,1,1
+2024-April-05,April,Afternoon,Yam tuber,1183.15,37,1,1,4,room,34.8,0,0,1,0
+2024-April-06,April,Morning,Agric eggs medium size,2481.15,47,1,0,4,room,34.8,0,0,0,0
+2024-April-06,April,Morning,Beans brown,974.94,37,1,0,3,room,34.8,0,0,0,0
+2024-April-06,April,Morning,Beans white black eye,1335.66,48,1,0,1,room,34.8,0,0,0,0
+2024-April-06,April,Morning,Beef Bone in,4981.36,47,1,0,5,cold,34.8,0,0,0,1
+2024-April-06,April,Morning,Beef boneless,5462.4,55,1,0,1,cold,34.8,0,0,0,1
+2024-April-06,April,Morning,Catfish (obokun) fresh,4380.14,74,1,0,1,cold,34.8,0,0,0,1
+2024-April-06,April,Morning,Catfish dried,8461.08,47,1,0,2,room,34.8,0,0,0,0
+2024-April-06,April,Morning,Chicken Wings,6341.27,36,1,0,3,cold,34.8,0,1,0,1
+2024-April-06,April,Morning,Tomato,1182.39,33,1,0,3,room,34.8,0,0,0,1
+2024-April-06,April,Morning,Onion bulb,1162.11,80,1,1,4,room,34.8,0,0,0,1
+2024-April-06,April,Morning,Sweet potato,914.32,18,1,0,4,room,34.8,1,0,0,1
+2024-April-06,April,Morning,Yam tuber,702.59,65,1,1,5,room,34.8,0,0,0,1
+2024-April-06,April,Afternoon,Agric eggs medium size,3193.24,38,1,0,3,room,34.8,0,1,0,1
+2024-April-06,April,Afternoon,Beans brown,1485.45,40,1,0,2,room,34.8,0,0,0,0
+2024-April-06,April,Afternoon,Beans white black eye,1702.47,19,1,0,1,room,34.8,1,1,0,0
+2024-April-06,April,Afternoon,Beef Bone in,3868.78,42,1,0,2,cold,34.8,0,0,0,0
+2024-April-06,April,Afternoon,Beef boneless,4948.2,55,1,0,1,cold,34.8,0,0,0,0
+2024-April-06,April,Afternoon,Catfish (obokun) fresh,3793.74,70,1,0,3,cold,34.8,0,0,0,1
+2024-April-06,April,Afternoon,Catfish dried,11234.22,82,1,0,4,room,34.8,1,1,0,0
+2024-April-06,April,Afternoon,Chicken Wings,2874.04,41,1,0,1,cold,34.8,1,1,0,1
+2024-April-06,April,Afternoon,Tomato,1264.71,77,1,0,3,room,34.8,0,0,0,0
+2024-April-06,April,Afternoon,Onion bulb,581.08,93,1,1,3,room,34.8,1,0,0,1
+2024-April-06,April,Afternoon,Sweet potato,1577.55,73,1,0,3,room,34.8,0,0,0,0
+2024-April-06,April,Afternoon,Yam tuber,752.25,51,1,1,1,room,34.8,0,0,0,0
+2024-April-06,April,Evening,Agric eggs medium size,1570.32,11,1,0,2,room,34.8,0,1,0,0
+2024-April-06,April,Evening,Beans brown,992.67,36,1,0,5,room,34.8,0,0,0,1
+2024-April-06,April,Evening,Beans white black eye,951.15,45,1,0,1,room,34.8,0,0,0,0
+2024-April-06,April,Evening,Beef Bone in,3619.54,26,1,0,2,cold,34.8,0,0,0,1
+2024-April-06,April,Evening,Beef boneless,2975.48,64,1,0,4,cold,34.8,1,0,0,1
+2024-April-06,April,Evening,Catfish (obokun) fresh,2719.28,26,1,0,5,cold,34.8,0,0,0,0
+2024-April-06,April,Evening,Catfish dried,5267.56,27,1,0,1,room,34.8,0,1,0,1
+2024-April-06,April,Evening,Chicken Wings,2305.51,74,1,0,3,cold,34.8,1,0,0,0
+2024-April-06,April,Evening,Tomato,755.86,39,1,0,4,room,34.8,0,1,0,0
+2024-April-06,April,Evening,Onion bulb,950.36,45,1,1,5,room,34.8,0,0,0,0
+2024-April-06,April,Evening,Sweet potato,490.73,35,1,0,1,room,34.8,0,0,0,0
+2024-April-06,April,Evening,Yam tuber,542.77,17,1,1,2,room,34.8,0,0,0,1
+2024-April-07,April,Morning,Agric eggs medium size,2229.9,57,1,0,4,room,34.8,0,0,0,0
+2024-April-07,April,Morning,Beans brown,1641.9,61,1,0,3,room,34.8,1,0,0,1
+2024-April-07,April,Morning,Beans white black eye,1172.64,83,1,0,3,room,34.8,0,0,0,0
+2024-April-07,April,Morning,Beef Bone in,4681.88,56,1,0,4,cold,34.8,0,0,0,1
+2024-April-07,April,Morning,Beef boneless,6017.51,84,1,0,4,cold,34.8,0,0,0,1
+2024-April-07,April,Morning,Catfish (obokun) fresh,3799.04,62,1,0,5,cold,34.8,1,0,0,1
+2024-April-07,April,Morning,Catfish dried,5195.06,34,1,0,1,room,34.8,0,0,0,0
+2024-April-07,April,Morning,Chicken Wings,4698.38,79,1,0,2,cold,34.8,0,0,0,1
+2024-April-07,April,Morning,Tomato,2758.7,35,1,0,5,room,34.8,0,1,0,1
+2024-April-07,April,Morning,Onion bulb,886.64,82,1,1,5,room,34.8,0,0,0,0
+2024-April-07,April,Morning,Sweet potato,937.1,74,1,0,5,room,34.8,0,0,0,1
+2024-April-07,April,Morning,Yam tuber,657.82,45,1,1,4,room,34.8,0,0,0,1
+2024-April-07,April,Afternoon,Agric eggs medium size,1852.38,93,1,0,2,room,34.8,1,0,0,1
+2024-April-07,April,Afternoon,Beans brown,1498.7,53,1,0,5,room,34.8,0,0,0,1
+2024-April-07,April,Afternoon,Beans white black eye,1437.93,69,1,0,4,room,34.8,1,0,0,0
+2024-April-07,April,Afternoon,Beef Bone in,3928.55,62,1,0,3,cold,34.8,0,0,0,1
+2024-April-07,April,Afternoon,Beef boneless,7693.03,46,1,0,5,cold,34.8,0,1,0,0
+2024-April-07,April,Afternoon,Catfish (obokun) fresh,3999.69,48,1,0,3,cold,34.8,0,0,0,0
+2024-April-07,April,Afternoon,Catfish dried,6302.53,48,1,0,5,room,34.8,0,0,0,0
+2024-April-07,April,Afternoon,Chicken Wings,4089.45,47,1,0,5,cold,34.8,0,0,0,1
+2024-April-07,April,Afternoon,Tomato,1353.47,87,1,0,4,room,34.8,1,0,0,1
+2024-April-07,April,Afternoon,Onion bulb,1399.92,41,1,1,2,room,34.8,0,1,0,1
+2024-April-07,April,Afternoon,Sweet potato,650.39,61,1,0,1,room,34.8,0,0,0,0
+2024-April-07,April,Afternoon,Yam tuber,744.07,36,1,1,4,room,34.8,0,0,0,1
+2024-April-07,April,Evening,Agric eggs medium size,1273.36,46,1,0,2,room,34.8,0,0,0,0
+2024-April-07,April,Evening,Beans brown,1183.41,40,1,0,3,room,34.8,0,0,0,1
+2024-April-07,April,Evening,Beans white black eye,1530.78,13,1,0,4,room,34.8,0,0,0,0
+2024-April-07,April,Evening,Beef Bone in,2558.37,28,1,0,1,cold,34.8,0,0,0,1
+2024-April-07,April,Evening,Beef boneless,3019.69,49,1,0,4,cold,34.8,1,0,0,0
+2024-April-07,April,Evening,Catfish (obokun) fresh,3707.53,45,1,0,3,cold,34.8,0,1,0,0
+2024-April-07,April,Evening,Catfish dried,5368.58,20,1,0,5,room,34.8,0,0,0,0
+2024-April-07,April,Evening,Chicken Wings,3160.28,32,1,0,1,cold,34.8,0,0,0,0
+2024-April-07,April,Evening,Tomato,942.04,27,1,0,4,room,34.8,1,0,0,1
+2024-April-07,April,Evening,Onion bulb,493.12,55,1,1,2,room,34.8,0,0,0,1
+2024-April-07,April,Evening,Sweet potato,680.11,65,1,0,2,room,34.8,0,0,0,1
+2024-April-07,April,Evening,Yam tuber,746.45,40,1,1,5,room,34.8,0,0,0,0
+2024-April-08,April,Morning,Agric eggs medium size,2236.52,64,1,0,2,room,34.8,0,0,0,1
+2024-April-08,April,Morning,Beans brown,1649.15,70,1,0,5,room,34.8,0,0,0,1
+2024-April-08,April,Morning,Beans white black eye,1094.91,71,1,0,1,room,34.8,0,0,0,1
+2024-April-08,April,Morning,Beef Bone in,6626.44,31,1,0,2,cold,34.8,0,1,0,1
+2024-April-08,April,Morning,Beef boneless,5407.74,78,1,0,1,cold,34.8,0,0,0,1
+2024-April-08,April,Morning,Catfish (obokun) fresh,4285.36,63,1,0,2,cold,34.8,1,1,0,1
+2024-April-08,April,Morning,Catfish dried,6167.37,71,1,0,5,room,34.8,1,0,0,1
+2024-April-08,April,Morning,Chicken Wings,3460.45,64,1,0,4,cold,34.8,0,0,0,1
+2024-April-08,April,Morning,Tomato,1847.89,61,1,0,3,room,34.8,0,0,0,0
+2024-April-08,April,Morning,Onion bulb,567.23,68,1,1,1,room,34.8,0,0,0,0
+2024-April-08,April,Morning,Sweet potato,794.02,80,1,0,2,room,34.8,0,0,0,1
+2024-April-08,April,Morning,Yam tuber,1035.85,22,1,1,4,room,34.8,0,1,0,1
+2024-April-08,April,Afternoon,Agric eggs medium size,1932.29,70,1,0,5,room,34.8,0,0,0,0
+2024-April-08,April,Afternoon,Beans brown,1505.72,60,1,0,2,room,34.8,0,0,0,0
+2024-April-08,April,Afternoon,Beans white black eye,1548.04,43,1,0,3,room,34.8,1,0,0,0
+2024-April-08,April,Afternoon,Beef Bone in,4800.56,40,1,0,2,cold,34.8,0,0,0,0
+2024-April-08,April,Afternoon,Beef boneless,5148.5,59,1,0,3,cold,34.8,0,0,0,0
+2024-April-08,April,Afternoon,Catfish (obokun) fresh,3271.09,69,1,0,5,cold,34.8,1,0,0,1
+2024-April-08,April,Afternoon,Catfish dried,7188.87,51,1,0,4,room,34.8,0,0,0,0
+2024-April-08,April,Afternoon,Chicken Wings,3545.6,42,1,0,4,cold,34.8,0,0,0,0
+2024-April-08,April,Afternoon,Tomato,1225.75,51,1,0,2,room,34.8,0,0,0,1
+2024-April-08,April,Afternoon,Onion bulb,1563.11,58,1,1,5,room,34.8,1,0,0,1
+2024-April-08,April,Afternoon,Sweet potato,689.47,66,1,0,2,room,34.8,0,0,0,0
+2024-April-08,April,Afternoon,Yam tuber,487.63,87,1,1,1,room,34.8,1,0,0,1
+2024-April-08,April,Evening,Agric eggs medium size,1302.82,23,1,0,2,room,34.8,0,0,0,0
+2024-April-08,April,Evening,Beans brown,1293.81,61,1,0,5,room,34.8,0,0,0,0
+2024-April-08,April,Evening,Beans white black eye,953.97,24,1,0,3,room,34.8,0,0,0,0
+2024-April-08,April,Evening,Beef Bone in,3097.35,52,1,0,3,cold,34.8,0,0,0,0
+2024-April-08,April,Evening,Beef boneless,4822.48,46,1,0,3,cold,34.8,0,0,0,0
+2024-April-08,April,Evening,Catfish (obokun) fresh,2454.94,47,1,0,1,cold,34.8,0,0,0,0
+2024-April-08,April,Evening,Catfish dried,4385.75,51,1,0,3,room,34.8,1,0,0,0
+2024-April-08,April,Evening,Chicken Wings,2746.95,49,1,0,2,cold,34.8,0,0,0,0
+2024-April-08,April,Evening,Tomato,1037.71,70,1,0,1,room,34.8,1,0,0,0
+2024-April-08,April,Evening,Onion bulb,347.92,50,1,1,1,room,34.8,0,0,0,0
+2024-April-08,April,Evening,Sweet potato,434.48,49,1,0,2,room,34.8,0,0,0,1
+2024-April-08,April,Evening,Yam tuber,511.39,36,1,1,1,room,34.8,0,1,0,0
+2024-April-09,April,Morning,Agric eggs medium size,2641.05,80,1,0,5,room,34.8,0,0,0,1
+2024-April-09,April,Morning,Beans brown,1510.8,68,1,0,2,room,34.8,0,0,0,0
+2024-April-09,April,Morning,Beans white black eye,1541.42,87,1,0,4,room,34.8,0,0,0,1
+2024-April-09,April,Morning,Beef Bone in,5007.89,59,1,0,4,cold,34.8,0,0,0,0
+2024-April-09,April,Morning,Beef boneless,5713.82,77,1,0,4,cold,34.8,0,0,0,0
+2024-April-09,April,Morning,Catfish (obokun) fresh,3296.42,84,1,0,4,cold,34.8,0,0,0,1
+2024-April-09,April,Morning,Catfish dried,7515.77,78,1,0,2,room,34.8,0,0,0,0
+2024-April-09,April,Morning,Chicken Wings,4129.35,78,1,0,4,cold,34.8,0,0,0,1
+2024-April-09,April,Morning,Tomato,1407.96,58,1,0,4,room,34.8,0,1,0,0
+2024-April-09,April,Morning,Onion bulb,1119.1,54,1,1,5,room,34.8,0,0,0,1
+2024-April-09,April,Morning,Sweet potato,879.56,71,1,0,4,room,34.8,0,0,0,1
+2024-April-09,April,Morning,Yam tuber,575.31,57,1,1,2,room,34.8,0,0,0,1
+2024-April-09,April,Afternoon,Agric eggs medium size,2122.94,41,1,0,1,room,34.8,0,0,0,0
+2024-April-09,April,Afternoon,Beans brown,1643.45,54,1,0,3,room,34.8,0,0,0,0
+2024-April-09,April,Afternoon,Beans white black eye,1805.52,55,1,0,5,room,34.8,0,0,0,1
+2024-April-09,April,Afternoon,Beef Bone in,4066.52,26,1,0,4,cold,34.8,0,0,0,1
+2024-April-09,April,Afternoon,Beef boneless,6428.81,61,1,0,5,cold,34.8,0,1,0,0
+2024-April-09,April,Afternoon,Catfish (obokun) fresh,4458.59,44,1,0,1,cold,34.8,0,1,0,1
+2024-April-09,April,Afternoon,Catfish dried,10229.99,58,1,0,4,room,34.8,0,0,0,1
+2024-April-09,April,Afternoon,Chicken Wings,3685.57,38,1,0,5,cold,34.8,0,0,0,0
+2024-April-09,April,Afternoon,Tomato,1696.4,60,1,0,2,room,34.8,0,0,0,0
+2024-April-09,April,Afternoon,Onion bulb,1024.74,77,1,1,5,room,34.8,1,0,0,1
+2024-April-09,April,Afternoon,Sweet potato,569.03,59,1,0,3,room,34.8,0,0,0,0
+2024-April-09,April,Afternoon,Yam tuber,844.93,42,1,1,1,room,34.8,0,0,0,1
+2024-April-09,April,Evening,Agric eggs medium size,2181.4,59,1,0,1,room,34.8,0,1,0,0
+2024-April-09,April,Evening,Beans brown,982.47,51,1,0,3,room,34.8,0,0,0,0
+2024-April-09,April,Evening,Beans white black eye,1274.9,29,1,0,4,room,34.8,0,0,0,0
+2024-April-09,April,Evening,Beef Bone in,1978.21,35,1,0,3,cold,34.8,0,0,0,0
+2024-April-09,April,Evening,Beef boneless,4124.33,13,1,0,3,cold,34.8,0,0,0,0
+2024-April-09,April,Evening,Catfish (obokun) fresh,2812.3,50,1,0,2,cold,34.8,0,0,0,1
+2024-April-09,April,Evening,Catfish dried,6239.4,58,1,0,5,room,34.8,0,0,0,0
+2024-April-09,April,Evening,Chicken Wings,3581.74,47,1,0,3,cold,34.8,0,0,0,0
+2024-April-09,April,Evening,Tomato,1416.7,22,1,0,4,room,34.8,0,0,0,0
+2024-April-09,April,Evening,Onion bulb,866.88,22,1,1,4,room,34.8,0,0,0,0
+2024-April-09,April,Evening,Sweet potato,745.01,17,1,0,5,room,34.8,0,0,0,0
+2024-April-09,April,Evening,Yam tuber,566.5,19,1,1,4,room,34.8,0,0,0,1
+2024-April-10,April,Morning,Agric eggs medium size,1977.4,24,1,0,2,room,34.8,0,0,0,0
+2024-April-10,April,Morning,Beans brown,1402.53,58,1,0,3,room,34.8,0,0,0,0
+2024-April-10,April,Morning,Beans white black eye,1784.9,57,1,0,3,room,34.8,0,0,0,1
+2024-April-10,April,Morning,Beef Bone in,4346.83,53,1,0,2,cold,34.8,0,0,0,1
+2024-April-10,April,Morning,Beef boneless,5581.89,52,1,0,2,cold,34.8,0,0,0,1
+2024-April-10,April,Morning,Catfish (obokun) fresh,4413.93,111,1,0,3,cold,34.8,1,0,0,0
+2024-April-10,April,Morning,Catfish dried,6441.1,76,1,0,4,room,34.8,0,0,0,0
+2024-April-10,April,Morning,Chicken Wings,3300.57,80,1,0,2,cold,34.8,0,0,0,1
+2024-April-10,April,Morning,Tomato,1359.61,59,1,0,3,room,34.8,0,0,0,0
+2024-April-10,April,Morning,Onion bulb,796.17,38,1,1,2,room,34.8,0,1,0,1
+2024-April-10,April,Morning,Sweet potato,865.37,54,1,0,5,room,34.8,0,0,0,1
+2024-April-10,April,Morning,Yam tuber,782.25,54,1,1,4,room,34.8,0,0,0,0
+2024-April-10,April,Afternoon,Agric eggs medium size,2807.22,58,1,0,5,room,34.8,0,1,0,0
+2024-April-10,April,Afternoon,Beans brown,1946.87,33,1,0,3,room,34.8,0,1,0,0
+2024-April-10,April,Afternoon,Beans white black eye,1554.65,37,1,0,1,room,34.8,0,0,0,0
+2024-April-10,April,Afternoon,Beef Bone in,4929.66,38,1,0,5,cold,34.8,0,0,0,0
+2024-April-10,April,Afternoon,Beef boneless,4741.33,57,1,0,5,cold,34.8,1,0,0,0
+2024-April-10,April,Afternoon,Catfish (obokun) fresh,2875.21,52,1,0,5,cold,34.8,1,0,0,0
+2024-April-10,April,Afternoon,Catfish dried,5817.79,41,1,0,1,room,34.8,1,0,0,0
+2024-April-10,April,Afternoon,Chicken Wings,4352.8,47,1,0,4,cold,34.8,1,0,0,1
+2024-April-10,April,Afternoon,Tomato,1286.04,82,1,0,3,room,34.8,0,0,0,0
+2024-April-10,April,Afternoon,Onion bulb,1508.32,39,1,1,3,room,34.8,0,0,0,0
+2024-April-10,April,Afternoon,Sweet potato,812.89,47,1,0,1,room,34.8,0,0,0,0
+2024-April-10,April,Afternoon,Yam tuber,953.69,70,1,1,3,room,34.8,0,0,0,0
+2024-April-10,April,Evening,Agric eggs medium size,775.97,34,1,0,2,room,34.8,0,0,0,1
+2024-April-10,April,Evening,Beans brown,1295.18,42,1,0,1,room,34.8,1,0,0,1
+2024-April-10,April,Evening,Beans white black eye,1510.55,51,1,0,3,room,34.8,0,0,0,0
+2024-April-10,April,Evening,Beef Bone in,3133.54,60,1,0,3,cold,34.8,0,0,0,0
+2024-April-10,April,Evening,Beef boneless,5201.34,32,1,0,4,cold,34.8,0,0,0,0
+2024-April-10,April,Evening,Catfish (obokun) fresh,1792.23,61,1,0,3,cold,34.8,0,0,0,0
+2024-April-10,April,Evening,Catfish dried,6041.13,44,1,0,3,room,34.8,0,0,0,0
+2024-April-10,April,Evening,Chicken Wings,1974.78,10,1,0,5,cold,34.8,0,0,0,1
+2024-April-10,April,Evening,Tomato,717.97,36,1,0,5,room,34.8,0,0,0,0
+2024-April-10,April,Evening,Onion bulb,468.94,49,1,1,2,room,34.8,0,0,0,0
+2024-April-10,April,Evening,Sweet potato,380.05,18,1,0,1,room,34.8,0,0,0,1
+2024-April-10,April,Evening,Yam tuber,491.63,77,1,1,2,room,34.8,0,0,0,1
+2024-April-11,April,Morning,Agric eggs medium size,1419.78,52,1,0,1,room,34.8,0,0,0,1
+2024-April-11,April,Morning,Beans brown,1951.61,42,1,0,5,room,34.8,0,0,0,1
+2024-April-11,April,Morning,Beans white black eye,1840.66,76,1,0,4,room,34.8,0,0,0,0
+2024-April-11,April,Morning,Beef Bone in,5852.23,37,1,0,3,cold,34.8,0,1,0,1
+2024-April-11,April,Morning,Beef boneless,6436.9,62,1,0,2,cold,34.8,0,0,0,1
+2024-April-11,April,Morning,Catfish (obokun) fresh,4278.4,51,1,0,4,cold,34.8,0,0,0,1
+2024-April-11,April,Morning,Catfish dried,7348.37,82,1,0,5,room,34.8,1,0,0,1
+2024-April-11,April,Morning,Chicken Wings,4037.93,70,1,0,1,cold,34.8,0,0,0,1
+2024-April-11,April,Morning,Tomato,1582.05,87,1,0,5,room,34.8,0,0,0,0
+2024-April-11,April,Morning,Onion bulb,985.69,19,1,1,4,room,34.8,0,1,0,1
+2024-April-11,April,Morning,Sweet potato,636.24,32,1,0,4,room,34.8,0,0,0,1
+2024-April-11,April,Morning,Yam tuber,747.05,94,1,1,3,room,34.8,1,0,0,1
+2024-April-11,April,Afternoon,Agric eggs medium size,2638.55,70,1,0,4,room,34.8,0,0,0,0
+2024-April-11,April,Afternoon,Beans brown,1976.84,36,1,0,4,room,34.8,0,0,0,0
+2024-April-11,April,Afternoon,Beans white black eye,1723.9,80,1,0,2,room,34.8,0,0,0,0
+2024-April-11,April,Afternoon,Beef Bone in,4852.48,66,1,0,5,cold,34.8,1,0,0,1
+2024-April-11,April,Afternoon,Beef boneless,6165.79,53,1,0,1,cold,34.8,0,0,0,1
+2024-April-11,April,Afternoon,Catfish (obokun) fresh,3587.05,58,1,0,3,cold,34.8,0,0,0,0
+2024-April-11,April,Afternoon,Catfish dried,6923.74,43,1,0,4,room,34.8,0,0,0,1
+2024-April-11,April,Afternoon,Chicken Wings,3528.34,59,1,0,1,cold,34.8,0,0,0,0
+2024-April-11,April,Afternoon,Tomato,1776.37,41,1,0,1,room,34.8,0,0,0,0
+2024-April-11,April,Afternoon,Onion bulb,764.7,60,1,1,1,room,34.8,0,0,0,1
+2024-April-11,April,Afternoon,Sweet potato,1405.8,54,1,0,5,room,34.8,0,0,0,1
+2024-April-11,April,Afternoon,Yam tuber,627.78,36,1,1,2,room,34.8,0,0,0,0
+2024-April-11,April,Evening,Agric eggs medium size,833.83,54,1,0,4,room,34.8,0,0,0,0
+2024-April-11,April,Evening,Beans brown,679.53,43,1,0,3,room,34.8,0,0,0,0
+2024-April-11,April,Evening,Beans white black eye,1233.11,23,1,0,4,room,34.8,0,0,0,0
+2024-April-11,April,Evening,Beef Bone in,2726.93,54,1,0,4,cold,34.8,1,0,0,1
+2024-April-11,April,Evening,Beef boneless,4650.82,25,1,0,2,cold,34.8,0,0,0,1
+2024-April-11,April,Evening,Catfish (obokun) fresh,2997.66,28,1,0,1,cold,34.8,0,0,0,0
+2024-April-11,April,Evening,Catfish dried,4597.51,22,1,0,1,room,34.8,0,0,0,0
+2024-April-11,April,Evening,Chicken Wings,2440.11,55,1,0,3,cold,34.8,0,0,0,0
+2024-April-11,April,Evening,Tomato,1177.12,75,1,0,4,room,34.8,1,0,0,0
+2024-April-11,April,Evening,Onion bulb,663.29,37,1,1,1,room,34.8,1,0,0,1
+2024-April-11,April,Evening,Sweet potato,413.06,38,1,0,3,room,34.8,0,0,0,0
+2024-April-11,April,Evening,Yam tuber,530.27,26,1,1,2,room,34.8,0,0,0,1
+2024-April-12,April,Morning,Agric eggs medium size,2436.77,49,1,0,5,room,34.8,0,0,1,0
+2024-April-12,April,Morning,Beans brown,1877.25,25,1,0,4,room,34.8,0,0,1,1
+2024-April-12,April,Morning,Beans white black eye,1223.76,45,1,0,5,room,34.8,0,1,1,1
+2024-April-12,April,Morning,Beef Bone in,4174.21,21,1,0,4,cold,34.8,0,1,1,1
+2024-April-12,April,Morning,Beef boneless,5866.49,37,1,0,1,cold,34.8,0,1,1,1
+2024-April-12,April,Morning,Catfish (obokun) fresh,3668.72,52,1,0,4,cold,34.8,0,0,1,1
+2024-April-12,April,Morning,Catfish dried,7505.37,46,1,0,3,room,34.8,0,0,1,0
+2024-April-12,April,Morning,Chicken Wings,3594.17,83,1,0,5,cold,34.8,0,0,1,1
+2024-April-12,April,Morning,Tomato,1591.4,37,1,0,5,room,34.8,0,0,1,1
+2024-April-12,April,Morning,Onion bulb,991.7,85,1,1,3,room,34.8,0,0,1,1
+2024-April-12,April,Morning,Sweet potato,929.22,38,1,0,2,room,34.8,0,1,1,0
+2024-April-12,April,Morning,Yam tuber,677.92,77,1,1,4,room,34.8,1,0,1,1
+2024-April-12,April,Afternoon,Agric eggs medium size,1649.23,20,1,0,1,room,34.8,0,0,1,0
+2024-April-12,April,Afternoon,Beans brown,1641.49,63,1,0,5,room,34.8,0,0,1,0
+2024-April-12,April,Afternoon,Beans white black eye,1705.98,34,1,0,3,room,34.8,0,0,1,0
+2024-April-12,April,Afternoon,Beef Bone in,4149.1,56,1,0,5,cold,34.8,0,0,1,0
+2024-April-12,April,Afternoon,Beef boneless,5763.78,57,1,0,5,cold,34.8,0,0,1,1
+2024-April-12,April,Afternoon,Catfish (obokun) fresh,4298.55,17,1,0,1,cold,34.8,0,0,1,0
+2024-April-12,April,Afternoon,Catfish dried,7760.23,34,1,0,3,room,34.8,0,0,1,0
+2024-April-12,April,Afternoon,Chicken Wings,2999.21,37,1,0,1,cold,34.8,0,0,1,0
+2024-April-12,April,Afternoon,Tomato,1911.05,29,1,0,2,room,34.8,0,0,1,1
+2024-April-12,April,Afternoon,Onion bulb,950.98,35,1,1,1,room,34.8,0,0,1,1
+2024-April-12,April,Afternoon,Sweet potato,795.43,39,1,0,2,room,34.8,0,0,1,0
+2024-April-12,April,Afternoon,Yam tuber,560.16,49,1,1,1,room,34.8,1,0,1,1
+2024-April-12,April,Evening,Agric eggs medium size,1624.38,56,1,0,3,room,34.8,0,0,1,0
+2024-April-12,April,Evening,Beans brown,1336.49,19,1,0,3,room,34.8,0,0,1,0
+2024-April-12,April,Evening,Beans white black eye,1022.14,30,1,0,2,room,34.8,1,0,1,0
+2024-April-12,April,Evening,Beef Bone in,2489.61,13,1,0,5,cold,34.8,0,0,1,0
+2024-April-12,April,Evening,Beef boneless,2546.79,15,1,0,2,cold,34.8,0,0,1,0
+2024-April-12,April,Evening,Catfish (obokun) fresh,3557.91,16,1,0,4,cold,34.8,0,0,1,0
+2024-April-12,April,Evening,Catfish dried,4911.74,39,1,0,1,room,34.8,0,0,1,0
+2024-April-12,April,Evening,Chicken Wings,3038.71,34,1,0,4,cold,34.8,0,0,1,0
+2024-April-12,April,Evening,Tomato,734.29,79,1,0,4,room,34.8,1,0,1,1
+2024-April-12,April,Evening,Onion bulb,775.34,27,1,1,5,room,34.8,0,0,1,1
+2024-April-12,April,Evening,Sweet potato,586.91,57,1,0,5,room,34.8,1,0,1,0
+2024-April-12,April,Evening,Yam tuber,379.69,36,1,1,3,room,34.8,1,0,1,1
+2024-April-13,April,Morning,Agric eggs medium size,2089.69,71,1,0,5,room,34.8,0,0,0,0
+2024-April-13,April,Morning,Beans brown,1956.16,79,1,0,3,room,34.8,0,0,0,1
+2024-April-13,April,Morning,Beans white black eye,1433.41,71,1,0,3,room,34.8,0,0,0,1
+2024-April-13,April,Morning,Beef Bone in,3862.56,60,1,0,2,cold,34.8,0,0,0,1
+2024-April-13,April,Morning,Beef boneless,5483.2,72,1,0,2,cold,34.8,0,0,0,0
+2024-April-13,April,Morning,Catfish (obokun) fresh,4257.55,66,1,0,5,cold,34.8,1,0,0,1
+2024-April-13,April,Morning,Catfish dried,5915.74,71,1,0,3,room,34.8,0,0,0,1
+2024-April-13,April,Morning,Chicken Wings,4631.31,36,1,0,5,cold,34.8,0,0,0,1
+2024-April-13,April,Morning,Tomato,1172.8,46,1,0,1,room,34.8,0,1,0,1
+2024-April-13,April,Morning,Onion bulb,965.2,63,1,1,2,room,34.8,0,0,0,0
+2024-April-13,April,Morning,Sweet potato,867.76,81,1,0,3,room,34.8,0,0,0,1
+2024-April-13,April,Morning,Yam tuber,906.68,58,1,1,4,room,34.8,0,0,0,1
+2024-April-13,April,Afternoon,Agric eggs medium size,2099.04,79,1,0,3,room,34.8,0,0,0,0
+2024-April-13,April,Afternoon,Beans brown,1780.2,72,1,0,3,room,34.8,1,0,0,1
+2024-April-13,April,Afternoon,Beans white black eye,1368.79,61,1,0,2,room,34.8,0,0,0,1
+2024-April-13,April,Afternoon,Beef Bone in,4153.3,48,1,0,3,cold,34.8,0,0,0,0
+2024-April-13,April,Afternoon,Beef boneless,6078.01,50,1,0,1,cold,34.8,0,0,0,1
+2024-April-13,April,Afternoon,Catfish (obokun) fresh,4094.71,51,1,0,3,cold,34.8,0,0,0,1
+2024-April-13,April,Afternoon,Catfish dried,7376.94,33,1,0,4,room,34.8,0,0,0,0
+2024-April-13,April,Afternoon,Chicken Wings,3026.59,42,1,0,5,cold,34.8,0,0,0,0
+2024-April-13,April,Afternoon,Tomato,1420.26,57,1,0,1,room,34.8,0,0,0,1
+2024-April-13,April,Afternoon,Onion bulb,675.47,36,1,1,4,room,34.8,0,0,0,1
+2024-April-13,April,Afternoon,Sweet potato,613.45,29,1,0,1,room,34.8,0,0,0,0
+2024-April-13,April,Afternoon,Yam tuber,846.94,115,1,1,2,room,34.8,1,0,0,0
+2024-April-13,April,Evening,Agric eggs medium size,1994.22,32,1,0,5,room,34.8,0,0,0,0
+2024-April-13,April,Evening,Beans brown,840.26,36,1,0,2,room,34.8,0,0,0,0
+2024-April-13,April,Evening,Beans white black eye,1173.28,40,1,0,2,room,34.8,0,1,0,0
+2024-April-13,April,Evening,Beef Bone in,3543.68,41,1,0,1,cold,34.8,0,0,0,0
+2024-April-13,April,Evening,Beef boneless,3731.53,29,1,0,2,cold,34.8,0,0,0,0
+2024-April-13,April,Evening,Catfish (obokun) fresh,2535.69,10,1,0,3,cold,34.8,0,0,0,0
+2024-April-13,April,Evening,Catfish dried,2208.29,34,1,0,1,room,34.8,0,1,0,0
+2024-April-13,April,Evening,Chicken Wings,2309.23,37,1,0,4,cold,34.8,1,0,0,0
+2024-April-13,April,Evening,Tomato,1472.11,120,1,0,4,room,34.8,1,0,0,1
+2024-April-13,April,Evening,Onion bulb,1010.74,27,1,1,4,room,34.8,0,0,0,0
+2024-April-13,April,Evening,Sweet potato,301.78,57,1,0,1,room,34.8,0,0,0,0
+2024-April-13,April,Evening,Yam tuber,324.92,29,1,1,4,room,34.8,1,0,0,0
+2024-April-14,April,Morning,Agric eggs medium size,2736.0,49,1,0,3,room,34.8,0,1,0,1
+2024-April-14,April,Morning,Beans brown,1894.76,48,1,0,1,room,34.8,0,0,0,1
+2024-April-14,April,Morning,Beans white black eye,1034.28,107,1,0,2,room,34.8,1,0,0,0
+2024-April-14,April,Morning,Beef Bone in,4974.29,66,1,0,4,cold,34.8,0,0,0,0
+2024-April-14,April,Morning,Beef boneless,4907.65,54,1,0,5,cold,34.8,0,0,0,0
+2024-April-14,April,Morning,Catfish (obokun) fresh,4645.73,73,1,0,2,cold,34.8,0,0,0,1
+2024-April-14,April,Morning,Catfish dried,10369.97,58,1,0,5,room,34.8,0,0,0,1
+2024-April-14,April,Morning,Chicken Wings,4087.75,35,1,0,2,cold,34.8,0,0,0,1
+2024-April-14,April,Morning,Tomato,1156.81,66,1,0,4,room,34.8,0,0,0,1
+2024-April-14,April,Morning,Onion bulb,1292.26,30,1,1,3,room,34.8,0,0,0,1
+2024-April-14,April,Morning,Sweet potato,663.61,83,1,0,2,room,34.8,0,0,0,1
+2024-April-14,April,Morning,Yam tuber,696.71,30,1,1,2,room,34.8,0,0,0,1
+2024-April-14,April,Afternoon,Agric eggs medium size,2529.37,19,1,0,3,room,34.8,0,0,0,0
+2024-April-14,April,Afternoon,Beans brown,1476.83,77,1,0,1,room,34.8,0,0,0,0
+2024-April-14,April,Afternoon,Beans white black eye,1672.56,43,1,0,4,room,34.8,0,0,0,0
+2024-April-14,April,Afternoon,Beef Bone in,4145.96,60,1,0,1,cold,34.8,0,0,0,0
+2024-April-14,April,Afternoon,Beef boneless,6217.72,57,1,0,1,cold,34.8,0,0,0,1
+2024-April-14,April,Afternoon,Catfish (obokun) fresh,4540.8,22,1,0,4,cold,34.8,0,0,0,1
+2024-April-14,April,Afternoon,Catfish dried,7110.44,48,1,0,5,room,34.8,0,0,0,0
+2024-April-14,April,Afternoon,Chicken Wings,3645.31,52,1,0,3,cold,34.8,0,0,0,1
+2024-April-14,April,Afternoon,Tomato,1018.83,50,1,0,1,room,34.8,1,0,0,0
+2024-April-14,April,Afternoon,Onion bulb,530.59,28,1,1,1,room,34.8,0,0,0,1
+2024-April-14,April,Afternoon,Sweet potato,997.91,49,1,0,3,room,34.8,0,0,0,1
+2024-April-14,April,Afternoon,Yam tuber,1220.4,44,1,1,5,room,34.8,0,0,0,1
+2024-April-14,April,Evening,Agric eggs medium size,742.65,19,1,0,1,room,34.8,0,0,0,0
+2024-April-14,April,Evening,Beans brown,1479.27,39,1,0,5,room,34.8,0,0,0,0
+2024-April-14,April,Evening,Beans white black eye,1405.6,49,1,0,5,room,34.8,0,0,0,0
+2024-April-14,April,Evening,Beef Bone in,3004.27,85,1,0,2,cold,34.8,1,0,0,0
+2024-April-14,April,Evening,Beef boneless,4505.51,67,1,0,2,cold,34.8,0,0,0,0
+2024-April-14,April,Evening,Catfish (obokun) fresh,2233.11,66,1,0,4,cold,34.8,0,0,0,1
+2024-April-14,April,Evening,Catfish dried,4097.32,49,1,0,1,room,34.8,0,1,0,0
+2024-April-14,April,Evening,Chicken Wings,2787.72,44,1,0,2,cold,34.8,0,0,0,0
+2024-April-14,April,Evening,Tomato,942.18,26,1,0,5,room,34.8,0,0,0,0
+2024-April-14,April,Evening,Onion bulb,751.7,58,1,1,4,room,34.8,1,0,0,1
+2024-April-14,April,Evening,Sweet potato,737.68,34,1,0,2,room,34.8,0,0,0,0
+2024-April-14,April,Evening,Yam tuber,554.88,47,1,1,2,room,34.8,0,0,0,0
+2024-April-15,April,Morning,Agric eggs medium size,2318.42,65,1,0,2,room,34.8,0,0,0,0
+2024-April-15,April,Morning,Beans brown,1588.84,17,1,0,5,room,34.8,1,0,0,0
+2024-April-15,April,Morning,Beans white black eye,1474.28,37,1,0,3,room,34.8,0,0,0,0
+2024-April-15,April,Morning,Beef Bone in,4298.61,39,1,0,3,cold,34.8,0,0,0,1
+2024-April-15,April,Morning,Beef boneless,5705.57,41,1,0,4,cold,34.8,0,0,0,0
+2024-April-15,April,Morning,Catfish (obokun) fresh,3831.55,72,1,0,2,cold,34.8,0,0,0,1
+2024-April-15,April,Morning,Catfish dried,6874.71,51,1,0,3,room,34.8,0,0,0,1
+2024-April-15,April,Morning,Chicken Wings,3182.05,45,1,0,1,cold,34.8,1,0,0,1
+2024-April-15,April,Morning,Tomato,858.79,57,1,0,3,room,34.8,0,0,0,1
+2024-April-15,April,Morning,Onion bulb,755.47,98,1,1,3,room,34.8,0,0,0,1
+2024-April-15,April,Morning,Sweet potato,1028.71,40,1,0,3,room,34.8,0,0,0,1
+2024-April-15,April,Morning,Yam tuber,562.77,61,1,1,1,room,34.8,0,1,0,1
+2024-April-15,April,Afternoon,Agric eggs medium size,2032.88,52,1,0,4,room,34.8,0,0,0,0
+2024-April-15,April,Afternoon,Beans brown,1762.72,59,1,0,1,room,34.8,0,0,0,0
+2024-April-15,April,Afternoon,Beans white black eye,1870.04,47,1,0,4,room,34.8,0,0,0,0
+2024-April-15,April,Afternoon,Beef Bone in,4424.39,61,1,0,2,cold,34.8,0,0,0,0
+2024-April-15,April,Afternoon,Beef boneless,5516.44,43,1,0,3,cold,34.8,1,1,0,0
+2024-April-15,April,Afternoon,Catfish (obokun) fresh,3552.68,75,1,0,5,cold,34.8,0,0,0,1
+2024-April-15,April,Afternoon,Catfish dried,9181.72,53,1,0,3,room,34.8,0,1,0,1
+2024-April-15,April,Afternoon,Chicken Wings,3732.24,87,1,0,1,cold,34.8,1,0,0,1
+2024-April-15,April,Afternoon,Tomato,2473.23,60,1,0,5,room,34.8,0,0,0,1
+2024-April-15,April,Afternoon,Onion bulb,712.2,45,1,1,2,room,34.8,0,0,0,0
+2024-April-15,April,Afternoon,Sweet potato,1053.27,50,1,0,2,room,34.8,0,0,0,0
+2024-April-15,April,Afternoon,Yam tuber,713.85,77,1,1,4,room,34.8,1,0,0,0
+2024-April-15,April,Evening,Agric eggs medium size,1310.38,46,1,0,5,room,34.8,0,0,0,0
+2024-April-15,April,Evening,Beans brown,1402.61,51,1,0,5,room,34.8,0,1,0,1
+2024-April-15,April,Evening,Beans white black eye,1042.79,54,1,0,2,room,34.8,0,0,0,1
+2024-April-15,April,Evening,Beef Bone in,3100.38,31,1,0,1,cold,34.8,0,0,0,0
+2024-April-15,April,Evening,Beef boneless,4462.89,19,1,0,5,cold,34.8,0,0,0,0
+2024-April-15,April,Evening,Catfish (obokun) fresh,3089.44,61,1,0,2,cold,34.8,0,1,0,0
+2024-April-15,April,Evening,Catfish dried,2932.78,41,1,0,5,room,34.8,1,0,0,1
+2024-April-15,April,Evening,Chicken Wings,2973.2,43,1,0,3,cold,34.8,1,0,0,0
+2024-April-15,April,Evening,Tomato,941.51,64,1,0,1,room,34.8,0,1,0,1
+2024-April-15,April,Evening,Onion bulb,648.32,31,1,1,4,room,34.8,0,0,0,1
+2024-April-15,April,Evening,Sweet potato,385.43,49,1,0,3,room,34.8,1,0,0,1
+2024-April-15,April,Evening,Yam tuber,535.5,24,1,1,5,room,34.8,0,0,0,0
+2024-July-01,July,Morning,Agric eggs medium size,1933.2,65,1,0,3,room,34.8,0,0,0,0
+2024-July-01,July,Morning,Beans brown,1250.47,25,1,0,1,room,34.8,0,0,0,0
+2024-July-01,July,Morning,Beans white black eye,1630.18,59,1,0,5,room,34.8,1,1,0,0
+2024-July-01,July,Morning,Beef Bone in,4118.19,118,1,0,1,cold,34.8,1,0,0,1
+2024-July-01,July,Morning,Beef boneless,6381.02,100,1,0,5,cold,34.8,0,0,0,1
+2024-July-01,July,Morning,Catfish (obokun) fresh,4449.93,83,1,0,4,cold,34.8,0,0,0,1
+2024-July-01,July,Morning,Catfish dried,5929.13,81,1,0,5,room,34.8,1,0,0,1
+2024-July-01,July,Morning,Chicken Wings,5992.94,45,1,0,2,cold,34.8,0,1,0,0
+2024-July-01,July,Morning,Tomato,1044.65,59,1,0,1,room,34.8,0,0,0,0
+2024-July-01,July,Morning,Onion bulb,1860.65,34,1,0,4,room,34.8,0,0,0,0
+2024-July-01,July,Morning,Sweet potato,434.18,29,1,1,2,room,34.8,0,0,0,1
+2024-July-01,July,Morning,Yam tuber,749.56,49,1,1,5,room,34.8,0,0,0,0
+2024-July-01,July,Afternoon,Agric eggs medium size,1809.95,71,1,0,3,room,34.8,0,0,0,1
+2024-July-01,July,Afternoon,Beans brown,1304.0,41,1,0,2,room,34.8,0,0,0,1
+2024-July-01,July,Afternoon,Beans white black eye,1397.15,47,1,0,1,room,34.8,0,0,0,1
+2024-July-01,July,Afternoon,Beef Bone in,4092.37,55,1,0,2,cold,34.8,0,0,0,0
+2024-July-01,July,Afternoon,Beef boneless,5679.61,53,1,0,3,cold,34.8,0,0,0,1
+2024-July-01,July,Afternoon,Catfish (obokun) fresh,4829.51,31,1,0,2,cold,34.8,0,0,0,1
+2024-July-01,July,Afternoon,Catfish dried,6941.74,35,1,0,3,room,34.8,0,1,0,1
+2024-July-01,July,Afternoon,Chicken Wings,3740.29,51,1,0,3,cold,34.8,0,0,0,1
+2024-July-01,July,Afternoon,Tomato,1972.06,103,1,0,4,room,34.8,1,0,0,1
+2024-July-01,July,Afternoon,Onion bulb,1246.16,53,1,0,3,room,34.8,0,0,0,0
+2024-July-01,July,Afternoon,Sweet potato,525.86,29,1,1,1,room,34.8,0,0,0,1
+2024-July-01,July,Afternoon,Yam tuber,855.64,48,1,1,5,room,34.8,0,0,0,0
+2024-July-01,July,Evening,Agric eggs medium size,1396.52,65,1,0,4,room,34.8,0,0,0,0
+2024-July-01,July,Evening,Beans brown,1558.43,66,1,0,4,room,34.8,0,0,0,0
+2024-July-01,July,Evening,Beans white black eye,1578.74,35,1,0,5,room,34.8,0,0,0,0
+2024-July-01,July,Evening,Beef Bone in,1375.26,28,1,0,2,cold,34.8,0,0,0,0
+2024-July-01,July,Evening,Beef boneless,3630.53,33,1,0,2,cold,34.8,0,0,0,0
+2024-July-01,July,Evening,Catfish (obokun) fresh,2395.82,24,1,0,1,cold,34.8,0,0,0,1
+2024-July-01,July,Evening,Catfish dried,6924.37,20,1,0,3,room,34.8,0,0,0,1
+2024-July-01,July,Evening,Chicken Wings,1819.84,32,1,0,1,cold,34.8,0,0,0,0
+2024-July-01,July,Evening,Tomato,571.67,33,1,0,2,room,34.8,0,0,0,1
+2024-July-01,July,Evening,Onion bulb,752.46,72,1,0,3,room,34.8,1,0,0,0
+2024-July-01,July,Evening,Sweet potato,360.98,13,1,1,2,room,34.8,0,0,0,1
+2024-July-01,July,Evening,Yam tuber,691.0,52,1,1,5,room,34.8,0,0,0,0
+2024-July-02,July,Morning,Agric eggs medium size,2610.68,53,1,0,4,room,34.8,0,0,0,1
+2024-July-02,July,Morning,Beans brown,1614.6,77,1,0,5,room,34.8,0,0,0,0
+2024-July-02,July,Morning,Beans white black eye,1499.17,100,1,0,1,room,34.8,0,1,0,1
+2024-July-02,July,Morning,Beef Bone in,4197.88,60,1,0,1,cold,34.8,0,0,0,0
+2024-July-02,July,Morning,Beef boneless,6601.0,49,1,0,3,cold,34.8,0,0,0,1
+2024-July-02,July,Morning,Catfish (obokun) fresh,3750.85,70,1,0,4,cold,34.8,0,0,0,1
+2024-July-02,July,Morning,Catfish dried,7686.31,66,1,0,4,room,34.8,0,0,0,0
+2024-July-02,July,Morning,Chicken Wings,4404.31,40,1,0,3,cold,34.8,0,0,0,1
+2024-July-02,July,Morning,Tomato,1566.7,62,1,0,2,room,34.8,0,0,0,0
+2024-July-02,July,Morning,Onion bulb,940.32,49,1,0,3,room,34.8,0,0,0,0
+2024-July-02,July,Morning,Sweet potato,289.57,66,1,1,4,room,34.8,0,0,0,0
+2024-July-02,July,Morning,Yam tuber,604.27,53,1,1,1,room,34.8,0,0,0,1
+2024-July-02,July,Afternoon,Agric eggs medium size,1689.79,34,1,0,1,room,34.8,0,0,0,0
+2024-July-02,July,Afternoon,Beans brown,1482.48,20,1,0,1,room,34.8,0,0,0,0
+2024-July-02,July,Afternoon,Beans white black eye,1747.36,63,1,0,1,room,34.8,0,0,0,0
+2024-July-02,July,Afternoon,Beef Bone in,3370.45,41,1,0,5,cold,34.8,1,0,0,0
+2024-July-02,July,Afternoon,Beef boneless,5317.69,42,1,0,1,cold,34.8,0,0,0,0
+2024-July-02,July,Afternoon,Catfish (obokun) fresh,5021.84,47,1,0,4,cold,34.8,0,1,0,1
+2024-July-02,July,Afternoon,Catfish dried,7742.92,46,1,0,5,room,34.8,0,0,0,1
+2024-July-02,July,Afternoon,Chicken Wings,3761.77,37,1,0,2,cold,34.8,0,0,0,1
+2024-July-02,July,Afternoon,Tomato,1307.84,67,1,0,1,room,34.8,1,0,0,1
+2024-July-02,July,Afternoon,Onion bulb,1301.34,36,1,0,5,room,34.8,0,0,0,1
+2024-July-02,July,Afternoon,Sweet potato,618.31,60,1,1,1,room,34.8,0,1,0,0
+2024-July-02,July,Afternoon,Yam tuber,780.33,30,1,1,1,room,34.8,0,0,0,1
+2024-July-02,July,Evening,Agric eggs medium size,1570.16,31,1,0,5,room,34.8,0,0,0,0
+2024-July-02,July,Evening,Beans brown,925.75,39,1,0,2,room,34.8,0,0,0,1
+2024-July-02,July,Evening,Beans white black eye,1387.13,32,1,0,3,room,34.8,0,0,0,0
+2024-July-02,July,Evening,Beef Bone in,3046.71,41,1,0,4,cold,34.8,0,0,0,1
+2024-July-02,July,Evening,Beef boneless,4503.9,62,1,0,1,cold,34.8,1,0,0,1
+2024-July-02,July,Evening,Catfish (obokun) fresh,2846.37,37,1,0,5,cold,34.8,0,0,0,1
+2024-July-02,July,Evening,Catfish dried,5114.72,48,1,0,5,room,34.8,0,0,0,0
+2024-July-02,July,Evening,Chicken Wings,3067.64,31,1,0,1,cold,34.8,0,0,0,0
+2024-July-02,July,Evening,Tomato,1213.58,36,1,0,1,room,34.8,0,0,0,0
+2024-July-02,July,Evening,Onion bulb,727.98,64,1,0,5,room,34.8,1,0,0,0
+2024-July-02,July,Evening,Sweet potato,522.51,31,1,1,4,room,34.8,0,0,0,1
+2024-July-02,July,Evening,Yam tuber,434.09,43,1,1,4,room,34.8,0,0,0,1
+2024-July-03,July,Morning,Agric eggs medium size,2378.72,51,1,0,1,room,34.8,0,0,0,1
+2024-July-03,July,Morning,Beans brown,1878.33,88,1,0,4,room,34.8,0,0,0,0
+2024-July-03,July,Morning,Beans white black eye,1529.23,108,1,0,2,room,34.8,1,0,0,1
+2024-July-03,July,Morning,Beef Bone in,4690.98,58,1,0,4,cold,34.8,0,0,0,0
+2024-July-03,July,Morning,Beef boneless,5826.81,82,1,0,3,cold,34.8,0,0,0,1
+2024-July-03,July,Morning,Catfish (obokun) fresh,4384.77,53,1,0,5,cold,34.8,0,0,0,0
+2024-July-03,July,Morning,Catfish dried,7807.97,10,1,0,2,room,34.8,0,0,0,1
+2024-July-03,July,Morning,Chicken Wings,3752.32,47,1,0,5,cold,34.8,1,0,0,0
+2024-July-03,July,Morning,Tomato,1151.19,63,1,0,1,room,34.8,0,0,0,0
+2024-July-03,July,Morning,Onion bulb,1683.66,95,1,0,5,room,34.8,1,0,0,1
+2024-July-03,July,Morning,Sweet potato,518.51,69,1,1,1,room,34.8,0,0,0,0
+2024-July-03,July,Morning,Yam tuber,862.75,37,1,1,4,room,34.8,0,0,0,1
+2024-July-03,July,Afternoon,Agric eggs medium size,1632.25,53,1,0,3,room,34.8,0,0,0,0
+2024-July-03,July,Afternoon,Beans brown,1598.65,60,1,0,1,room,34.8,0,0,0,0
+2024-July-03,July,Afternoon,Beans white black eye,1744.75,37,1,0,5,room,34.8,0,0,0,0
+2024-July-03,July,Afternoon,Beef Bone in,5122.38,57,1,0,2,cold,34.8,0,1,0,1
+2024-July-03,July,Afternoon,Beef boneless,5823.95,60,1,0,3,cold,34.8,0,0,0,0
+2024-July-03,July,Afternoon,Catfish (obokun) fresh,3854.63,51,1,0,2,cold,34.8,0,0,0,1
+2024-July-03,July,Afternoon,Catfish dried,8499.56,36,1,0,3,room,34.8,0,0,0,0
+2024-July-03,July,Afternoon,Chicken Wings,3587.7,10,1,0,1,cold,34.8,0,0,0,1
+2024-July-03,July,Afternoon,Tomato,1177.73,53,1,0,2,room,34.8,0,0,0,0
+2024-July-03,July,Afternoon,Onion bulb,1416.13,77,1,0,5,room,34.8,0,0,0,0
+2024-July-03,July,Afternoon,Sweet potato,345.09,111,1,1,3,room,34.8,1,0,0,1
+2024-July-03,July,Afternoon,Yam tuber,576.99,54,1,1,2,room,34.8,0,0,0,0
+2024-July-03,July,Evening,Agric eggs medium size,1469.23,46,1,0,4,room,34.8,0,0,0,1
+2024-July-03,July,Evening,Beans brown,1201.99,32,1,0,2,room,34.8,0,1,0,1
+2024-July-03,July,Evening,Beans white black eye,991.22,39,1,0,2,room,34.8,0,0,0,0
+2024-July-03,July,Evening,Beef Bone in,2011.54,47,1,0,1,cold,34.8,0,0,0,0
+2024-July-03,July,Evening,Beef boneless,5362.81,80,1,0,4,cold,34.8,1,0,0,0
+2024-July-03,July,Evening,Catfish (obokun) fresh,3006.84,51,1,0,4,cold,34.8,0,0,0,0
+2024-July-03,July,Evening,Catfish dried,4034.3,43,1,0,5,room,34.8,1,0,0,0
+2024-July-03,July,Evening,Chicken Wings,3232.17,44,1,0,5,cold,34.8,0,0,0,0
+2024-July-03,July,Evening,Tomato,1781.74,19,1,0,5,room,34.8,0,0,0,0
+2024-July-03,July,Evening,Onion bulb,1126.3,35,1,0,2,room,34.8,0,0,0,0
+2024-July-03,July,Evening,Sweet potato,296.54,32,1,1,2,room,34.8,0,0,0,1
+2024-July-03,July,Evening,Yam tuber,430.18,17,1,1,4,room,34.8,0,1,0,1
+2024-July-04,July,Morning,Agric eggs medium size,2318.84,21,1,0,5,room,34.8,0,0,0,1
+2024-July-04,July,Morning,Beans brown,1658.7,43,1,0,2,room,34.8,0,0,0,0
+2024-July-04,July,Morning,Beans white black eye,1457.28,33,1,0,3,room,34.8,0,0,0,0
+2024-July-04,July,Morning,Beef Bone in,4049.73,60,1,0,2,cold,34.8,0,0,0,1
+2024-July-04,July,Morning,Beef boneless,4648.64,65,1,0,4,cold,34.8,0,0,0,1
+2024-July-04,July,Morning,Catfish (obokun) fresh,4185.39,68,1,0,5,cold,34.8,0,0,0,0
+2024-July-04,July,Morning,Catfish dried,7127.71,54,1,0,3,room,34.8,1,0,0,1
+2024-July-04,July,Morning,Chicken Wings,4862.11,36,1,0,3,cold,34.8,0,1,0,1
+2024-July-04,July,Morning,Tomato,1009.65,72,1,0,2,room,34.8,0,0,0,1
+2024-July-04,July,Morning,Onion bulb,1826.04,27,1,0,2,room,34.8,1,0,0,1
+2024-July-04,July,Morning,Sweet potato,524.47,70,1,1,5,room,34.8,0,0,0,1
+2024-July-04,July,Morning,Yam tuber,603.0,64,1,1,3,room,34.8,0,0,0,0
+2024-July-04,July,Afternoon,Agric eggs medium size,1978.4,54,1,0,1,room,34.8,0,0,0,0
+2024-July-04,July,Afternoon,Beans brown,1655.75,63,1,0,4,room,34.8,0,0,0,1
+2024-July-04,July,Afternoon,Beans white black eye,1871.01,39,1,0,3,room,34.8,0,0,0,1
+2024-July-04,July,Afternoon,Beef Bone in,3663.72,74,1,0,2,cold,34.8,1,0,0,0
+2024-July-04,July,Afternoon,Beef boneless,6771.51,42,1,0,4,cold,34.8,0,0,0,1
+2024-July-04,July,Afternoon,Catfish (obokun) fresh,4013.46,34,1,0,1,cold,34.8,0,0,0,0
+2024-July-04,July,Afternoon,Catfish dried,9703.17,60,1,0,2,room,34.8,0,1,0,0
+2024-July-04,July,Afternoon,Chicken Wings,3597.97,42,1,0,4,cold,34.8,1,1,0,1
+2024-July-04,July,Afternoon,Tomato,2379.28,96,1,0,2,room,34.8,1,0,0,1
+2024-July-04,July,Afternoon,Onion bulb,1593.76,63,1,0,5,room,34.8,0,1,0,1
+2024-July-04,July,Afternoon,Sweet potato,635.28,79,1,1,1,room,34.8,0,0,0,1
+2024-July-04,July,Afternoon,Yam tuber,647.25,54,1,1,5,room,34.8,0,0,0,0
+2024-July-04,July,Evening,Agric eggs medium size,1509.1,39,1,0,1,room,34.8,0,0,0,1
+2024-July-04,July,Evening,Beans brown,997.21,66,1,0,5,room,34.8,0,0,0,0
+2024-July-04,July,Evening,Beans white black eye,1291.78,21,1,0,5,room,34.8,0,0,0,0
+2024-July-04,July,Evening,Beef Bone in,2163.23,13,1,0,4,cold,34.8,0,0,0,0
+2024-July-04,July,Evening,Beef boneless,3484.5,79,1,0,3,cold,34.8,1,0,0,1
+2024-July-04,July,Evening,Catfish (obokun) fresh,3055.92,38,1,0,1,cold,34.8,0,0,0,1
+2024-July-04,July,Evening,Catfish dried,3150.45,40,1,0,1,room,34.8,1,0,0,0
+2024-July-04,July,Evening,Chicken Wings,2574.8,52,1,0,2,cold,34.8,0,0,0,1
+2024-July-04,July,Evening,Tomato,780.17,27,1,0,3,room,34.8,0,0,0,0
+2024-July-04,July,Evening,Onion bulb,883.9,67,1,0,5,room,34.8,1,0,0,0
+2024-July-04,July,Evening,Sweet potato,426.48,38,1,1,3,room,34.8,1,0,0,0
+2024-July-04,July,Evening,Yam tuber,393.87,20,1,1,5,room,34.8,1,0,0,1
+2024-July-05,July,Morning,Agric eggs medium size,2240.44,59,1,0,2,room,34.8,0,0,0,1
+2024-July-05,July,Morning,Beans brown,1727.3,92,1,0,2,room,34.8,0,0,0,1
+2024-July-05,July,Morning,Beans white black eye,1347.06,71,1,0,5,room,34.8,0,0,0,0
+2024-July-05,July,Morning,Beef Bone in,3930.94,60,1,0,2,cold,34.8,0,0,0,1
+2024-July-05,July,Morning,Beef boneless,6101.47,103,1,0,2,cold,34.8,0,0,0,0
+2024-July-05,July,Morning,Catfish (obokun) fresh,3835.81,55,1,0,2,cold,34.8,0,0,0,1
+2024-July-05,July,Morning,Catfish dried,10159.16,35,1,0,1,room,34.8,0,1,0,1
+2024-July-05,July,Morning,Chicken Wings,4579.55,40,1,0,2,cold,34.8,0,0,0,1
+2024-July-05,July,Morning,Tomato,1487.57,64,1,0,5,room,34.8,0,0,0,0
+2024-July-05,July,Morning,Onion bulb,1158.42,92,1,0,2,room,34.8,1,0,0,1
+2024-July-05,July,Morning,Sweet potato,466.82,86,1,1,5,room,34.8,0,0,0,1
+2024-July-05,July,Morning,Yam tuber,1063.94,60,1,1,5,room,34.8,0,1,0,1
+2024-July-05,July,Afternoon,Agric eggs medium size,1642.24,52,1,0,3,room,34.8,0,0,0,1
+2024-July-05,July,Afternoon,Beans brown,1159.85,63,1,0,1,room,34.8,1,0,0,0
+2024-July-05,July,Afternoon,Beans white black eye,1779.24,62,1,0,2,room,34.8,1,0,0,0
+2024-July-05,July,Afternoon,Beef Bone in,4844.39,37,1,0,5,cold,34.8,0,0,0,1
+2024-July-05,July,Afternoon,Beef boneless,4940.36,60,1,0,4,cold,34.8,0,0,0,0
+2024-July-05,July,Afternoon,Catfish (obokun) fresh,2911.11,27,1,0,1,cold,34.8,1,0,0,0
+2024-July-05,July,Afternoon,Catfish dried,7200.68,45,1,0,5,room,34.8,0,0,0,0
+2024-July-05,July,Afternoon,Chicken Wings,3221.73,40,1,0,1,cold,34.8,1,0,0,1
+2024-July-05,July,Afternoon,Tomato,1014.63,45,1,0,3,room,34.8,0,0,0,1
+2024-July-05,July,Afternoon,Onion bulb,1073.17,50,1,0,3,room,34.8,1,0,0,0
+2024-July-05,July,Afternoon,Sweet potato,482.15,74,1,1,2,room,34.8,1,0,0,1
+2024-July-05,July,Afternoon,Yam tuber,538.04,36,1,1,1,room,34.8,0,0,0,1
+2024-July-05,July,Evening,Agric eggs medium size,2344.99,47,1,0,3,room,34.8,0,0,0,1
+2024-July-05,July,Evening,Beans brown,1134.58,23,1,0,4,room,34.8,0,0,0,0
+2024-July-05,July,Evening,Beans white black eye,826.32,54,1,0,1,room,34.8,0,1,0,0
+2024-July-05,July,Evening,Beef Bone in,2709.65,26,1,0,2,cold,34.8,0,0,0,0
+2024-July-05,July,Evening,Beef boneless,5142.31,30,1,0,4,cold,34.8,0,1,0,1
+2024-July-05,July,Evening,Catfish (obokun) fresh,2540.17,29,1,0,1,cold,34.8,0,0,0,0
+2024-July-05,July,Evening,Catfish dried,3596.36,29,1,0,4,room,34.8,0,0,0,0
+2024-July-05,July,Evening,Chicken Wings,2287.82,24,1,0,2,cold,34.8,0,1,0,1
+2024-July-05,July,Evening,Tomato,817.18,37,1,0,2,room,34.8,0,0,0,0
+2024-July-05,July,Evening,Onion bulb,1174.74,59,1,0,4,room,34.8,0,0,0,0
+2024-July-05,July,Evening,Sweet potato,411.66,40,1,1,3,room,34.8,0,0,0,0
+2024-July-05,July,Evening,Yam tuber,482.94,25,1,1,2,room,34.8,0,0,0,0
+2024-July-06,July,Morning,Agric eggs medium size,1809.07,57,1,0,5,room,34.8,0,0,0,1
+2024-July-06,July,Morning,Beans brown,1140.53,121,1,0,1,room,34.8,1,0,0,1
+2024-July-06,July,Morning,Beans white black eye,1526.35,79,1,0,3,room,34.8,0,1,0,1
+2024-July-06,July,Morning,Beef Bone in,4285.24,91,1,0,5,cold,34.8,0,0,0,1
+2024-July-06,July,Morning,Beef boneless,6062.99,44,1,0,1,cold,34.8,0,0,0,1
+2024-July-06,July,Morning,Catfish (obokun) fresh,4412.21,36,1,0,1,cold,34.8,0,0,0,0
+2024-July-06,July,Morning,Catfish dried,8795.31,52,1,0,4,room,34.8,0,0,0,1
+2024-July-06,July,Morning,Chicken Wings,3295.15,48,1,0,1,cold,34.8,0,0,0,1
+2024-July-06,July,Morning,Tomato,1498.85,76,1,0,1,room,34.8,0,0,0,0
+2024-July-06,July,Morning,Onion bulb,1343.44,62,1,0,1,room,34.8,0,0,0,1
+2024-July-06,July,Morning,Sweet potato,495.38,60,1,1,1,room,34.8,0,1,0,1
+2024-July-06,July,Morning,Yam tuber,873.45,99,1,1,3,room,34.8,1,1,0,1
+2024-July-06,July,Afternoon,Agric eggs medium size,1822.78,76,1,0,2,room,34.8,1,0,0,1
+2024-July-06,July,Afternoon,Beans brown,1879.17,64,1,0,5,room,34.8,0,0,0,0
+2024-July-06,July,Afternoon,Beans white black eye,953.18,30,1,0,4,room,34.8,0,0,0,1
+2024-July-06,July,Afternoon,Beef Bone in,4472.81,48,1,0,5,cold,34.8,0,0,0,1
+2024-July-06,July,Afternoon,Beef boneless,6181.47,67,1,0,5,cold,34.8,0,0,0,1
+2024-July-06,July,Afternoon,Catfish (obokun) fresh,3449.96,45,1,0,1,cold,34.8,0,0,0,1
+2024-July-06,July,Afternoon,Catfish dried,5923.37,59,1,0,3,room,34.8,0,0,0,0
+2024-July-06,July,Afternoon,Chicken Wings,3925.89,60,1,0,4,cold,34.8,0,0,0,1
+2024-July-06,July,Afternoon,Tomato,1783.71,42,1,0,1,room,34.8,0,0,0,0
+2024-July-06,July,Afternoon,Onion bulb,1266.77,59,1,0,3,room,34.8,0,0,0,0
+2024-July-06,July,Afternoon,Sweet potato,554.11,75,1,1,2,room,34.8,1,1,0,1
+2024-July-06,July,Afternoon,Yam tuber,1073.94,53,1,1,4,room,34.8,0,1,0,1
+2024-July-06,July,Evening,Agric eggs medium size,1332.43,46,1,0,1,room,34.8,0,0,0,1
+2024-July-06,July,Evening,Beans brown,1258.04,34,1,0,4,room,34.8,0,0,0,0
+2024-July-06,July,Evening,Beans white black eye,1363.44,42,1,0,5,room,34.8,0,0,0,0
+2024-July-06,July,Evening,Beef Bone in,3127.31,45,1,0,5,cold,34.8,0,0,0,0
+2024-July-06,July,Evening,Beef boneless,3440.75,56,1,0,1,cold,34.8,1,0,0,1
+2024-July-06,July,Evening,Catfish (obokun) fresh,3322.62,48,1,0,3,cold,34.8,0,0,0,0
+2024-July-06,July,Evening,Catfish dried,5847.32,39,1,0,1,room,34.8,0,1,0,0
+2024-July-06,July,Evening,Chicken Wings,2974.4,20,1,0,3,cold,34.8,0,0,0,0
+2024-July-06,July,Evening,Tomato,1104.81,56,1,0,1,room,34.8,0,0,0,0
+2024-July-06,July,Evening,Onion bulb,1241.67,44,1,0,3,room,34.8,0,1,0,1
+2024-July-06,July,Evening,Sweet potato,209.58,32,1,1,1,room,34.8,0,0,0,0
+2024-July-06,July,Evening,Yam tuber,657.31,46,1,1,1,room,34.8,0,0,0,0
+2024-July-07,July,Morning,Agric eggs medium size,2548.12,74,1,0,5,room,34.8,0,0,0,1
+2024-July-07,July,Morning,Beans brown,1590.21,74,1,0,5,room,34.8,0,0,0,0
+2024-July-07,July,Morning,Beans white black eye,1517.47,60,1,0,5,room,34.8,0,0,0,0
+2024-July-07,July,Morning,Beef Bone in,4324.84,62,1,0,2,cold,34.8,0,0,0,0
+2024-July-07,July,Morning,Beef boneless,6054.23,77,1,0,1,cold,34.8,0,0,0,0
+2024-July-07,July,Morning,Catfish (obokun) fresh,3870.91,66,1,0,4,cold,34.8,0,0,0,1
+2024-July-07,July,Morning,Catfish dried,7806.39,72,1,0,3,room,34.8,0,0,0,0
+2024-July-07,July,Morning,Chicken Wings,4731.71,63,1,0,3,cold,34.8,0,1,0,1
+2024-July-07,July,Morning,Tomato,1656.22,69,1,0,4,room,34.8,0,0,0,1
+2024-July-07,July,Morning,Onion bulb,1085.96,33,1,0,1,room,34.8,0,0,0,1
+2024-July-07,July,Morning,Sweet potato,429.45,32,1,1,5,room,34.8,0,0,0,0
+2024-July-07,July,Morning,Yam tuber,726.7,46,1,1,3,room,34.8,0,0,0,0
+2024-July-07,July,Afternoon,Agric eggs medium size,1786.02,112,1,0,2,room,34.8,1,0,0,1
+2024-July-07,July,Afternoon,Beans brown,2241.94,44,1,0,3,room,34.8,0,0,0,0
+2024-July-07,July,Afternoon,Beans white black eye,2099.75,77,1,0,4,room,34.8,0,0,0,0
+2024-July-07,July,Afternoon,Beef Bone in,5056.29,29,1,0,5,cold,34.8,0,0,0,1
+2024-July-07,July,Afternoon,Beef boneless,5042.49,64,1,0,1,cold,34.8,1,0,0,1
+2024-July-07,July,Afternoon,Catfish (obokun) fresh,4244.06,42,1,0,4,cold,34.8,0,0,0,0
+2024-July-07,July,Afternoon,Catfish dried,8628.9,35,1,0,3,room,34.8,0,0,0,0
+2024-July-07,July,Afternoon,Chicken Wings,3158.16,68,1,0,4,cold,34.8,1,0,0,0
+2024-July-07,July,Afternoon,Tomato,1017.48,54,1,0,5,room,34.8,0,0,0,1
+2024-July-07,July,Afternoon,Onion bulb,2196.29,69,1,0,3,room,34.8,0,1,0,1
+2024-July-07,July,Afternoon,Sweet potato,759.61,36,1,1,5,room,34.8,0,0,0,0
+2024-July-07,July,Afternoon,Yam tuber,716.27,28,1,1,4,room,34.8,0,0,0,0
+2024-July-07,July,Evening,Agric eggs medium size,1313.72,40,1,0,5,room,34.8,1,0,0,0
+2024-July-07,July,Evening,Beans brown,1179.83,47,1,0,1,room,34.8,0,0,0,0
+2024-July-07,July,Evening,Beans white black eye,623.88,59,1,0,1,room,34.8,0,0,0,0
+2024-July-07,July,Evening,Beef Bone in,3381.38,42,1,0,2,cold,34.8,0,0,0,0
+2024-July-07,July,Evening,Beef boneless,6738.17,27,1,0,1,cold,34.8,0,0,0,0
+2024-July-07,July,Evening,Catfish (obokun) fresh,1723.81,48,1,0,1,cold,34.8,0,0,0,0
+2024-July-07,July,Evening,Catfish dried,3258.28,56,1,0,5,room,34.8,1,0,0,0
+2024-July-07,July,Evening,Chicken Wings,2187.85,67,1,0,2,cold,34.8,1,0,0,1
+2024-July-07,July,Evening,Tomato,1422.0,32,1,0,4,room,34.8,0,1,0,0
+2024-July-07,July,Evening,Onion bulb,961.7,44,1,0,3,room,34.8,0,1,0,0
+2024-July-07,July,Evening,Sweet potato,307.95,50,1,1,4,room,34.8,0,0,0,1
+2024-July-07,July,Evening,Yam tuber,1222.42,14,1,1,5,room,34.8,1,1,0,1
+2024-July-08,July,Morning,Agric eggs medium size,2605.57,48,1,0,4,room,34.8,0,0,0,1
+2024-July-08,July,Morning,Beans brown,1027.74,44,1,0,4,room,34.8,0,0,0,0
+2024-July-08,July,Morning,Beans white black eye,1830.15,79,1,0,3,room,34.8,0,1,0,1
+2024-July-08,July,Morning,Beef Bone in,5045.85,35,1,0,4,cold,34.8,0,0,0,1
+2024-July-08,July,Morning,Beef boneless,5698.28,86,1,0,3,cold,34.8,0,0,0,0
+2024-July-08,July,Morning,Catfish (obokun) fresh,3358.4,33,1,0,1,cold,34.8,0,0,0,1
+2024-July-08,July,Morning,Catfish dried,7707.75,67,1,0,3,room,34.8,0,1,0,1
+2024-July-08,July,Morning,Chicken Wings,3988.23,25,1,0,1,cold,34.8,0,0,0,0
+2024-July-08,July,Morning,Tomato,1609.61,60,1,0,4,room,34.8,0,0,0,1
+2024-July-08,July,Morning,Onion bulb,749.29,34,1,0,2,room,34.8,0,0,0,1
+2024-July-08,July,Morning,Sweet potato,630.22,39,1,1,3,room,34.8,0,0,0,0
+2024-July-08,July,Morning,Yam tuber,1023.61,80,1,1,4,room,34.8,0,0,0,0
+2024-July-08,July,Afternoon,Agric eggs medium size,2219.97,43,1,0,1,room,34.8,0,0,0,0
+2024-July-08,July,Afternoon,Beans brown,1596.88,27,1,0,1,room,34.8,0,0,0,0
+2024-July-08,July,Afternoon,Beans white black eye,1130.72,56,1,0,1,room,34.8,0,0,0,1
+2024-July-08,July,Afternoon,Beef Bone in,4121.79,40,1,0,4,cold,34.8,0,0,0,0
+2024-July-08,July,Afternoon,Beef boneless,5911.42,90,1,0,2,cold,34.8,0,0,0,0
+2024-July-08,July,Afternoon,Catfish (obokun) fresh,4085.06,84,1,0,1,cold,34.8,1,0,0,0
+2024-July-08,July,Afternoon,Catfish dried,5990.06,45,1,0,3,room,34.8,0,0,0,1
+2024-July-08,July,Afternoon,Chicken Wings,4132.45,56,1,0,4,cold,34.8,0,1,0,0
+2024-July-08,July,Afternoon,Tomato,1511.17,44,1,0,1,room,34.8,0,0,0,1
+2024-July-08,July,Afternoon,Onion bulb,1103.03,34,1,0,1,room,34.8,0,1,0,0
+2024-July-08,July,Afternoon,Sweet potato,728.65,50,1,1,3,room,34.8,0,1,0,1
+2024-July-08,July,Afternoon,Yam tuber,944.41,61,1,1,5,room,34.8,0,1,0,1
+2024-July-08,July,Evening,Agric eggs medium size,1969.73,33,1,0,2,room,34.8,0,0,0,0
+2024-July-08,July,Evening,Beans brown,1029.13,50,1,0,1,room,34.8,1,0,0,1
+2024-July-08,July,Evening,Beans white black eye,1219.11,18,1,0,4,room,34.8,0,0,0,0
+2024-July-08,July,Evening,Beef Bone in,3411.95,15,1,0,1,cold,34.8,0,0,0,0
+2024-July-08,July,Evening,Beef boneless,4165.45,37,1,0,2,cold,34.8,0,0,0,0
+2024-July-08,July,Evening,Catfish (obokun) fresh,2143.83,24,1,0,1,cold,34.8,0,0,0,0
+2024-July-08,July,Evening,Catfish dried,5861.69,37,1,0,1,room,34.8,0,0,0,0
+2024-July-08,July,Evening,Chicken Wings,1984.7,37,1,0,3,cold,34.8,0,0,0,1
+2024-July-08,July,Evening,Tomato,1204.52,38,1,0,1,room,34.8,0,0,0,0
+2024-July-08,July,Evening,Onion bulb,971.7,61,1,0,3,room,34.8,0,0,0,0
+2024-July-08,July,Evening,Sweet potato,353.82,46,1,1,2,room,34.8,0,0,0,0
+2024-July-08,July,Evening,Yam tuber,479.06,41,1,1,4,room,34.8,0,0,0,0
+2024-July-09,July,Morning,Agric eggs medium size,2108.36,39,1,0,2,room,34.8,0,1,0,0
+2024-July-09,July,Morning,Beans brown,1757.47,84,1,0,4,room,34.8,0,0,0,0
+2024-July-09,July,Morning,Beans white black eye,1561.79,71,1,0,5,room,34.8,0,0,0,0
+2024-July-09,July,Morning,Beef Bone in,4252.28,47,1,0,5,cold,34.8,0,0,0,0
+2024-July-09,July,Morning,Beef boneless,5992.15,67,1,0,5,cold,34.8,0,0,0,0
+2024-July-09,July,Morning,Catfish (obokun) fresh,4428.72,75,1,0,1,cold,34.8,1,1,0,1
+2024-July-09,July,Morning,Catfish dried,7361.96,36,1,0,2,room,34.8,0,0,0,0
+2024-July-09,July,Morning,Chicken Wings,4052.2,56,1,0,1,cold,34.8,0,0,0,1
+2024-July-09,July,Morning,Tomato,2127.07,40,1,0,5,room,34.8,0,0,0,0
+2024-July-09,July,Morning,Onion bulb,1427.94,24,1,0,2,room,34.8,0,1,0,1
+2024-July-09,July,Morning,Sweet potato,561.62,74,1,1,3,room,34.8,0,0,0,1
+2024-July-09,July,Morning,Yam tuber,568.19,146,1,1,3,room,34.8,1,0,0,1
+2024-July-09,July,Afternoon,Agric eggs medium size,2232.46,45,1,0,4,room,34.8,0,0,0,0
+2024-July-09,July,Afternoon,Beans brown,1878.37,76,1,0,4,room,34.8,1,0,0,0
+2024-July-09,July,Afternoon,Beans white black eye,1595.89,55,1,0,4,room,34.8,0,1,0,1
+2024-July-09,July,Afternoon,Beef Bone in,4308.88,33,1,0,4,cold,34.8,0,0,0,0
+2024-July-09,July,Afternoon,Beef boneless,5710.18,54,1,0,3,cold,34.8,0,0,0,0
+2024-July-09,July,Afternoon,Catfish (obokun) fresh,3579.39,59,1,0,1,cold,34.8,0,0,0,0
+2024-July-09,July,Afternoon,Catfish dried,5466.86,76,1,0,1,room,34.8,0,0,0,1
+2024-July-09,July,Afternoon,Chicken Wings,5112.02,45,1,0,2,cold,34.8,0,1,0,0
+2024-July-09,July,Afternoon,Tomato,2051.67,57,1,0,4,room,34.8,0,0,0,1
+2024-July-09,July,Afternoon,Onion bulb,1079.15,39,1,0,2,room,34.8,0,0,0,0
+2024-July-09,July,Afternoon,Sweet potato,795.78,46,1,1,3,room,34.8,0,1,0,1
+2024-July-09,July,Afternoon,Yam tuber,792.9,72,1,1,4,room,34.8,0,0,0,1
+2024-July-09,July,Evening,Agric eggs medium size,1167.74,10,1,0,1,room,34.8,0,0,0,0
+2024-July-09,July,Evening,Beans brown,1405.6,33,1,0,4,room,34.8,0,0,0,0
+2024-July-09,July,Evening,Beans white black eye,855.98,29,1,0,2,room,34.8,0,0,0,0
+2024-July-09,July,Evening,Beef Bone in,3858.06,25,1,0,1,cold,34.8,0,0,0,0
+2024-July-09,July,Evening,Beef boneless,3522.08,32,1,0,3,cold,34.8,0,0,0,1
+2024-July-09,July,Evening,Catfish (obokun) fresh,3230.47,28,1,0,1,cold,34.8,0,0,0,0
+2024-July-09,July,Evening,Catfish dried,4858.67,58,1,0,2,room,34.8,0,0,0,0
+2024-July-09,July,Evening,Chicken Wings,2713.81,51,1,0,1,cold,34.8,1,1,0,0
+2024-July-09,July,Evening,Tomato,708.72,49,1,0,2,room,34.8,0,0,0,1
+2024-July-09,July,Evening,Onion bulb,796.84,37,1,0,5,room,34.8,0,0,0,0
+2024-July-09,July,Evening,Sweet potato,477.25,42,1,1,2,room,34.8,0,0,0,0
+2024-July-09,July,Evening,Yam tuber,596.0,29,1,1,2,room,34.8,0,0,0,0
+2024-July-10,July,Morning,Agric eggs medium size,2559.42,54,1,0,5,room,34.8,0,0,0,1
+2024-July-10,July,Morning,Beans brown,1620.46,45,1,0,5,room,34.8,0,0,0,0
+2024-July-10,July,Morning,Beans white black eye,1578.04,63,1,0,3,room,34.8,0,0,0,0
+2024-July-10,July,Morning,Beef Bone in,3825.21,47,1,0,2,cold,34.8,0,0,0,1
+2024-July-10,July,Morning,Beef boneless,5910.68,86,1,0,3,cold,34.8,0,0,0,1
+2024-July-10,July,Morning,Catfish (obokun) fresh,4956.47,66,1,0,3,cold,34.8,0,0,0,1
+2024-July-10,July,Morning,Catfish dried,8510.43,38,1,0,1,room,34.8,0,0,0,0
+2024-July-10,July,Morning,Chicken Wings,5445.9,89,1,0,4,cold,34.8,0,1,0,1
+2024-July-10,July,Morning,Tomato,1402.36,58,1,0,1,room,34.8,0,0,0,1
+2024-July-10,July,Morning,Onion bulb,1194.33,102,1,0,1,room,34.8,1,1,0,1
+2024-July-10,July,Morning,Sweet potato,438.19,69,1,1,2,room,34.8,0,0,0,0
+2024-July-10,July,Morning,Yam tuber,717.79,90,1,1,2,room,34.8,0,0,0,1
+2024-July-10,July,Afternoon,Agric eggs medium size,1829.14,57,1,0,4,room,34.8,0,0,0,1
+2024-July-10,July,Afternoon,Beans brown,1473.78,59,1,0,5,room,34.8,1,0,0,0
+2024-July-10,July,Afternoon,Beans white black eye,1161.48,51,1,0,1,room,34.8,0,0,0,0
+2024-July-10,July,Afternoon,Beef Bone in,4609.63,46,1,0,2,cold,34.8,0,0,0,0
+2024-July-10,July,Afternoon,Beef boneless,5289.76,42,1,0,1,cold,34.8,0,0,0,1
+2024-July-10,July,Afternoon,Catfish (obokun) fresh,2930.04,77,1,0,3,cold,34.8,1,0,0,0
+2024-July-10,July,Afternoon,Catfish dried,7936.76,60,1,0,4,room,34.8,0,0,0,1
+2024-July-10,July,Afternoon,Chicken Wings,3990.23,49,1,0,2,cold,34.8,0,0,0,0
+2024-July-10,July,Afternoon,Tomato,1451.08,46,1,0,1,room,34.8,0,0,0,0
+2024-July-10,July,Afternoon,Onion bulb,1367.17,70,1,0,2,room,34.8,0,0,0,0
+2024-July-10,July,Afternoon,Sweet potato,702.59,71,1,1,1,room,34.8,0,0,0,0
+2024-July-10,July,Afternoon,Yam tuber,870.49,63,1,1,5,room,34.8,0,0,0,0
+2024-July-10,July,Evening,Agric eggs medium size,1745.65,47,1,0,1,room,34.8,0,0,0,0
+2024-July-10,July,Evening,Beans brown,1469.35,14,1,0,1,room,34.8,0,0,0,0
+2024-July-10,July,Evening,Beans white black eye,1039.72,71,1,0,3,room,34.8,0,1,0,0
+2024-July-10,July,Evening,Beef Bone in,3801.63,28,1,0,4,cold,34.8,0,0,0,1
+2024-July-10,July,Evening,Beef boneless,4350.16,55,1,0,5,cold,34.8,0,0,0,1
+2024-July-10,July,Evening,Catfish (obokun) fresh,2950.24,64,1,0,2,cold,34.8,0,0,0,0
+2024-July-10,July,Evening,Catfish dried,6934.95,41,1,0,2,room,34.8,0,0,0,0
+2024-July-10,July,Evening,Chicken Wings,2265.84,35,1,0,5,cold,34.8,0,0,0,0
+2024-July-10,July,Evening,Tomato,1281.23,57,1,0,4,room,34.8,0,1,0,0
+2024-July-10,July,Evening,Onion bulb,840.58,56,1,0,3,room,34.8,1,0,0,1
+2024-July-10,July,Evening,Sweet potato,320.73,52,1,1,2,room,34.8,1,0,0,0
+2024-July-10,July,Evening,Yam tuber,324.92,28,1,1,3,room,34.8,0,0,0,1
+2024-July-11,July,Morning,Agric eggs medium size,2133.63,130,1,0,3,room,34.8,1,0,0,1
+2024-July-11,July,Morning,Beans brown,1143.62,65,1,0,2,room,34.8,0,0,0,0
+2024-July-11,July,Morning,Beans white black eye,1385.02,75,1,0,1,room,34.8,0,0,0,0
+2024-July-11,July,Morning,Beef Bone in,5169.89,59,1,0,2,cold,34.8,0,1,0,1
+2024-July-11,July,Morning,Beef boneless,6094.69,64,1,0,2,cold,34.8,0,0,0,1
+2024-July-11,July,Morning,Catfish (obokun) fresh,4039.8,103,1,0,5,cold,34.8,0,0,0,0
+2024-July-11,July,Morning,Catfish dried,4508.32,88,1,0,2,room,34.8,0,0,0,0
+2024-July-11,July,Morning,Chicken Wings,3722.43,33,1,0,3,cold,34.8,0,0,0,1
+2024-July-11,July,Morning,Tomato,756.4,79,1,0,4,room,34.8,0,0,0,1
+2024-July-11,July,Morning,Onion bulb,1217.13,61,1,0,5,room,34.8,0,0,0,1
+2024-July-11,July,Morning,Sweet potato,535.32,74,1,1,1,room,34.8,0,0,0,1
+2024-July-11,July,Morning,Yam tuber,690.45,114,1,1,5,room,34.8,1,0,0,1
+2024-July-11,July,Afternoon,Agric eggs medium size,2347.19,34,1,0,3,room,34.8,0,0,0,1
+2024-July-11,July,Afternoon,Beans brown,1511.49,63,1,0,2,room,34.8,0,0,0,0
+2024-July-11,July,Afternoon,Beans white black eye,1277.54,81,1,0,4,room,34.8,1,0,0,0
+2024-July-11,July,Afternoon,Beef Bone in,5178.15,22,1,0,1,cold,34.8,0,0,0,1
+2024-July-11,July,Afternoon,Beef boneless,4720.62,111,1,0,5,cold,34.8,1,0,0,1
+2024-July-11,July,Afternoon,Catfish (obokun) fresh,4282.01,50,1,0,1,cold,34.8,0,0,0,0
+2024-July-11,July,Afternoon,Catfish dried,5205.73,58,1,0,1,room,34.8,0,1,0,0
+2024-July-11,July,Afternoon,Chicken Wings,3702.13,61,1,0,2,cold,34.8,0,0,0,0
+2024-July-11,July,Afternoon,Tomato,1465.57,55,1,0,3,room,34.8,0,1,0,0
+2024-July-11,July,Afternoon,Onion bulb,1614.5,44,1,0,4,room,34.8,0,0,0,0
+2024-July-11,July,Afternoon,Sweet potato,697.97,53,1,1,2,room,34.8,0,0,0,0
+2024-July-11,July,Afternoon,Yam tuber,490.43,65,1,1,5,room,34.8,0,0,0,1
+2024-July-11,July,Evening,Agric eggs medium size,2110.31,29,1,0,4,room,34.8,0,1,0,0
+2024-July-11,July,Evening,Beans brown,1590.09,35,1,0,2,room,34.8,0,0,0,0
+2024-July-11,July,Evening,Beans white black eye,824.72,40,1,0,1,room,34.8,0,0,0,0
+2024-July-11,July,Evening,Beef Bone in,3613.64,17,1,0,5,cold,34.8,0,0,0,0
+2024-July-11,July,Evening,Beef boneless,3224.75,50,1,0,2,cold,34.8,0,1,0,0
+2024-July-11,July,Evening,Catfish (obokun) fresh,2240.52,65,1,0,2,cold,34.8,0,0,0,0
+2024-July-11,July,Evening,Catfish dried,4518.35,42,1,0,3,room,34.8,0,0,0,0
+2024-July-11,July,Evening,Chicken Wings,1907.97,18,1,0,1,cold,34.8,1,0,0,1
+2024-July-11,July,Evening,Tomato,1024.05,48,1,0,2,room,34.8,0,0,0,1
+2024-July-11,July,Evening,Onion bulb,862.96,33,1,0,5,room,34.8,0,0,0,0
+2024-July-11,July,Evening,Sweet potato,368.81,28,1,1,4,room,34.8,0,0,0,0
+2024-July-11,July,Evening,Yam tuber,324.92,112,1,1,2,room,34.8,1,1,0,1
+2024-July-12,July,Morning,Agric eggs medium size,1798.36,45,1,0,4,room,34.8,0,0,0,0
+2024-July-12,July,Morning,Beans brown,1782.24,76,1,0,2,room,34.8,0,0,0,1
+2024-July-12,July,Morning,Beans white black eye,1253.24,47,1,0,1,room,34.8,0,0,0,1
+2024-July-12,July,Morning,Beef Bone in,5014.68,76,1,0,2,cold,34.8,0,0,0,1
+2024-July-12,July,Morning,Beef boneless,5682.5,51,1,0,2,cold,34.8,0,1,0,1
+2024-July-12,July,Morning,Catfish (obokun) fresh,4212.32,66,1,0,4,cold,34.8,0,0,0,0
+2024-July-12,July,Morning,Catfish dried,8391.41,60,1,0,1,room,34.8,0,0,0,0
+2024-July-12,July,Morning,Chicken Wings,3538.43,39,1,0,3,cold,34.8,0,0,0,1
+2024-July-12,July,Morning,Tomato,982.54,62,1,0,3,room,34.8,0,0,0,1
+2024-July-12,July,Morning,Onion bulb,2006.6,94,1,0,1,room,34.8,1,1,0,1
+2024-July-12,July,Morning,Sweet potato,551.58,24,1,1,5,room,34.8,0,1,0,1
+2024-July-12,July,Morning,Yam tuber,665.13,73,1,1,4,room,34.8,0,0,0,1
+2024-July-12,July,Afternoon,Agric eggs medium size,2294.8,57,1,0,5,room,34.8,0,1,0,0
+2024-July-12,July,Afternoon,Beans brown,1677.39,62,1,0,2,room,34.8,0,0,0,0
+2024-July-12,July,Afternoon,Beans white black eye,1729.05,52,1,0,4,room,34.8,0,0,0,0
+2024-July-12,July,Afternoon,Beef Bone in,3556.05,51,1,0,2,cold,34.8,1,0,0,1
+2024-July-12,July,Afternoon,Beef boneless,6196.28,54,1,0,4,cold,34.8,0,0,0,1
+2024-July-12,July,Afternoon,Catfish (obokun) fresh,3536.61,73,1,0,4,cold,34.8,0,0,0,0
+2024-July-12,July,Afternoon,Catfish dried,5909.0,47,1,0,2,room,34.8,0,0,0,0
+2024-July-12,July,Afternoon,Chicken Wings,3932.15,55,1,0,5,cold,34.8,0,0,0,0
+2024-July-12,July,Afternoon,Tomato,1904.92,26,1,0,4,room,34.8,0,1,0,1
+2024-July-12,July,Afternoon,Onion bulb,1789.52,35,1,0,5,room,34.8,0,0,0,0
+2024-July-12,July,Afternoon,Sweet potato,536.38,47,1,1,1,room,34.8,0,0,0,1
+2024-July-12,July,Afternoon,Yam tuber,409.82,62,1,1,2,room,34.8,1,0,0,1
+2024-July-12,July,Evening,Agric eggs medium size,1726.19,33,1,0,2,room,34.8,0,0,0,0
+2024-July-12,July,Evening,Beans brown,769.82,59,1,0,4,room,34.8,0,0,0,0
+2024-July-12,July,Evening,Beans white black eye,892.15,21,1,0,5,room,34.8,0,0,0,0
+2024-July-12,July,Evening,Beef Bone in,1550.89,67,1,0,2,cold,34.8,1,0,0,1
+2024-July-12,July,Evening,Beef boneless,3024.98,36,1,0,4,cold,34.8,0,0,0,1
+2024-July-12,July,Evening,Catfish (obokun) fresh,2634.86,38,1,0,5,cold,34.8,0,0,0,0
+2024-July-12,July,Evening,Catfish dried,4528.58,55,1,0,1,room,34.8,1,0,0,0
+2024-July-12,July,Evening,Chicken Wings,3151.01,44,1,0,3,cold,34.8,0,0,0,0
+2024-July-12,July,Evening,Tomato,968.64,65,1,0,5,room,34.8,0,0,0,1
+2024-July-12,July,Evening,Onion bulb,1407.21,62,1,0,4,room,34.8,0,1,0,0
+2024-July-12,July,Evening,Sweet potato,489.31,37,1,1,5,room,34.8,0,1,0,1
+2024-July-12,July,Evening,Yam tuber,861.71,47,1,1,4,room,34.8,0,1,0,0
+2024-July-13,July,Morning,Agric eggs medium size,2294.65,66,1,0,1,room,34.8,0,0,0,1
+2024-July-13,July,Morning,Beans brown,1423.44,91,1,0,3,room,34.8,0,0,0,0
+2024-July-13,July,Morning,Beans white black eye,1199.0,45,1,0,1,room,34.8,0,0,0,0
+2024-July-13,July,Morning,Beef Bone in,4932.03,42,1,0,4,cold,34.8,0,0,0,1
+2024-July-13,July,Morning,Beef boneless,5928.07,80,1,0,3,cold,34.8,0,0,0,0
+2024-July-13,July,Morning,Catfish (obokun) fresh,3890.81,108,1,0,3,cold,34.8,1,0,0,1
+2024-July-13,July,Morning,Catfish dried,6928.41,64,1,0,4,room,34.8,0,0,0,1
+2024-July-13,July,Morning,Chicken Wings,5572.78,63,1,0,4,cold,34.8,0,1,0,1
+2024-July-13,July,Morning,Tomato,1344.71,59,1,0,3,room,34.8,0,0,0,0
+2024-July-13,July,Morning,Onion bulb,1581.29,62,1,0,1,room,34.8,0,0,0,1
+2024-July-13,July,Morning,Sweet potato,461.5,61,1,1,3,room,34.8,1,0,0,0
+2024-July-13,July,Morning,Yam tuber,730.91,50,1,1,2,room,34.8,0,1,0,1
+2024-July-13,July,Afternoon,Agric eggs medium size,2427.29,42,1,0,3,room,34.8,0,0,0,0
+2024-July-13,July,Afternoon,Beans brown,1725.31,52,1,0,4,room,34.8,0,0,0,0
+2024-July-13,July,Afternoon,Beans white black eye,1573.62,39,1,0,1,room,34.8,1,0,0,0
+2024-July-13,July,Afternoon,Beef Bone in,3854.75,40,1,0,3,cold,34.8,0,0,0,1
+2024-July-13,July,Afternoon,Beef boneless,5091.22,39,1,0,2,cold,34.8,0,0,0,0
+2024-July-13,July,Afternoon,Catfish (obokun) fresh,3860.12,55,1,0,2,cold,34.8,0,1,0,0
+2024-July-13,July,Afternoon,Catfish dried,5301.02,101,1,0,4,room,34.8,1,0,0,1
+2024-July-13,July,Afternoon,Chicken Wings,3715.22,56,1,0,2,cold,34.8,0,0,0,0
+2024-July-13,July,Afternoon,Tomato,1717.63,17,1,0,2,room,34.8,0,0,0,0
+2024-July-13,July,Afternoon,Onion bulb,1159.68,44,1,0,5,room,34.8,0,0,0,0
+2024-July-13,July,Afternoon,Sweet potato,343.73,61,1,1,3,room,34.8,0,0,0,1
+2024-July-13,July,Afternoon,Yam tuber,924.28,43,1,1,5,room,34.8,0,0,0,0
+2024-July-13,July,Evening,Agric eggs medium size,1794.21,31,1,0,5,room,34.8,0,0,0,0
+2024-July-13,July,Evening,Beans brown,1589.4,42,1,0,4,room,34.8,0,0,0,0
+2024-July-13,July,Evening,Beans white black eye,1192.28,47,1,0,5,room,34.8,0,0,0,0
+2024-July-13,July,Evening,Beef Bone in,3246.23,30,1,0,2,cold,34.8,0,0,0,1
+2024-July-13,July,Evening,Beef boneless,4831.96,41,1,0,5,cold,34.8,0,0,0,0
+2024-July-13,July,Evening,Catfish (obokun) fresh,3259.25,42,1,0,4,cold,34.8,0,0,0,0
+2024-July-13,July,Evening,Catfish dried,4137.72,70,1,0,2,room,34.8,1,0,0,0
+2024-July-13,July,Evening,Chicken Wings,3597.69,34,1,0,1,cold,34.8,0,0,0,1
+2024-July-13,July,Evening,Tomato,1243.13,60,1,0,2,room,34.8,0,0,0,0
+2024-July-13,July,Evening,Onion bulb,821.36,50,1,0,4,room,34.8,0,1,0,0
+2024-July-13,July,Evening,Sweet potato,664.53,38,1,1,4,room,34.8,0,0,0,0
+2024-July-13,July,Evening,Yam tuber,485.67,39,1,1,4,room,34.8,0,0,0,0
+2024-July-14,July,Afternoon,Agric eggs medium size,2165.59,42,1,0,4,room,34.8,0,0,0,1
+2024-July-14,July,Afternoon,Beans brown,1809.98,38,1,0,5,room,34.8,0,0,0,1
+2024-July-14,July,Afternoon,Beans white black eye,1418.38,79,1,0,1,room,34.8,1,0,0,0
+2024-July-14,July,Afternoon,Beef Bone in,5431.9,78,1,0,1,cold,34.8,0,1,0,0
+2024-July-14,July,Afternoon,Beef boneless,5860.72,38,1,0,4,cold,34.8,0,0,0,0
+2024-July-14,July,Afternoon,Catfish (obokun) fresh,4091.86,63,1,0,2,cold,34.8,0,0,0,0
+2024-July-14,July,Afternoon,Catfish dried,7765.81,61,1,0,3,room,34.8,1,0,0,1
+2024-July-14,July,Afternoon,Chicken Wings,3679.92,43,1,0,3,cold,34.8,0,0,0,0
+2024-July-14,July,Afternoon,Tomato,1750.1,42,1,0,3,room,34.8,0,0,0,0
+2024-July-14,July,Afternoon,Onion bulb,1247.88,77,1,0,2,room,34.8,1,0,0,1
+2024-July-14,July,Afternoon,Sweet potato,476.48,44,1,1,1,room,34.8,1,0,0,1
+2024-July-14,July,Afternoon,Yam tuber,621.27,43,1,1,1,room,34.8,0,0,0,1
+2024-July-14,July,Evening,Agric eggs medium size,1764.54,41,1,0,1,room,34.8,0,1,0,0
+2024-July-14,July,Evening,Beans brown,877.33,21,1,0,3,room,34.8,0,0,0,0
+2024-July-14,July,Evening,Beans white black eye,1991.61,35,1,0,4,room,34.8,0,0,0,0
+2024-July-14,July,Evening,Beef Bone in,2992.0,29,1,0,3,cold,34.8,0,0,0,1
+2024-July-14,July,Evening,Beef boneless,4061.48,56,1,0,3,cold,34.8,0,1,0,0
+2024-July-14,July,Evening,Catfish (obokun) fresh,2250.64,43,1,0,5,cold,34.8,1,0,0,1
+2024-July-14,July,Evening,Catfish dried,4148.28,53,1,0,4,room,34.8,1,0,0,0
+2024-July-14,July,Evening,Chicken Wings,2042.05,34,1,0,4,cold,34.8,0,0,0,0
+2024-July-14,July,Evening,Tomato,1045.61,82,1,0,5,room,34.8,1,0,0,1
+2024-July-14,July,Evening,Onion bulb,804.61,47,1,0,5,room,34.8,1,0,0,0
+2024-July-14,July,Evening,Sweet potato,281.73,25,1,1,4,room,34.8,0,0,0,1
+2024-July-14,July,Evening,Yam tuber,646.32,44,1,1,3,room,34.8,0,0,0,0
+2024-July-15,July,Morning,Agric eggs medium size,2328.25,79,1,0,2,room,34.8,0,0,0,0
+2024-July-15,July,Morning,Beans brown,1649.99,94,1,0,3,room,34.8,0,0,0,0
+2024-July-15,July,Morning,Beans white black eye,1277.14,69,1,0,4,room,34.8,0,0,0,0
+2024-July-15,July,Morning,Beef Bone in,4510.28,44,1,0,1,cold,34.8,0,0,0,1
+2024-July-15,July,Morning,Beef boneless,4234.09,77,1,0,2,cold,34.8,1,0,0,1
+2024-July-15,July,Morning,Catfish (obokun) fresh,4113.8,81,1,0,4,cold,34.8,0,0,0,0
+2024-July-15,July,Morning,Catfish dried,8316.25,37,1,0,4,room,34.8,0,0,0,0
+2024-July-15,July,Morning,Chicken Wings,3943.08,48,1,0,3,cold,34.8,0,0,0,1
+2024-July-15,July,Morning,Tomato,791.66,71,1,0,1,room,34.8,0,0,0,0
+2024-July-15,July,Morning,Onion bulb,767.77,108,1,0,4,room,34.8,1,0,0,1
+2024-July-15,July,Morning,Sweet potato,667.88,82,1,1,4,room,34.8,1,0,0,1
+2024-July-15,July,Morning,Yam tuber,886.88,70,1,1,2,room,34.8,0,0,0,0
+2024-July-15,July,Afternoon,Agric eggs medium size,2654.46,69,1,0,3,room,34.8,0,1,0,0
+2024-July-15,July,Afternoon,Beans brown,1692.48,49,1,0,3,room,34.8,0,0,0,1
+2024-July-15,July,Afternoon,Beans white black eye,1326.97,56,1,0,2,room,34.8,0,0,0,1
+2024-July-15,July,Afternoon,Beef Bone in,5438.42,42,1,0,1,cold,34.8,0,1,0,1
+2024-July-15,July,Afternoon,Beef boneless,6277.01,43,1,0,4,cold,34.8,0,0,0,0
+2024-July-15,July,Afternoon,Catfish (obokun) fresh,4690.52,60,1,0,2,cold,34.8,0,0,0,0
+2024-July-15,July,Afternoon,Catfish dried,12027.93,48,1,0,5,room,34.8,0,1,0,1
+2024-July-15,July,Afternoon,Chicken Wings,3543.58,50,1,0,4,cold,34.8,0,0,0,1
+2024-July-15,July,Afternoon,Tomato,2045.22,85,1,0,5,room,34.8,1,0,0,1
+2024-July-15,July,Afternoon,Onion bulb,1221.74,40,1,0,1,room,34.8,0,0,0,1
+2024-July-15,July,Afternoon,Sweet potato,537.4,51,1,1,1,room,34.8,0,0,0,1
+2024-July-15,July,Afternoon,Yam tuber,675.1,49,1,1,1,room,34.8,0,0,0,0
+2024-July-15,July,Evening,Agric eggs medium size,1087.88,53,1,0,2,room,34.8,0,0,0,1
+2024-July-15,July,Evening,Beans brown,1036.78,47,1,0,2,room,34.8,0,0,0,0
+2024-July-15,July,Evening,Beans white black eye,968.68,23,1,0,4,room,34.8,0,0,0,0
+2024-July-15,July,Evening,Beef Bone in,4199.97,53,1,0,4,cold,34.8,1,0,0,1
+2024-July-15,July,Evening,Beef boneless,5043.58,47,1,0,4,cold,34.8,0,0,0,0
+2024-July-15,July,Evening,Catfish (obokun) fresh,2918.02,45,1,0,3,cold,34.8,0,0,0,1
+2024-July-15,July,Evening,Catfish dried,4858.13,38,1,0,1,room,34.8,0,0,0,0
+2024-July-15,July,Evening,Chicken Wings,2514.74,45,1,0,1,cold,34.8,0,0,0,1
+2024-July-15,July,Evening,Tomato,376.76,12,1,0,4,room,34.8,0,0,0,1
+2024-July-15,July,Evening,Onion bulb,924.7,43,1,0,2,room,34.8,0,0,0,1
+2024-July-15,July,Evening,Sweet potato,376.28,35,1,1,1,room,34.8,0,0,0,1
+2024-July-15,July,Evening,Yam tuber,528.96,12,1,1,5,room,34.8,0,0,0,0
+2024-October-01,October,Morning,Agric eggs medium size,1876.92,46,0,0,4,room,34.8,0,0,0,1
+2024-October-01,October,Morning,Beans brown,1139.28,47,0,0,5,room,34.8,0,0,0,1
+2024-October-01,October,Morning,Beans white black eye,1170.0,74,0,0,5,room,34.8,0,0,0,1
+2024-October-01,October,Morning,Beef Bone in,4306.19,75,0,0,3,cold,34.8,0,0,0,0
+2024-October-01,October,Morning,Beef boneless,5536.96,70,0,0,4,cold,34.8,0,0,0,1
+2024-October-01,October,Morning,Catfish (obokun) fresh,4037.65,65,0,0,5,cold,34.8,0,0,0,1
+2024-October-01,October,Morning,Catfish dried,6410.06,46,0,0,5,room,34.8,0,0,0,1
+2024-October-01,October,Morning,Chicken Wings,3291.18,74,0,0,3,cold,34.8,1,0,0,1
+2024-October-01,October,Morning,Tomato,761.5,79,0,1,4,room,34.8,0,0,0,1
+2024-October-01,October,Morning,Onion bulb,792.77,46,0,1,2,room,34.8,0,0,0,0
+2024-October-01,October,Morning,Sweet potato,413.0,65,0,0,3,room,34.8,0,0,0,0
+2024-October-01,October,Morning,Yam tuber,795.61,63,0,0,2,room,34.8,0,0,0,1
+2024-October-01,October,Afternoon,Agric eggs medium size,1967.4,59,0,0,4,room,34.8,0,0,0,0
+2024-October-01,October,Afternoon,Beans brown,1508.64,42,0,0,5,room,34.8,0,0,0,1
+2024-October-01,October,Afternoon,Beans white black eye,1796.05,53,0,0,5,room,34.8,0,0,0,1
+2024-October-01,October,Afternoon,Beef Bone in,3588.74,41,0,0,2,cold,34.8,1,0,0,0
+2024-October-01,October,Afternoon,Beef boneless,6129.61,35,0,0,5,cold,34.8,0,0,0,0
+2024-October-01,October,Afternoon,Catfish (obokun) fresh,3341.44,89,0,0,4,cold,34.8,1,0,0,0
+2024-October-01,October,Afternoon,Catfish dried,5611.83,34,0,0,5,room,34.8,0,0,0,1
+2024-October-01,October,Afternoon,Chicken Wings,3974.94,33,0,0,1,cold,34.8,0,0,0,1
+2024-October-01,October,Afternoon,Tomato,665.4,62,0,1,2,room,34.8,0,0,0,1
+2024-October-01,October,Afternoon,Onion bulb,839.4,28,0,1,4,room,34.8,0,1,0,1
+2024-October-01,October,Afternoon,Sweet potato,698.03,49,0,0,5,room,34.8,0,0,0,1
+2024-October-01,October,Afternoon,Yam tuber,902.81,54,0,0,2,room,34.8,0,0,0,1
+2024-October-02,October,Morning,Agric eggs medium size,1556.54,70,0,0,3,room,34.8,0,0,0,0
+2024-October-02,October,Morning,Beans brown,1351.18,103,0,0,5,room,34.8,0,0,0,1
+2024-October-02,October,Morning,Beans white black eye,1249.85,57,0,0,3,room,34.8,0,0,0,1
+2024-October-02,October,Morning,Beef Bone in,5160.97,48,0,0,2,cold,34.8,0,0,0,0
+2024-October-02,October,Morning,Beef boneless,6576.25,23,0,0,4,cold,34.8,0,1,0,1
+2024-October-02,October,Morning,Catfish (obokun) fresh,4939.65,64,0,0,4,cold,34.8,0,0,0,0
+2024-October-02,October,Morning,Catfish dried,5410.87,88,0,0,3,room,34.8,0,1,0,0
+2024-October-02,October,Morning,Chicken Wings,4646.74,78,0,0,5,cold,34.8,0,1,0,1
+2024-October-02,October,Morning,Tomato,597.45,51,0,1,1,room,34.8,0,1,0,1
+2024-October-02,October,Morning,Onion bulb,699.37,46,0,1,4,room,34.8,0,0,0,1
+2024-October-02,October,Morning,Sweet potato,582.73,41,0,0,5,room,34.8,0,0,0,0
+2024-October-02,October,Morning,Yam tuber,724.74,48,0,0,4,room,34.8,0,0,0,1
+2024-October-02,October,Afternoon,Agric eggs medium size,1500.17,52,0,0,2,room,34.8,0,0,0,0
+2024-October-02,October,Afternoon,Beans brown,1345.72,39,0,0,1,room,34.8,0,0,0,1
+2024-October-02,October,Afternoon,Beans white black eye,1343.04,42,0,0,2,room,34.8,0,0,0,1
+2024-October-02,October,Afternoon,Beef Bone in,3748.71,61,0,0,3,cold,34.8,1,0,0,1
+2024-October-02,October,Afternoon,Beef boneless,6030.27,49,0,0,3,cold,34.8,0,0,0,0
+2024-October-02,October,Afternoon,Catfish (obokun) fresh,4264.44,51,0,0,3,cold,34.8,0,0,0,1
+2024-October-02,October,Afternoon,Catfish dried,6343.65,49,0,0,5,room,34.8,0,0,0,1
+2024-October-02,October,Afternoon,Chicken Wings,4117.06,30,0,0,3,cold,34.8,0,1,0,1
+2024-October-02,October,Afternoon,Tomato,891.78,26,0,1,4,room,34.8,0,0,0,1
+2024-October-02,October,Afternoon,Onion bulb,1061.23,61,0,1,3,room,34.8,0,0,0,1
+2024-October-02,October,Afternoon,Sweet potato,707.81,66,0,0,1,room,34.8,0,1,0,0
+2024-October-02,October,Afternoon,Yam tuber,875.1,42,0,0,1,room,34.8,0,0,0,1
+2024-October-02,October,Evening,Agric eggs medium size,1536.73,77,0,0,5,room,34.8,0,1,0,1
+2024-October-02,October,Evening,Beans brown,1055.85,35,0,0,5,room,34.8,0,0,0,0
+2024-October-02,October,Evening,Beans white black eye,1059.29,40,0,0,2,room,34.8,0,0,0,1
+2024-October-02,October,Evening,Beef Bone in,3246.15,58,0,0,3,cold,34.8,0,0,0,1
+2024-October-02,October,Evening,Beef boneless,5418.95,44,0,0,4,cold,34.8,0,0,0,0
+2024-October-02,October,Evening,Catfish (obokun) fresh,2390.39,68,0,0,5,cold,34.8,0,0,0,0
+2024-October-02,October,Evening,Catfish dried,4032.49,52,0,0,2,room,34.8,0,1,0,0
+2024-October-02,October,Evening,Chicken Wings,2485.77,37,0,0,1,cold,34.8,1,1,0,1
+2024-October-02,October,Evening,Tomato,525.83,28,0,1,4,room,34.8,0,1,0,1
+2024-October-02,October,Evening,Onion bulb,681.49,19,0,1,5,room,34.8,0,0,0,1
+2024-October-02,October,Evening,Sweet potato,344.59,54,0,0,4,room,34.8,0,0,0,1
+2024-October-02,October,Evening,Yam tuber,548.35,25,0,0,4,room,34.8,0,0,0,1
+2024-October-03,October,Morning,Agric eggs medium size,1894.42,31,0,0,2,room,34.8,0,0,1,0
+2024-October-03,October,Morning,Beans brown,1085.23,40,0,0,1,room,34.8,0,0,1,1
+2024-October-03,October,Morning,Beans white black eye,1531.43,62,0,0,5,room,34.8,0,0,1,1
+2024-October-03,October,Morning,Beef Bone in,4504.18,50,0,0,5,cold,34.8,0,0,1,0
+2024-October-03,October,Morning,Beef boneless,5704.89,59,0,0,4,cold,34.8,0,0,1,0
+2024-October-03,October,Morning,Catfish (obokun) fresh,4186.2,54,0,0,1,cold,34.8,0,0,1,1
+2024-October-03,October,Morning,Catfish dried,5077.5,46,0,0,2,room,34.8,0,0,1,0
+2024-October-03,October,Morning,Chicken Wings,3822.73,34,0,0,5,cold,34.8,0,0,1,0
+2024-October-03,October,Morning,Tomato,714.47,103,0,1,4,room,34.8,0,1,1,1
+2024-October-03,October,Morning,Onion bulb,763.69,28,0,1,5,room,34.8,0,0,1,1
+2024-October-03,October,Morning,Sweet potato,519.04,10,0,0,3,room,34.8,0,0,1,1
+2024-October-03,October,Morning,Yam tuber,856.79,35,0,0,4,room,34.8,1,0,1,1
+2024-October-03,October,Afternoon,Agric eggs medium size,1374.71,39,0,0,2,room,34.8,0,0,1,1
+2024-October-03,October,Afternoon,Beans brown,1270.66,40,0,0,3,room,34.8,0,0,1,0
+2024-October-03,October,Afternoon,Beans white black eye,1411.8,17,0,0,2,room,34.8,0,0,1,1
+2024-October-03,October,Afternoon,Beef Bone in,4751.8,35,0,0,1,cold,34.8,1,0,1,1
+2024-October-03,October,Afternoon,Beef boneless,4683.98,28,0,0,3,cold,34.8,1,0,1,1
+2024-October-03,October,Afternoon,Catfish (obokun) fresh,4290.79,45,0,0,1,cold,34.8,0,0,1,1
+2024-October-03,October,Afternoon,Catfish dried,5367.11,69,0,0,5,room,34.8,0,0,1,0
+2024-October-03,October,Afternoon,Chicken Wings,3468.05,43,0,0,1,cold,34.8,0,0,1,1
+2024-October-03,October,Afternoon,Tomato,449.13,27,0,1,4,room,34.8,0,0,1,1
+2024-October-03,October,Afternoon,Onion bulb,704.03,30,0,1,3,room,34.8,0,0,1,1
+2024-October-03,October,Afternoon,Sweet potato,632.82,62,0,0,5,room,34.8,0,0,1,0
+2024-October-03,October,Afternoon,Yam tuber,966.07,36,0,0,3,room,34.8,0,0,1,1
+2024-October-03,October,Evening,Agric eggs medium size,1166.04,16,0,0,2,room,34.8,1,0,1,1
+2024-October-03,October,Evening,Beans brown,1222.76,64,0,0,2,room,34.8,0,0,1,0
+2024-October-03,October,Evening,Beans white black eye,796.75,26,0,0,5,room,34.8,0,0,1,1
+2024-October-03,October,Evening,Beef Bone in,2014.2,44,0,0,2,cold,34.8,0,0,1,0
+2024-October-03,October,Evening,Beef boneless,3331.52,38,0,0,1,cold,34.8,0,0,1,0
+2024-October-03,October,Evening,Catfish (obokun) fresh,1939.62,29,0,0,1,cold,34.8,0,0,1,1
+2024-October-03,October,Evening,Catfish dried,4187.11,17,0,0,3,room,34.8,0,0,1,0
+2024-October-03,October,Evening,Chicken Wings,3033.03,34,0,0,3,cold,34.8,0,0,1,1
+2024-October-03,October,Evening,Tomato,464.19,17,0,1,2,room,34.8,0,0,1,1
+2024-October-03,October,Evening,Onion bulb,377.08,29,0,1,1,room,34.8,0,0,1,1
+2024-October-03,October,Evening,Sweet potato,563.01,17,0,0,1,room,34.8,0,0,1,1
+2024-October-03,October,Evening,Yam tuber,745.26,31,0,0,3,room,34.8,0,0,1,0
+2024-October-04,October,Morning,Agric eggs medium size,1782.66,76,0,0,2,room,34.8,0,0,0,1
+2024-October-04,October,Morning,Beans brown,1664.13,56,0,0,4,room,34.8,0,0,0,1
+2024-October-04,October,Morning,Beans white black eye,1095.15,26,0,0,3,room,34.8,1,1,0,1
+2024-October-04,October,Morning,Beef Bone in,4217.77,41,0,0,1,cold,34.8,0,0,0,1
+2024-October-04,October,Morning,Beef boneless,5656.84,70,0,0,5,cold,34.8,0,0,0,0
+2024-October-04,October,Morning,Catfish (obokun) fresh,3487.44,82,0,0,2,cold,34.8,1,0,0,1
+2024-October-04,October,Morning,Catfish dried,5210.2,85,0,0,1,room,34.8,0,0,0,0
+2024-October-04,October,Morning,Chicken Wings,4114.76,95,0,0,4,cold,34.8,0,0,0,1
+2024-October-04,October,Morning,Tomato,857.54,43,0,1,1,room,34.8,0,1,0,1
+2024-October-04,October,Morning,Onion bulb,710.63,59,0,1,5,room,34.8,0,0,0,1
+2024-October-04,October,Morning,Sweet potato,614.97,44,0,0,3,room,34.8,0,1,0,1
+2024-October-04,October,Morning,Yam tuber,829.92,63,0,0,5,room,34.8,0,0,0,1
+2024-October-04,October,Afternoon,Agric eggs medium size,1724.17,50,0,0,1,room,34.8,0,0,0,0
+2024-October-04,October,Afternoon,Beans brown,1401.75,58,0,0,2,room,34.8,0,0,0,0
+2024-October-04,October,Afternoon,Beans white black eye,1212.97,45,0,0,3,room,34.8,0,0,0,1
+2024-October-04,October,Afternoon,Beef Bone in,6586.1,38,0,0,3,cold,34.8,0,1,0,1
+2024-October-04,October,Afternoon,Beef boneless,5171.3,33,0,0,2,cold,34.8,0,0,0,1
+2024-October-04,October,Afternoon,Catfish (obokun) fresh,3438.87,61,0,0,4,cold,34.8,0,1,0,0
+2024-October-04,October,Afternoon,Catfish dried,3871.44,86,0,0,2,room,34.8,1,0,0,1
+2024-October-04,October,Afternoon,Chicken Wings,2773.1,60,0,0,2,cold,34.8,1,0,0,1
+2024-October-04,October,Afternoon,Tomato,525.29,69,0,1,2,room,34.8,1,1,0,1
+2024-October-04,October,Afternoon,Onion bulb,632.77,79,0,1,1,room,34.8,0,0,0,1
+2024-October-04,October,Afternoon,Sweet potato,521.51,35,0,0,2,room,34.8,0,0,0,1
+2024-October-04,October,Afternoon,Yam tuber,911.85,33,0,0,4,room,34.8,0,0,0,0
+2024-October-04,October,Evening,Agric eggs medium size,1104.88,31,0,0,4,room,34.8,0,0,0,1
+2024-October-04,October,Evening,Beans brown,821.05,52,0,0,1,room,34.8,0,0,0,0
+2024-October-04,October,Evening,Beans white black eye,464.96,35,0,0,4,room,34.8,0,0,0,0
+2024-October-04,October,Evening,Beef Bone in,2888.88,30,0,0,1,cold,34.8,0,0,0,0
+2024-October-04,October,Evening,Beef boneless,5268.8,39,0,0,2,cold,34.8,0,0,0,1
+2024-October-04,October,Evening,Catfish (obokun) fresh,3575.56,38,0,0,3,cold,34.8,0,0,0,1
+2024-October-04,October,Evening,Catfish dried,3171.39,25,0,0,3,room,34.8,0,0,0,0
+2024-October-04,October,Evening,Chicken Wings,2487.64,37,0,0,5,cold,34.8,0,0,0,0
+2024-October-04,October,Evening,Tomato,748.45,57,0,1,4,room,34.8,0,0,0,1
+2024-October-04,October,Evening,Onion bulb,476.21,57,0,1,5,room,34.8,0,0,0,1
+2024-October-04,October,Evening,Sweet potato,467.17,58,0,0,1,room,34.8,0,1,0,0
+2024-October-04,October,Evening,Yam tuber,1084.51,40,0,0,4,room,34.8,0,0,0,0
+2024-October-05,October,Morning,Agric eggs medium size,2224.75,78,0,0,5,room,34.8,0,0,1,1
+2024-October-05,October,Morning,Beans brown,1189.85,59,0,0,5,room,34.8,0,0,1,1
+2024-October-05,October,Morning,Beans white black eye,1209.76,43,0,0,1,room,34.8,0,0,1,1
+2024-October-05,October,Morning,Beef Bone in,4530.01,22,0,0,5,cold,34.8,0,0,1,1
+2024-October-05,October,Morning,Beef boneless,4813.52,46,0,0,5,cold,34.8,1,0,1,1
+2024-October-05,October,Morning,Catfish (obokun) fresh,4166.87,12,0,0,3,cold,34.8,0,0,1,1
+2024-October-05,October,Morning,Catfish dried,5210.6,30,0,0,2,room,34.8,0,0,1,0
+2024-October-05,October,Morning,Chicken Wings,3627.37,84,0,0,4,cold,34.8,0,0,1,1
+2024-October-05,October,Morning,Tomato,618.68,44,0,1,3,room,34.8,0,0,1,1
+2024-October-05,October,Morning,Onion bulb,501.81,77,0,1,2,room,34.8,0,0,1,1
+2024-October-05,October,Morning,Sweet potato,572.58,14,0,0,5,room,34.8,0,0,1,1
+2024-October-05,October,Morning,Yam tuber,796.31,32,0,0,1,room,34.8,0,0,1,0
+2024-October-05,October,Afternoon,Agric eggs medium size,1376.74,36,0,0,3,room,34.8,1,0,1,1
+2024-October-05,October,Afternoon,Beans brown,1442.32,14,0,0,3,room,34.8,0,0,1,1
+2024-October-05,October,Afternoon,Beans white black eye,1431.32,26,0,0,4,room,34.8,0,0,1,0
+2024-October-05,October,Afternoon,Beef Bone in,4123.87,23,0,0,2,cold,34.8,0,0,1,0
+2024-October-05,October,Afternoon,Beef boneless,5929.9,35,0,0,1,cold,34.8,0,0,1,1
+2024-October-05,October,Afternoon,Catfish (obokun) fresh,4662.61,82,0,0,5,cold,34.8,0,0,1,0
+2024-October-05,October,Afternoon,Catfish dried,5083.59,22,0,0,4,room,34.8,0,0,1,0
+2024-October-05,October,Afternoon,Chicken Wings,3494.1,45,0,0,1,cold,34.8,0,0,1,1
+2024-October-05,October,Afternoon,Tomato,696.13,21,0,1,4,room,34.8,0,0,1,1
+2024-October-05,October,Afternoon,Onion bulb,696.01,19,0,1,3,room,34.8,0,0,1,1
+2024-October-05,October,Afternoon,Sweet potato,532.79,43,0,0,1,room,34.8,0,0,1,0
+2024-October-05,October,Afternoon,Yam tuber,1109.78,27,0,0,5,room,34.8,0,1,1,1
+2024-October-05,October,Evening,Agric eggs medium size,1014.31,19,0,0,3,room,34.8,0,0,1,0
+2024-October-05,October,Evening,Beans brown,534.25,21,0,0,1,room,34.8,0,0,1,1
+2024-October-05,October,Evening,Beans white black eye,696.55,23,0,0,1,room,34.8,1,0,1,0
+2024-October-05,October,Evening,Beef Bone in,2039.72,23,0,0,2,cold,34.8,0,0,1,0
+2024-October-05,October,Evening,Beef boneless,4106.45,51,0,0,3,cold,34.8,0,0,1,1
+2024-October-05,October,Evening,Catfish (obokun) fresh,3098.91,19,0,0,5,cold,34.8,0,0,1,0
+2024-October-05,October,Evening,Catfish dried,4294.43,21,0,0,2,room,34.8,0,0,1,0
+2024-October-05,October,Evening,Chicken Wings,2221.91,15,0,0,3,cold,34.8,0,0,1,1
+2024-October-05,October,Evening,Tomato,376.76,35,0,1,5,room,34.8,1,0,1,1
+2024-October-05,October,Evening,Onion bulb,701.36,39,0,1,5,room,34.8,0,0,1,0
+2024-October-05,October,Evening,Sweet potato,404.75,21,0,0,5,room,34.8,0,0,1,0
+2024-October-05,October,Evening,Yam tuber,672.04,34,0,0,3,room,34.8,0,0,1,0
+2024-October-06,October,Morning,Agric eggs medium size,1517.35,95,0,0,1,room,34.8,1,0,0,0
+2024-October-06,October,Morning,Beans brown,1062.4,86,0,0,2,room,34.8,0,0,0,0
+2024-October-06,October,Morning,Beans white black eye,1569.68,53,0,0,4,room,34.8,0,0,0,0
+2024-October-06,October,Morning,Beef Bone in,4171.79,84,0,0,5,cold,34.8,0,0,0,1
+2024-October-06,October,Morning,Beef boneless,6170.65,87,0,0,2,cold,34.8,0,0,0,0
+2024-October-06,October,Morning,Catfish (obokun) fresh,4193.63,87,0,0,5,cold,34.8,0,0,0,0
+2024-October-06,October,Morning,Catfish dried,7296.59,76,0,0,3,room,34.8,0,1,0,1
+2024-October-06,October,Morning,Chicken Wings,2989.66,98,0,0,2,cold,34.8,1,0,0,1
+2024-October-06,October,Morning,Tomato,465.07,80,0,1,2,room,34.8,0,0,0,1
+2024-October-06,October,Morning,Onion bulb,832.2,76,0,1,3,room,34.8,0,0,0,1
+2024-October-06,October,Morning,Sweet potato,392.9,89,0,0,5,room,34.8,1,0,0,1
+2024-October-06,October,Morning,Yam tuber,1141.57,57,0,0,3,room,34.8,0,1,0,0
+2024-October-06,October,Afternoon,Agric eggs medium size,2646.84,50,0,0,4,room,34.8,0,1,0,1
+2024-October-06,October,Afternoon,Beans brown,1321.92,54,0,0,2,room,34.8,0,0,0,1
+2024-October-06,October,Afternoon,Beans white black eye,1389.06,45,0,0,2,room,34.8,0,0,0,1
+2024-October-06,October,Afternoon,Beef Bone in,3978.72,51,0,0,5,cold,34.8,0,0,0,0
+2024-October-06,October,Afternoon,Beef boneless,7521.2,20,0,0,2,cold,34.8,0,1,0,0
+2024-October-06,October,Afternoon,Catfish (obokun) fresh,4182.26,63,0,0,1,cold,34.8,0,1,0,1
+2024-October-06,October,Afternoon,Catfish dried,5973.76,29,0,0,5,room,34.8,0,0,0,0
+2024-October-06,October,Afternoon,Chicken Wings,4802.79,35,0,0,3,cold,34.8,0,1,0,0
+2024-October-06,October,Afternoon,Tomato,516.48,40,0,1,4,room,34.8,0,0,0,1
+2024-October-06,October,Afternoon,Onion bulb,638.2,42,0,1,2,room,34.8,0,0,0,1
+2024-October-06,October,Afternoon,Sweet potato,518.37,78,0,0,2,room,34.8,0,0,0,0
+2024-October-06,October,Afternoon,Yam tuber,783.79,45,0,0,2,room,34.8,0,0,0,0
+2024-October-06,October,Evening,Agric eggs medium size,1063.51,26,0,0,2,room,34.8,0,0,0,1
+2024-October-06,October,Evening,Beans brown,700.25,95,0,0,5,room,34.8,1,0,0,0
+2024-October-06,October,Evening,Beans white black eye,882.0,25,0,0,2,room,34.8,0,0,0,0
+2024-October-06,October,Evening,Beef Bone in,2749.1,47,0,0,3,cold,34.8,0,0,0,0
+2024-October-06,October,Evening,Beef boneless,5459.54,48,0,0,5,cold,34.8,0,0,0,0
+2024-October-06,October,Evening,Catfish (obokun) fresh,2804.57,63,0,0,2,cold,34.8,1,0,0,1
+2024-October-06,October,Evening,Catfish dried,3142.53,40,0,0,2,room,34.8,1,0,0,0
+2024-October-06,October,Evening,Chicken Wings,3053.82,37,0,0,2,cold,34.8,0,1,0,0
+2024-October-06,October,Evening,Tomato,386.61,65,0,1,4,room,34.8,1,0,0,1
+2024-October-06,October,Evening,Onion bulb,347.92,38,0,1,3,room,34.8,1,0,0,1
+2024-October-06,October,Evening,Sweet potato,393.54,52,0,0,1,room,34.8,0,0,0,1
+2024-October-06,October,Evening,Yam tuber,644.75,53,0,0,1,room,34.8,0,0,0,0
+2024-October-07,October,Morning,Agric eggs medium size,1879.3,47,0,0,3,room,34.8,0,0,0,1
+2024-October-07,October,Morning,Beans brown,1823.6,31,0,0,5,room,34.8,0,1,0,1
+2024-October-07,October,Morning,Beans white black eye,1062.21,57,0,0,2,room,34.8,0,0,0,0
+2024-October-07,October,Morning,Beef Bone in,3785.39,32,0,0,2,cold,34.8,1,0,0,1
+2024-October-07,October,Morning,Beef boneless,5105.42,71,0,0,3,cold,34.8,1,0,0,0
+2024-October-07,October,Morning,Catfish (obokun) fresh,3780.42,117,0,0,2,cold,34.8,1,0,0,1
+2024-October-07,October,Morning,Catfish dried,5145.31,60,0,0,3,room,34.8,0,0,0,0
+2024-October-07,October,Morning,Chicken Wings,4066.53,50,0,0,5,cold,34.8,0,0,0,1
+2024-October-07,October,Morning,Tomato,818.81,54,0,1,2,room,34.8,0,0,0,1
+2024-October-07,October,Morning,Onion bulb,899.49,30,0,1,5,room,34.8,1,0,0,1
+2024-October-07,October,Morning,Sweet potato,633.62,51,0,0,4,room,34.8,0,0,0,1
+2024-October-07,October,Morning,Yam tuber,820.07,33,0,0,3,room,34.8,0,0,0,0
+2024-October-07,October,Afternoon,Agric eggs medium size,1768.81,57,0,0,1,room,34.8,0,0,0,1
+2024-October-07,October,Afternoon,Beans brown,1487.19,34,0,0,2,room,34.8,0,0,0,0
+2024-October-07,October,Afternoon,Beans white black eye,1305.35,63,0,0,4,room,34.8,0,0,0,1
+2024-October-07,October,Afternoon,Beef Bone in,4863.94,57,0,0,4,cold,34.8,0,0,0,1
+2024-October-07,October,Afternoon,Beef boneless,5042.99,14,0,0,4,cold,34.8,1,0,0,1
+2024-October-07,October,Afternoon,Catfish (obokun) fresh,3513.94,47,0,0,1,cold,34.8,1,1,0,1
+2024-October-07,October,Afternoon,Catfish dried,6089.81,39,0,0,4,room,34.8,0,0,0,1
+2024-October-07,October,Afternoon,Chicken Wings,3558.98,22,0,0,5,cold,34.8,0,0,0,0
+2024-October-07,October,Afternoon,Tomato,670.18,48,0,1,2,room,34.8,0,0,0,0
+2024-October-07,October,Afternoon,Onion bulb,820.45,66,0,1,4,room,34.8,0,0,0,1
+2024-October-07,October,Afternoon,Sweet potato,536.63,90,0,0,2,room,34.8,0,0,0,0
+2024-October-07,October,Afternoon,Yam tuber,1030.65,34,0,0,5,room,34.8,0,0,0,1
+2024-October-07,October,Evening,Agric eggs medium size,1615.0,34,0,0,1,room,34.8,0,0,0,0
+2024-October-07,October,Evening,Beans brown,561.24,39,0,0,5,room,34.8,0,0,0,0
+2024-October-07,October,Evening,Beans white black eye,1110.51,40,0,0,4,room,34.8,0,0,0,0
+2024-October-07,October,Evening,Beef Bone in,1931.57,53,0,0,2,cold,34.8,1,0,0,1
+2024-October-07,October,Evening,Beef boneless,5193.13,53,0,0,4,cold,34.8,0,0,0,0
+2024-October-07,October,Evening,Catfish (obokun) fresh,3930.79,63,0,0,3,cold,34.8,0,1,0,0
+2024-October-07,October,Evening,Catfish dried,3948.35,38,0,0,2,room,34.8,1,0,0,1
+2024-October-07,October,Evening,Chicken Wings,3593.43,44,0,0,5,cold,34.8,0,0,0,0
+2024-October-07,October,Evening,Tomato,442.67,30,0,1,2,room,34.8,0,0,0,1
+2024-October-07,October,Evening,Onion bulb,492.67,51,0,1,5,room,34.8,0,0,0,1
+2024-October-07,October,Evening,Sweet potato,209.58,74,0,0,2,room,34.8,1,0,0,1
+2024-October-07,October,Evening,Yam tuber,561.29,86,0,0,5,room,34.8,0,0,0,1
+2024-October-08,October,Afternoon,Agric eggs medium size,1995.39,72,0,0,4,room,34.8,0,0,0,1
+2024-October-08,October,Afternoon,Beans brown,1601.58,40,0,0,4,room,34.8,0,0,0,1
+2024-October-08,October,Afternoon,Beans white black eye,1615.01,45,0,0,5,room,34.8,0,0,0,0
+2024-October-08,October,Afternoon,Beef Bone in,4807.91,59,0,0,2,cold,34.8,0,0,0,0
+2024-October-08,October,Afternoon,Beef boneless,4341.82,76,0,0,1,cold,34.8,1,0,0,1
+2024-October-08,October,Afternoon,Catfish (obokun) fresh,3992.03,64,0,0,2,cold,34.8,0,0,0,1
+2024-October-08,October,Afternoon,Catfish dried,5856.27,60,0,0,5,room,34.8,0,0,0,0
+2024-October-08,October,Afternoon,Chicken Wings,3867.54,51,0,0,2,cold,34.8,0,0,0,0
+2024-October-08,October,Afternoon,Tomato,658.94,62,0,1,5,room,34.8,0,0,0,1
+2024-October-08,October,Afternoon,Onion bulb,700.49,72,0,1,4,room,34.8,0,0,0,1
+2024-October-08,October,Afternoon,Sweet potato,533.67,20,0,0,4,room,34.8,0,0,0,0
+2024-October-08,October,Afternoon,Yam tuber,844.55,37,0,0,1,room,34.8,0,0,0,0
+2024-October-08,October,Evening,Agric eggs medium size,1582.32,34,0,0,5,room,34.8,0,1,0,1
+2024-October-08,October,Evening,Beans brown,714.61,24,0,0,4,room,34.8,0,0,0,1
+2024-October-08,October,Evening,Beans white black eye,920.62,22,0,0,2,room,34.8,0,0,0,1
+2024-October-08,October,Evening,Beef Bone in,3272.65,35,0,0,2,cold,34.8,0,1,0,0
+2024-October-08,October,Evening,Beef boneless,2647.89,28,0,0,3,cold,34.8,0,0,0,0
+2024-October-08,October,Evening,Catfish (obokun) fresh,3361.36,46,0,0,5,cold,34.8,0,0,0,0
+2024-October-08,October,Evening,Catfish dried,2770.11,62,0,0,1,room,34.8,0,0,0,0
+2024-October-08,October,Evening,Chicken Wings,2263.81,23,0,0,4,cold,34.8,0,0,0,1
+2024-October-08,October,Evening,Tomato,539.3,40,0,1,1,room,34.8,1,0,0,0
+2024-October-08,October,Evening,Onion bulb,414.56,59,0,1,2,room,34.8,0,0,0,1
+2024-October-08,October,Evening,Sweet potato,457.16,36,0,0,5,room,34.8,0,0,0,0
+2024-October-08,October,Evening,Yam tuber,494.36,67,0,0,1,room,34.8,1,0,0,0
+2024-October-09,October,Morning,Agric eggs medium size,1547.27,35,0,0,1,room,34.8,1,0,0,1
+2024-October-09,October,Morning,Beans brown,1111.82,30,0,0,2,room,34.8,0,0,0,1
+2024-October-09,October,Morning,Beans white black eye,985.38,59,0,0,1,room,34.8,0,0,0,1
+2024-October-09,October,Morning,Beef Bone in,3666.0,78,0,0,4,cold,34.8,1,0,0,0
+2024-October-09,October,Morning,Beef boneless,6271.4,70,0,0,1,cold,34.8,0,0,0,0
+2024-October-09,October,Morning,Catfish (obokun) fresh,4915.94,42,0,0,1,cold,34.8,0,0,0,1
+2024-October-09,October,Morning,Catfish dried,7604.17,50,0,0,4,room,34.8,0,0,0,1
+2024-October-09,October,Morning,Chicken Wings,3933.13,40,0,0,2,cold,34.8,0,0,0,1
+2024-October-09,October,Morning,Tomato,672.8,67,0,1,3,room,34.8,0,0,0,1
+2024-October-09,October,Morning,Onion bulb,567.53,67,0,1,2,room,34.8,0,0,0,1
+2024-October-09,October,Morning,Sweet potato,554.82,64,0,0,2,room,34.8,0,0,0,1
+2024-October-09,October,Morning,Yam tuber,998.0,52,0,0,3,room,34.8,0,0,0,1
+2024-October-09,October,Evening,Agric eggs medium size,1055.44,17,0,0,2,room,34.8,0,0,0,1
+2024-October-09,October,Evening,Beans brown,1113.69,34,0,0,3,room,34.8,1,0,0,0
+2024-October-09,October,Evening,Beans white black eye,910.07,24,0,0,1,room,34.8,0,0,0,0
+2024-October-09,October,Evening,Beef Bone in,2931.45,60,0,0,5,cold,34.8,0,0,0,0
+2024-October-09,October,Evening,Beef boneless,3316.44,58,0,0,3,cold,34.8,0,0,0,0
+2024-October-09,October,Evening,Catfish (obokun) fresh,3904.72,23,0,0,1,cold,34.8,0,0,0,0
+2024-October-09,October,Evening,Catfish dried,3712.38,46,0,0,1,room,34.8,0,0,0,0
+2024-October-09,October,Evening,Chicken Wings,2374.56,36,0,0,5,cold,34.8,0,0,0,1
+2024-October-09,October,Evening,Tomato,376.76,41,0,1,1,room,34.8,0,0,0,1
+2024-October-09,October,Evening,Onion bulb,815.45,46,0,1,4,room,34.8,0,0,0,0
+2024-October-09,October,Evening,Sweet potato,228.42,36,0,0,3,room,34.8,0,0,0,1
+2024-October-09,October,Evening,Yam tuber,951.87,40,0,0,5,room,34.8,0,1,0,0
+2024-October-10,October,Morning,Agric eggs medium size,1829.65,45,0,0,2,room,34.8,0,0,0,0
+2024-October-10,October,Morning,Beans brown,1843.5,86,0,0,5,room,34.8,0,0,0,1
+2024-October-10,October,Morning,Beans white black eye,1072.11,27,0,0,2,room,34.8,0,0,0,1
+2024-October-10,October,Morning,Beef Bone in,4457.38,36,0,0,5,cold,34.8,0,0,0,1
+2024-October-10,October,Morning,Beef boneless,5594.42,61,0,0,2,cold,34.8,0,0,0,0
+2024-October-10,October,Morning,Catfish (obokun) fresh,3155.82,48,0,0,4,cold,34.8,0,0,0,1
+2024-October-10,October,Morning,Catfish dried,5680.02,76,0,0,1,room,34.8,0,0,0,1
+2024-October-10,October,Morning,Chicken Wings,3705.77,52,0,0,4,cold,34.8,0,0,0,1
+2024-October-10,October,Morning,Tomato,658.83,60,0,1,2,room,34.8,0,0,0,1
+2024-October-10,October,Morning,Onion bulb,810.81,67,0,1,5,room,34.8,0,0,0,1
+2024-October-10,October,Morning,Sweet potato,761.88,62,0,0,4,room,34.8,1,1,0,1
+2024-October-10,October,Morning,Yam tuber,857.06,113,0,0,3,room,34.8,0,1,0,1
+2024-October-10,October,Afternoon,Agric eggs medium size,1832.26,30,0,0,1,room,34.8,0,0,0,0
+2024-October-10,October,Afternoon,Beans brown,1390.87,30,0,0,4,room,34.8,0,0,0,0
+2024-October-10,October,Afternoon,Beans white black eye,1547.15,41,0,0,4,room,34.8,0,1,0,0
+2024-October-10,October,Afternoon,Beef Bone in,3948.02,51,0,0,3,cold,34.8,0,0,0,0
+2024-October-10,October,Afternoon,Beef boneless,6160.84,76,0,0,3,cold,34.8,0,0,0,0
+2024-October-10,October,Afternoon,Catfish (obokun) fresh,4134.83,21,0,0,1,cold,34.8,0,0,0,1
+2024-October-10,October,Afternoon,Catfish dried,5624.52,45,0,0,3,room,34.8,0,0,0,1
+2024-October-10,October,Afternoon,Chicken Wings,4008.1,52,0,0,2,cold,34.8,0,0,0,0
+2024-October-10,October,Afternoon,Tomato,604.4,57,0,1,3,room,34.8,0,0,0,1
+2024-October-10,October,Afternoon,Onion bulb,681.61,48,0,1,5,room,34.8,0,0,0,1
+2024-October-10,October,Afternoon,Sweet potato,523.94,54,0,0,1,room,34.8,0,0,0,0
+2024-October-10,October,Afternoon,Yam tuber,788.89,21,0,0,1,room,34.8,0,0,0,1
+2024-October-10,October,Evening,Agric eggs medium size,1054.41,21,0,0,4,room,34.8,0,0,0,0
+2024-October-10,October,Evening,Beans brown,698.53,35,0,0,1,room,34.8,0,0,0,0
+2024-October-10,October,Evening,Beans white black eye,480.34,47,0,0,5,room,34.8,0,0,0,1
+2024-October-10,October,Evening,Beef Bone in,2880.72,42,0,0,4,cold,34.8,0,0,0,0
+2024-October-10,October,Evening,Beef boneless,4796.4,26,0,0,1,cold,34.8,0,0,0,1
+2024-October-10,October,Evening,Catfish (obokun) fresh,1297.07,37,0,0,4,cold,34.8,1,0,0,1
+2024-October-10,October,Evening,Catfish dried,3071.61,51,0,0,1,room,34.8,0,0,0,0
+2024-October-10,October,Evening,Chicken Wings,2042.15,28,0,0,2,cold,34.8,1,0,0,0
+2024-October-10,October,Evening,Tomato,376.76,71,0,1,5,room,34.8,0,0,0,1
+2024-October-10,October,Evening,Onion bulb,578.05,53,0,1,4,room,34.8,0,0,0,1
+2024-October-10,October,Evening,Sweet potato,284.73,20,0,0,2,room,34.8,0,0,0,0
+2024-October-10,October,Evening,Yam tuber,486.77,37,0,0,1,room,34.8,1,0,0,0
+2024-October-11,October,Morning,Agric eggs medium size,1923.02,68,0,0,4,room,34.8,0,0,0,1
+2024-October-11,October,Morning,Beans brown,1004.2,76,0,0,5,room,34.8,0,0,0,1
+2024-October-11,October,Morning,Beans white black eye,1599.29,72,0,0,2,room,34.8,0,1,0,1
+2024-October-11,October,Morning,Beef Bone in,4189.55,81,0,0,3,cold,34.8,0,0,0,1
+2024-October-11,October,Morning,Beef boneless,5426.04,11,0,0,2,cold,34.8,0,0,0,1
+2024-October-11,October,Morning,Catfish (obokun) fresh,3759.79,99,0,0,2,cold,34.8,1,0,0,0
+2024-October-11,October,Morning,Catfish dried,7275.54,71,0,0,2,room,34.8,0,1,0,1
+2024-October-11,October,Morning,Chicken Wings,4051.21,56,0,0,3,cold,34.8,0,1,0,1
+2024-October-11,October,Morning,Tomato,786.34,33,0,1,4,room,34.8,0,0,0,1
+2024-October-11,October,Morning,Onion bulb,570.56,52,0,1,3,room,34.8,0,0,0,1
+2024-October-11,October,Morning,Sweet potato,471.73,53,0,0,2,room,34.8,0,0,0,1
+2024-October-11,October,Morning,Yam tuber,935.04,61,0,0,2,room,34.8,0,0,0,1
+2024-October-11,October,Afternoon,Agric eggs medium size,1631.44,56,0,0,1,room,34.8,0,0,0,1
+2024-October-11,October,Afternoon,Beans brown,1071.41,47,0,0,2,room,34.8,0,0,0,1
+2024-October-11,October,Afternoon,Beans white black eye,1256.87,33,0,0,2,room,34.8,0,0,0,1
+2024-October-11,October,Afternoon,Beef Bone in,5345.88,43,0,0,1,cold,34.8,0,1,0,0
+2024-October-11,October,Afternoon,Beef boneless,5210.78,43,0,0,3,cold,34.8,1,0,0,0
+2024-October-11,October,Afternoon,Catfish (obokun) fresh,3373.34,54,0,0,2,cold,34.8,0,0,0,1
+2024-October-11,October,Afternoon,Catfish dried,4595.09,44,0,0,2,room,34.8,0,0,0,0
+2024-October-11,October,Afternoon,Chicken Wings,3727.54,39,0,0,1,cold,34.8,0,0,0,0
+2024-October-11,October,Afternoon,Tomato,590.14,36,0,1,5,room,34.8,0,0,0,1
+2024-October-11,October,Afternoon,Onion bulb,814.24,67,0,1,2,room,34.8,0,0,0,1
+2024-October-11,October,Afternoon,Sweet potato,574.85,31,0,0,2,room,34.8,0,0,0,1
+2024-October-11,October,Afternoon,Yam tuber,858.04,38,0,0,1,room,34.8,0,0,0,1
+2024-October-11,October,Evening,Agric eggs medium size,1948.66,44,0,0,3,room,34.8,0,0,0,1
+2024-October-11,October,Evening,Beans brown,1090.51,17,0,0,2,room,34.8,0,0,0,1
+2024-October-11,October,Evening,Beans white black eye,1347.59,28,0,0,5,room,34.8,0,0,0,0
+2024-October-11,October,Evening,Beef Bone in,2609.17,46,0,0,3,cold,34.8,0,0,0,0
+2024-October-11,October,Evening,Beef boneless,3889.45,32,0,0,1,cold,34.8,0,0,0,0
+2024-October-11,October,Evening,Catfish (obokun) fresh,2100.06,24,0,0,5,cold,34.8,0,0,0,1
+2024-October-11,October,Evening,Catfish dried,2638.56,68,0,0,3,room,34.8,1,0,0,1
+2024-October-11,October,Evening,Chicken Wings,2857.58,17,0,0,4,cold,34.8,0,0,0,0
+2024-October-11,October,Evening,Tomato,1023.3,39,0,1,5,room,34.8,0,0,0,1
+2024-October-11,October,Evening,Onion bulb,580.7,32,0,1,2,room,34.8,0,0,0,1
+2024-October-11,October,Evening,Sweet potato,419.79,29,0,0,2,room,34.8,0,1,0,1
+2024-October-11,October,Evening,Yam tuber,651.1,56,0,0,4,room,34.8,0,0,0,0
+2024-October-12,October,Morning,Agric eggs medium size,1907.96,84,0,0,1,room,34.8,0,1,0,0
+2024-October-12,October,Morning,Beans brown,1724.81,103,0,0,4,room,34.8,0,1,0,1
+2024-October-12,October,Morning,Beans white black eye,1323.24,61,0,0,1,room,34.8,0,1,0,1
+2024-October-12,October,Morning,Beef Bone in,4554.95,45,0,0,5,cold,34.8,0,0,0,1
+2024-October-12,October,Morning,Beef boneless,5081.37,85,0,0,5,cold,34.8,0,0,0,1
+2024-October-12,October,Morning,Catfish (obokun) fresh,5500.84,54,0,0,1,cold,34.8,0,1,0,1
+2024-October-12,October,Morning,Catfish dried,6276.15,84,0,0,4,room,34.8,1,0,0,1
+2024-October-12,October,Morning,Chicken Wings,3468.68,67,0,0,2,cold,34.8,1,0,0,1
+2024-October-12,October,Morning,Tomato,708.76,51,0,1,2,room,34.8,0,0,0,1
+2024-October-12,October,Morning,Onion bulb,617.1,88,0,1,1,room,34.8,1,0,0,1
+2024-October-12,October,Morning,Sweet potato,457.1,42,0,0,1,room,34.8,0,1,0,1
+2024-October-12,October,Morning,Yam tuber,1053.37,56,0,0,5,room,34.8,0,0,0,1
+2024-October-12,October,Afternoon,Agric eggs medium size,2148.77,56,0,0,3,room,34.8,0,1,0,1
+2024-October-12,October,Afternoon,Beans brown,1288.24,47,0,0,1,room,34.8,0,0,0,0
+2024-October-12,October,Afternoon,Beans white black eye,1334.02,46,0,0,2,room,34.8,0,0,0,1
+2024-October-12,October,Afternoon,Beef Bone in,4219.84,43,0,0,2,cold,34.8,0,0,0,1
+2024-October-12,October,Afternoon,Beef boneless,4309.9,33,0,0,4,cold,34.8,1,0,0,0
+2024-October-12,October,Afternoon,Catfish (obokun) fresh,3660.41,32,0,0,4,cold,34.8,0,0,0,1
+2024-October-12,October,Afternoon,Catfish dried,5683.87,57,0,0,5,room,34.8,0,0,0,1
+2024-October-12,October,Afternoon,Chicken Wings,4466.78,61,0,0,5,cold,34.8,0,1,0,0
+2024-October-12,October,Afternoon,Tomato,604.66,70,0,1,4,room,34.8,1,0,0,1
+2024-October-12,October,Afternoon,Onion bulb,701.28,28,0,1,3,room,34.8,0,0,0,1
+2024-October-12,October,Afternoon,Sweet potato,569.4,49,0,0,5,room,34.8,0,0,0,0
+2024-October-12,October,Afternoon,Yam tuber,975.76,60,0,0,2,room,34.8,0,1,0,1
+2024-October-12,October,Evening,Agric eggs medium size,1036.19,47,0,0,2,room,34.8,0,0,0,1
+2024-October-12,October,Evening,Beans brown,1142.13,54,0,0,3,room,34.8,0,0,0,0
+2024-October-12,October,Evening,Beans white black eye,825.59,38,0,0,3,room,34.8,0,0,0,0
+2024-October-12,October,Evening,Beef Bone in,4160.4,70,0,0,1,cold,34.8,0,0,0,0
+2024-October-12,October,Evening,Beef boneless,4261.19,47,0,0,5,cold,34.8,0,0,0,1
+2024-October-12,October,Evening,Catfish (obokun) fresh,2111.22,55,0,0,4,cold,34.8,0,0,0,1
+2024-October-12,October,Evening,Catfish dried,4557.09,33,0,0,2,room,34.8,0,0,0,0
+2024-October-12,October,Evening,Chicken Wings,2383.32,39,0,0,4,cold,34.8,0,0,0,0
+2024-October-12,October,Evening,Tomato,604.66,58,0,1,5,room,34.8,0,1,0,0
+2024-October-12,October,Evening,Onion bulb,730.3,53,0,1,3,room,34.8,0,1,0,1
+2024-October-12,October,Evening,Sweet potato,628.0,49,0,0,5,room,34.8,0,1,0,1
+2024-October-12,October,Evening,Yam tuber,973.16,49,0,0,2,room,34.8,0,0,0,0
+2024-October-13,October,Morning,Agric eggs medium size,1844.64,89,0,0,4,room,34.8,1,0,0,1
+2024-October-13,October,Morning,Beans brown,1037.06,69,0,0,3,room,34.8,1,0,0,1
+2024-October-13,October,Morning,Beans white black eye,1388.2,48,0,0,5,room,34.8,0,1,0,1
+2024-October-13,October,Morning,Beef Bone in,4334.72,62,0,0,2,cold,34.8,1,0,0,1
+2024-October-13,October,Morning,Beef boneless,5820.16,70,0,0,5,cold,34.8,1,1,0,1
+2024-October-13,October,Morning,Catfish (obokun) fresh,3840.56,73,0,0,2,cold,34.8,0,1,0,1
+2024-October-13,October,Morning,Catfish dried,5707.76,78,0,0,4,room,34.8,1,0,0,1
+2024-October-13,October,Morning,Chicken Wings,2992.71,69,0,0,2,cold,34.8,0,0,0,0
+2024-October-13,October,Morning,Tomato,598.43,34,0,1,5,room,34.8,0,0,0,1
+2024-October-13,October,Morning,Onion bulb,967.22,100,0,1,4,room,34.8,1,1,0,1
+2024-October-13,October,Morning,Sweet potato,630.62,59,0,0,3,room,34.8,0,0,0,1
+2024-October-13,October,Morning,Yam tuber,777.09,100,0,0,1,room,34.8,0,0,0,1
+2024-October-13,October,Afternoon,Agric eggs medium size,1637.05,18,0,0,3,room,34.8,1,0,0,1
+2024-October-13,October,Afternoon,Beans brown,1315.42,51,0,0,3,room,34.8,0,0,0,1
+2024-October-13,October,Afternoon,Beans white black eye,1287.33,72,0,0,1,room,34.8,0,0,0,0
+2024-October-13,October,Afternoon,Beef Bone in,4513.9,55,0,0,2,cold,34.8,0,0,0,0
+2024-October-13,October,Afternoon,Beef boneless,5080.44,72,0,0,4,cold,34.8,0,0,0,1
+2024-October-13,October,Afternoon,Catfish (obokun) fresh,3251.21,38,0,0,1,cold,34.8,0,0,0,1
+2024-October-13,October,Afternoon,Catfish dried,5174.63,59,0,0,2,room,34.8,0,0,0,0
+2024-October-13,October,Afternoon,Chicken Wings,3637.01,57,0,0,5,cold,34.8,0,0,0,1
+2024-October-13,October,Afternoon,Tomato,662.12,59,0,1,5,room,34.8,0,0,0,1
+2024-October-13,October,Afternoon,Onion bulb,574.88,63,0,1,2,room,34.8,0,0,0,1
+2024-October-13,October,Afternoon,Sweet potato,489.39,74,0,0,1,room,34.8,1,0,0,1
+2024-October-13,October,Afternoon,Yam tuber,921.89,49,0,0,2,room,34.8,0,0,0,1
+2024-October-13,October,Evening,Agric eggs medium size,1592.5,57,0,0,2,room,34.8,0,1,0,0
+2024-October-13,October,Evening,Beans brown,741.02,21,0,0,1,room,34.8,0,0,0,1
+2024-October-13,October,Evening,Beans white black eye,912.35,64,0,0,3,room,34.8,0,0,0,1
+2024-October-13,October,Evening,Beef Bone in,3115.96,32,0,0,4,cold,34.8,0,0,0,0
+2024-October-13,October,Evening,Beef boneless,3398.31,36,0,0,4,cold,34.8,0,0,0,1
+2024-October-13,October,Evening,Catfish (obokun) fresh,3655.04,26,0,0,2,cold,34.8,0,0,0,0
+2024-October-13,October,Evening,Catfish dried,3793.84,79,0,0,2,room,34.8,1,0,0,0
+2024-October-13,October,Evening,Chicken Wings,1277.07,38,0,0,1,cold,34.8,1,0,0,1
+2024-October-13,October,Evening,Tomato,524.37,17,0,1,4,room,34.8,0,0,0,1
+2024-October-13,October,Evening,Onion bulb,667.84,35,0,1,3,room,34.8,0,0,0,1
+2024-October-13,October,Evening,Sweet potato,367.65,25,0,0,3,room,34.8,0,0,0,1
+2024-October-13,October,Evening,Yam tuber,701.28,58,0,0,2,room,34.8,0,0,0,0
+2024-October-14,October,Morning,Agric eggs medium size,1677.03,76,0,0,3,room,34.8,0,0,0,0
+2024-October-14,October,Morning,Beans brown,1385.86,59,0,0,5,room,34.8,0,0,0,1
+2024-October-14,October,Morning,Beans white black eye,1110.85,51,0,0,2,room,34.8,0,0,0,0
+2024-October-14,October,Morning,Beef Bone in,4392.21,67,0,0,3,cold,34.8,0,0,0,0
+2024-October-14,October,Morning,Beef boneless,4221.92,66,0,0,2,cold,34.8,0,0,0,0
+2024-October-14,October,Morning,Catfish (obokun) fresh,4387.23,48,0,0,4,cold,34.8,0,0,0,1
+2024-October-14,October,Morning,Catfish dried,5264.22,134,0,0,3,room,34.8,1,0,0,1
+2024-October-14,October,Morning,Chicken Wings,3443.56,60,0,0,4,cold,34.8,0,0,0,1
+2024-October-14,October,Morning,Tomato,554.11,74,0,1,3,room,34.8,0,0,0,1
+2024-October-14,October,Morning,Onion bulb,966.48,57,0,1,3,room,34.8,0,0,0,1
+2024-October-14,October,Morning,Sweet potato,634.29,10,0,0,1,room,34.8,0,1,0,0
+2024-October-14,October,Morning,Yam tuber,675.85,70,0,0,1,room,34.8,1,0,0,1
+2024-October-14,October,Afternoon,Agric eggs medium size,1872.43,45,0,0,5,room,34.8,0,0,0,1
+2024-October-14,October,Afternoon,Beans brown,1381.51,55,0,0,5,room,34.8,0,0,0,0
+2024-October-14,October,Afternoon,Beans white black eye,1568.02,71,0,0,5,room,34.8,0,0,0,0
+2024-October-14,October,Afternoon,Beef Bone in,4509.4,12,0,0,1,cold,34.8,0,0,0,1
+2024-October-14,October,Afternoon,Beef boneless,5112.87,36,0,0,3,cold,34.8,0,0,0,1
+2024-October-14,October,Afternoon,Catfish (obokun) fresh,3638.84,14,0,0,1,cold,34.8,0,0,0,0
+2024-October-14,October,Afternoon,Catfish dried,5304.16,94,0,0,4,room,34.8,1,0,0,1
+2024-October-14,October,Afternoon,Chicken Wings,5366.43,38,0,0,3,cold,34.8,0,1,0,1
+2024-October-14,October,Afternoon,Tomato,575.06,22,0,1,3,room,34.8,0,0,0,1
+2024-October-14,October,Afternoon,Onion bulb,763.2,60,0,1,5,room,34.8,0,0,0,1
+2024-October-14,October,Afternoon,Sweet potato,444.93,97,0,0,2,room,34.8,1,0,0,0
+2024-October-14,October,Afternoon,Yam tuber,854.43,70,0,0,2,room,34.8,0,0,0,1
+2024-October-14,October,Evening,Agric eggs medium size,1233.76,83,0,0,2,room,34.8,0,0,0,0
+2024-October-14,October,Evening,Beans brown,938.73,30,0,0,5,room,34.8,0,1,0,1
+2024-October-14,October,Evening,Beans white black eye,832.15,33,0,0,2,room,34.8,0,0,0,0
+2024-October-14,October,Evening,Beef Bone in,3169.36,30,0,0,5,cold,34.8,0,0,0,0
+2024-October-14,October,Evening,Beef boneless,4558.25,55,0,0,3,cold,34.8,0,0,0,0
+2024-October-14,October,Evening,Catfish (obokun) fresh,2859.01,32,0,0,4,cold,34.8,1,0,0,1
+2024-October-14,October,Evening,Catfish dried,3635.13,73,0,0,5,room,34.8,0,0,0,0
+2024-October-14,October,Evening,Chicken Wings,2360.9,30,0,0,2,cold,34.8,0,0,0,0
+2024-October-14,October,Evening,Tomato,738.01,39,0,1,3,room,34.8,0,0,0,0
+2024-October-14,October,Evening,Onion bulb,852.69,28,0,1,5,room,34.8,0,0,0,1
+2024-October-14,October,Evening,Sweet potato,513.37,44,0,0,4,room,34.8,0,0,0,0
+2024-October-14,October,Evening,Yam tuber,525.22,24,0,0,1,room,34.8,0,0,0,0
+2024-October-15,October,Morning,Agric eggs medium size,1842.1,60,0,0,4,room,34.8,0,0,0,1
+2024-October-15,October,Morning,Beans brown,1292.38,72,0,0,3,room,34.8,0,0,0,0
+2024-October-15,October,Morning,Beans white black eye,1066.59,54,0,0,2,room,34.8,0,0,0,1
+2024-October-15,October,Morning,Beef Bone in,3855.55,78,0,0,3,cold,34.8,1,0,0,1
+2024-October-15,October,Morning,Beef boneless,6067.86,62,0,0,3,cold,34.8,1,0,0,1
+2024-October-15,October,Morning,Catfish (obokun) fresh,3998.77,125,0,0,1,cold,34.8,1,0,0,1
+2024-October-15,October,Morning,Catfish dried,6030.7,84,0,0,1,room,34.8,0,0,0,1
+2024-October-15,October,Morning,Chicken Wings,4357.7,43,0,0,2,cold,34.8,0,0,0,0
+2024-October-15,October,Morning,Tomato,655.24,65,0,1,1,room,34.8,0,0,0,1
+2024-October-15,October,Morning,Onion bulb,823.71,40,0,1,4,room,34.8,0,0,0,1
+2024-October-15,October,Morning,Sweet potato,572.54,65,0,0,4,room,34.8,0,0,0,1
+2024-October-15,October,Morning,Yam tuber,804.39,62,0,0,3,room,34.8,0,0,0,1
+2024-October-15,October,Afternoon,Agric eggs medium size,1692.63,81,0,0,5,room,34.8,1,0,0,1
+2024-October-15,October,Afternoon,Beans brown,1312.48,13,0,0,1,room,34.8,0,0,0,1
+2024-October-15,October,Afternoon,Beans white black eye,1368.61,63,0,0,3,room,34.8,1,0,0,0
+2024-October-15,October,Afternoon,Beef Bone in,4190.0,55,0,0,3,cold,34.8,1,0,0,1
+2024-October-15,October,Afternoon,Beef boneless,5374.34,55,0,0,4,cold,34.8,0,0,0,1
+2024-October-15,October,Afternoon,Catfish (obokun) fresh,4407.5,83,0,0,3,cold,34.8,0,0,0,1
+2024-October-15,October,Afternoon,Catfish dried,4235.29,67,0,0,1,room,34.8,1,0,0,0
+2024-October-15,October,Afternoon,Chicken Wings,3899.09,55,0,0,2,cold,34.8,0,0,0,0
+2024-October-15,October,Afternoon,Tomato,697.95,35,0,1,4,room,34.8,0,0,0,1
+2024-October-15,October,Afternoon,Onion bulb,517.2,28,0,1,2,room,34.8,0,0,0,1
+2024-October-15,October,Afternoon,Sweet potato,503.84,57,0,0,2,room,34.8,0,0,0,1
+2024-October-15,October,Afternoon,Yam tuber,1151.09,64,0,0,5,room,34.8,0,0,0,0
+2024-October-15,October,Evening,Agric eggs medium size,1163.6,41,0,0,4,room,34.8,0,0,0,1
+2024-October-15,October,Evening,Beans brown,1340.75,50,0,0,5,room,34.8,0,0,0,0
+2024-October-15,October,Evening,Beans white black eye,605.18,46,0,0,1,room,34.8,0,0,0,0
+2024-October-15,October,Evening,Beef Bone in,3143.74,46,0,0,3,cold,34.8,0,0,0,0
+2024-October-15,October,Evening,Beef boneless,4429.14,28,0,0,2,cold,34.8,0,0,0,0
+2024-October-15,October,Evening,Catfish (obokun) fresh,2741.05,50,0,0,5,cold,34.8,1,0,0,0
+2024-October-15,October,Evening,Catfish dried,3530.34,28,0,0,5,room,34.8,0,0,0,1
+2024-October-15,October,Evening,Chicken Wings,2356.97,69,0,0,4,cold,34.8,0,1,0,0
+2024-October-15,October,Evening,Tomato,710.12,74,0,1,3,room,34.8,1,0,0,1
+2024-October-15,October,Evening,Onion bulb,548.11,49,0,1,3,room,34.8,0,0,0,1
+2024-October-15,October,Evening,Sweet potato,427.82,28,0,0,5,room,34.8,0,0,0,1
+2024-October-15,October,Evening,Yam tuber,757.28,25,0,0,1,room,34.8,0,0,0,1
