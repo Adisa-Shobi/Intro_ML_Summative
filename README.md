@@ -75,3 +75,7 @@ Model 3 employed L1 regularization, which adds the absolute values of the weight
 Model 4 utilized a combination of L1 and L2 regularization techniques, leveraging the strengths of both methods. L1 regularization helped identify the most informative features, while L2 regularization controlled the model's complexity and prevented overfitting. The combined effect allowed Model 4 to strike a balance between feature selection and weight regularization. As a result, Model 4 achieved the highest accuracy (0.66), F1 score (0.69), and total positive predictions (206) among the neural network models. The improved performance highlights the effectiveness of carefully combining regularization techniques to optimize model performance.
 
 In conclusion, the choice of regularization technique significantly impacted the performance of the neural network models. L1 regularization helped with feature selection, L2 regularization controlled model complexity, and the combination of L1 and L2 in Model 4 provided the best balance, leading to superior performance. These results demonstrate the importance of selecting appropriate regularization methods and tuning hyperparameters to achieve optimal model performance.
+
+## Video
+
+[Watch the video explanation](https://drive.google.com/file/d/1S6Xd3CwgVb1CUTB0sddz8SHY168spUnD/view?usp=sharing)
